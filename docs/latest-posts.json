@@ -1,10 +1,74 @@
 {
-  "generated_at": "2026-11-15T18:26:01.460806Z",
+  "generated_at": "2026-11-15T23:22:34.658861Z",
   "feed_count": 358,
-  "successful_feeds": 333,
-  "failed_feeds": 25,
+  "successful_feeds": 331,
+  "failed_feeds": 27,
   "post_count": 20,
   "posts": [
+    {
+      "blog_title": "情報の灯台",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/pinterest-rss/",
+      "post_title": "Microsoft 365障害、ドイツのホテルで15人が塩素ガス中毒。警報メールが届かず",
+      "post_url": "https://joho-todai.com/microsoft-365-outage-hotel-chlorine-gas-poisoning/",
+      "published": "2026-11-15T23:13:53Z"
+    },
+    {
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "Josh Marshall: Why Eliminating the Electoral College Is ‘a Big Mistake’",
+      "post_url": "https://talkingpointsmemo.com/edblog/back-to-the-electoral-college-and-why-getting-rid-of-it-is-a-big-mistake",
+      "published": "2026-11-15T22:15:18Z"
+    },
+    {
+      "blog_title": "Joelchrono's blog",
+      "blog_url": "https://joelchrono.xyz/",
+      "feed_url": "https://joelchrono.xyz/feed.xml",
+      "post_title": "Strange Jigsaws",
+      "post_url": "https://joelchrono.xyz/blog/strange-jigsaws/",
+      "published": "2026-11-15T22:11:48Z"
+    },
+    {
+      "blog_title": "Frostilyte Writes",
+      "blog_url": "https://frostilyte.ca/",
+      "feed_url": "https://frostilyte.ca/feed/",
+      "post_title": "A Low-Tier Playthrough of Pokémon Silver: Part 10 (Finale)",
+      "post_url": "https://frostilyte.ca/2026/11/15/a-low-tier-playthrough-of-pokemon-silver-part-10-finale/",
+      "published": "2026-11-15T21:10:48Z"
+    },
+    {
+      "blog_title": "Toby Geeks Out",
+      "blog_url": "https://tobygeeksout.micro.blog/",
+      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
+      "post_title": "🎬 The End of Oak Street (2026)",
+      "post_url": "https://tobygeeksout.micro.blog/2026/11/15/the-end-of-oak-street.html",
+      "published": "2026-11-15T21:05:05Z"
+    },
+    {
+      "blog_title": "スナックエルベ",
+      "blog_url": "https://elve.club/",
+      "feed_url": "https://elve.club/feed",
+      "post_title": "無事に下山するまでが「登山」ってコト！？",
+      "post_url": "https://elve.club/entry/2026/11/16/060000?utm_source=feed",
+      "published": "2026-11-15T21:00:00Z"
+    },
+    {
+      "blog_title": "ThinkRoot",
+      "blog_url": "https://thinkroot.xyz/",
+      "feed_url": "https://thinkroot.xyz/feed.php",
+      "post_title": "Am făcut o sală de jocuri pe jurnal",
+      "post_url": "https://thinkroot.xyz/jurnal/am-facut-o-sala-de-jocuri-pe-jurnal",
+      "published": "2026-11-15T20:58:00Z"
+    },
+    {
+      "blog_title": "Newsonaut",
+      "blog_url": "https://www.newsonaut.com/",
+      "feed_url": "https://www.newsonaut.com/rss",
+      "post_title": "Re: Replies instead of comments",
+      "post_url": "https://www.newsonaut.com/articles/re-replies-instead-of-comments",
+      "published": "2026-11-15T18:36:03Z"
+    },
     {
       "blog_title": "Pretend Typewriter",
       "blog_url": "https://pretendtypewriter.net/",
@@ -30,12 +94,12 @@
       "published": "2026-11-15T17:00:00Z"
     },
     {
-      "blog_title": "Toby Geeks Out",
-      "blog_url": "https://tobygeeksout.micro.blog/",
-      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
-      "post_title": "Mocha Latte",
-      "post_url": "https://tobygeeksout.micro.blog/2026/11/15/mocha-latte.html",
-      "published": "2026-11-15T16:24:35Z"
+      "blog_title": "The Ancient Gaming Noob",
+      "blog_url": "https://tagn.wordpress.com/",
+      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
+      "post_title": "TAGN Fantasy Critic League 2026 – Week Forty-Six and Warhammer Survivors",
+      "post_url": "https://tagn.wordpress.com/2026/11/15/tagn-fantasy-critic-league-2026-week-forty-six-and-warhammer-survivors/",
+      "published": "2026-11-15T16:15:12Z"
     },
     {
       "blog_title": "Yordi - A Lifelong Journey of Growth",
@@ -51,14 +115,6 @@
       "feed_url": "https://joho-todai.com/en/rss/",
       "post_title": "NetChoice Sues Over New York Social Media Warning-Label Law: Unavoidable Notices Cover 75% of the Screen",
       "post_url": "https://joho-todai.com/en/netchoice-sues-new-york-sns-warning-law/",
-      "published": "2026-11-15T14:33:58Z"
-    },
-    {
-      "blog_title": "情報の灯台",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "NetChoice、ニューヨーク州のSNS「警告表示」法を提訴。画面75%を覆う通知、利用者は回避不可",
-      "post_url": "https://joho-todai.com/netchoice-sues-new-york-sns-warning-law/",
       "published": "2026-11-15T14:33:58Z"
     },
     {
@@ -108,62 +164,6 @@
       "post_title": "immouseable",
       "post_url": "https://www.omz13.com/fieldnotes/immouseable",
       "published": "2026-11-15T10:25:00Z"
-    },
-    {
-      "blog_title": "Rishi Dass",
-      "blog_url": "https://rishidass.net",
-      "feed_url": "https://rishidass.net/posts_feed",
-      "post_title": "Stop recording events",
-      "post_url": "https://rishidass.net/posts/stop-recording-events",
-      "published": "2026-11-15T08:57:17Z"
-    },
-    {
-      "blog_title": "Aeish's Blog Feed :3",
-      "blog_url": "https://aeish-world.neocities.org/blog_front",
-      "feed_url": "https://aeish-world.neocities.org/feed.txt",
-      "post_title": "Plant Diaries #1",
-      "post_url": "https://aeish-world.neocities.org/blog_pages/blog-26-11-15",
-      "published": "2026-11-15T08:24:00Z"
-    },
-    {
-      "blog_title": "Gamer Of Passion",
-      "blog_url": "https://gamerofpassion.com/",
-      "feed_url": "https://gamerofpassion.com/feed/",
-      "post_title": "How to Increase Loyalty in Bannerlord (War Sails, v1.5.7): Towns, Castles and Loyalty Drift",
-      "post_url": "https://gamerofpassion.com/bannerlord-loyalty/",
-      "published": "2026-11-15T08:00:00Z"
-    },
-    {
-      "blog_title": "PUNKTO",
-      "blog_url": "https://punkto.org/",
-      "feed_url": "https://punkto.org/blog.xml",
-      "post_title": "PUNKTO | Recording And Editing Conference Talks",
-      "post_url": "https://punkto.org/blog/recording_and_editing_talks",
-      "published": "2026-11-15T08:00:00Z"
-    },
-    {
-      "blog_title": "ThinkRoot",
-      "blog_url": "https://thinkroot.xyz/",
-      "feed_url": "https://thinkroot.xyz/feed.php",
-      "post_title": "A început Postul Crăciunului",
-      "post_url": "https://thinkroot.xyz/jurnal/a-inceput-postul-craciunului",
-      "published": "2026-11-15T07:30:00Z"
-    },
-    {
-      "blog_title": "Cynni’s Blog",
-      "blog_url": "https://cynnisblog.wordpress.com/",
-      "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "#SilentSunday 🏞️",
-      "post_url": "https://cynnisblog.wordpress.com/2026/11/15/silentsunday-template-15-11/",
-      "published": "2026-11-15T06:00:00Z"
-    },
-    {
-      "blog_title": "An Archaeopteryx",
-      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
-      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
-      "post_title": "Divinity Original Sin 2 - Wrecker's Cove - 40h15",
-      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-11-14-dos2/",
-      "published": "2026-11-15T03:47:22Z"
     }
   ]
 }

@@ -1,12 +1,84 @@
 {
-  "generated_at": "2026-11-15T18:26:36.284059Z",
-  "source_generated_at": "2026-11-15T18:26:01.460806Z",
+  "generated_at": "2026-11-15T23:23:26.255901Z",
+  "source_generated_at": "2026-11-15T23:22:34.658861Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
   "post_count": 20,
-  "summary_count": 18,
+  "summary_count": 19,
   "posts": [
+    {
+      "blog_title": "情報の灯台",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/pinterest-rss/",
+      "post_title": "Microsoft 365障害、ドイツのホテルで15人が塩素ガス中毒。警報メールが届かず",
+      "post_url": "https://joho-todai.com/microsoft-365-outage-hotel-chlorine-gas-poisoning/",
+      "published": "2026-11-15T23:13:53Z",
+      "summary": "A Microsoft 365 outage prevented a German hotel’s pool chlorine warning emails from arriving, exposing 15 guests and hospitalizing four after excessive chlorine was injected."
+    },
+    {
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "Josh Marshall: Why Eliminating the Electoral College Is ‘a Big Mistake’",
+      "post_url": "https://talkingpointsmemo.com/edblog/back-to-the-electoral-college-and-why-getting-rid-of-it-is-a-big-mistake",
+      "published": "2026-11-15T22:15:18Z",
+      "summary": "Josh Marshall argues that replacing the Electoral College with the National Popular Vote Interstate Compact could trigger constitutional crises and dangerously federalize election administration."
+    },
+    {
+      "blog_title": "Joelchrono's blog",
+      "blog_url": "https://joelchrono.xyz/",
+      "feed_url": "https://joelchrono.xyz/feed.xml",
+      "post_title": "Strange Jigsaws",
+      "post_url": "https://joelchrono.xyz/blog/strange-jigsaws/",
+      "published": "2026-11-15T22:11:48Z",
+      "summary": "Strange Jigsaws is a short, mind-bending puzzle game featuring handcrafted solutions, diverse mechanics, interconnected progression, varied visuals, references, and optional hints."
+    },
+    {
+      "blog_title": "Frostilyte Writes",
+      "blog_url": "https://frostilyte.ca/",
+      "feed_url": "https://frostilyte.ca/feed/",
+      "post_title": "A Low-Tier Playthrough of Pokémon Silver: Part 10 (Finale)",
+      "post_url": "https://frostilyte.ca/2026/11/15/a-low-tier-playthrough-of-pokemon-silver-part-10-finale/",
+      "published": "2026-11-15T21:10:48Z",
+      "summary": "A low-tier Pokémon Silver team enters the League, using healing supplies, Safeguard, strategic switches, and sleep tactics against Will and Koga’s disruptive teams."
+    },
+    {
+      "blog_title": "Toby Geeks Out",
+      "blog_url": "https://tobygeeksout.micro.blog/",
+      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
+      "post_title": "🎬 The End of Oak Street (2026)",
+      "post_url": "https://tobygeeksout.micro.blog/2026/11/15/the-end-of-oak-street.html",
+      "published": "2026-11-15T21:05:05Z",
+      "summary": "The End of Oak Street follows the Platt family after a mysterious cosmic event transports their neighborhood elsewhere, forcing them to navigate unfamiliar surroundings and survive together."
+    },
+    {
+      "blog_title": "スナックエルベ",
+      "blog_url": "https://elve.club/",
+      "feed_url": "https://elve.club/feed",
+      "post_title": "無事に下山するまでが「登山」ってコト！？",
+      "post_url": "https://elve.club/entry/2026/11/16/060000?utm_source=feed",
+      "published": "2026-11-15T21:00:00Z",
+      "summary": "A descent from Mount Takao follows painful knees, visits Yakōin and the legendary Tako Cedar, then ends with drinks in Kokubunji."
+    },
+    {
+      "blog_title": "ThinkRoot",
+      "blog_url": "https://thinkroot.xyz/",
+      "feed_url": "https://thinkroot.xyz/feed.php",
+      "post_title": "Am făcut o sală de jocuri pe jurnal",
+      "post_url": "https://thinkroot.xyz/jurnal/am-facut-o-sala-de-jocuri-pe-jurnal",
+      "published": "2026-11-15T20:58:00Z",
+      "summary": "ThinkRoot presents a privacy-focused browser game room featuring local scores, daily challenges, and games about fingerprinting, coordination, calm, Linux security, and passwords."
+    },
+    {
+      "blog_title": "Newsonaut",
+      "blog_url": "https://www.newsonaut.com/",
+      "feed_url": "https://www.newsonaut.com/rss",
+      "post_title": "Re: Replies instead of comments",
+      "post_url": "https://www.newsonaut.com/articles/re-replies-instead-of-comments",
+      "published": "2026-11-15T18:36:03Z",
+      "summary": "Newsonaut examines Bubbles’ replacement of comments with linked replies, considering moderation concerns, thoughtful responses, independent blogs’ visibility, and the platform’s post-rating system."
+    },
     {
       "blog_title": "Pretend Typewriter",
       "blog_url": "https://pretendtypewriter.net/",
@@ -35,13 +107,13 @@
       "summary": "Fran reflects on her score in the “Where you at?” environmental perception test, exploring local knowledge, family influence, wildfire awareness, and identifying grasses."
     },
     {
-      "blog_title": "Toby Geeks Out",
-      "blog_url": "https://tobygeeksout.micro.blog/",
-      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
-      "post_title": "Mocha Latte",
-      "post_url": "https://tobygeeksout.micro.blog/2026/11/15/mocha-latte.html",
-      "published": "2026-11-15T16:24:35Z",
-      "summary": "Toby Overstreet describes drinking a usual mocha latte with almond milk as part of a morning routine."
+      "blog_title": "The Ancient Gaming Noob",
+      "blog_url": "https://tagn.wordpress.com/",
+      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
+      "post_title": "TAGN Fantasy Critic League 2026 – Week Forty-Six and Warhammer Survivors",
+      "post_url": "https://tagn.wordpress.com/2026/11/15/tagn-fantasy-critic-league-2026-week-forty-six-and-warhammer-survivors/",
+      "published": "2026-11-15T16:15:12Z",
+      "summary": "Week forty-six of the Fantasy Critic League tracks review-score changes for One Piece: Grand Gourmet, Warhammer Survivors, Boltgun 2, and World of Warcraft: Forever."
     },
     {
       "blog_title": "Yordi - A Lifelong Journey of Growth",
@@ -60,15 +132,6 @@
       "post_url": "https://joho-todai.com/en/netchoice-sues-new-york-sns-warning-law/",
       "published": "2026-11-15T14:33:58Z",
       "summary": "New York’s social-media warning-label law mandates prominent, repeated Surgeon General notices, prompting NetChoice to challenge it on First Amendment compelled-speech grounds."
-    },
-    {
-      "blog_title": "情報の灯台",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "NetChoice、ニューヨーク州のSNS「警告表示」法を提訴。画面75%を覆う通知、利用者は回避不可",
-      "post_url": "https://joho-todai.com/netchoice-sues-new-york-sns-warning-law/",
-      "published": "2026-11-15T14:33:58Z",
-      "summary": null
     },
     {
       "blog_title": "The EOFFTV Review",
@@ -123,69 +186,6 @@
       "post_url": "https://www.omz13.com/fieldnotes/immouseable",
       "published": "2026-11-15T10:25:00Z",
       "summary": "“Immouseable” is a coined term describing a computer mouse or trackball rendered immobile by dust or dirt clogging its optical sensor."
-    },
-    {
-      "blog_title": "Rishi Dass",
-      "blog_url": "https://rishidass.net",
-      "feed_url": "https://rishidass.net/posts_feed",
-      "post_title": "Stop recording events",
-      "post_url": "https://rishidass.net/posts/stop-recording-events",
-      "published": "2026-11-15T08:57:17Z",
-      "summary": "Rishi Dass argues that recording literature festival talks disrupts audiences, distracts recorders, and infringes on the copyrighted work of organizers and participating writers."
-    },
-    {
-      "blog_title": "Aeish's Blog Feed :3",
-      "blog_url": "https://aeish-world.neocities.org/blog_front",
-      "feed_url": "https://aeish-world.neocities.org/feed.txt",
-      "post_title": "Plant Diaries #1",
-      "post_url": "https://aeish-world.neocities.org/blog_pages/blog-26-11-15",
-      "published": "2026-11-15T08:24:00Z",
-      "summary": "Aeish records observations from a plant-filled walk around a gated society, describing diverse garden sections, plant health, seasonal insects, and gardening maintenance."
-    },
-    {
-      "blog_title": "Gamer Of Passion",
-      "blog_url": "https://gamerofpassion.com/",
-      "feed_url": "https://gamerofpassion.com/feed/",
-      "post_title": "How to Increase Loyalty in Bannerlord (War Sails, v1.5.7): Towns, Castles and Loyalty Drift",
-      "post_url": "https://gamerofpassion.com/bannerlord-loyalty/",
-      "published": "2026-11-15T08:00:00Z",
-      "summary": "The guide explains Bannerlord loyalty thresholds, daily modifiers, policies, governors, security, culture, rebellion risks, and practical methods for improving towns and castles in version 1.5.7."
-    },
-    {
-      "blog_title": "PUNKTO",
-      "blog_url": "https://punkto.org/",
-      "feed_url": "https://punkto.org/blog.xml",
-      "post_title": "PUNKTO | Recording And Editing Conference Talks",
-      "post_url": "https://punkto.org/blog/recording_and_editing_talks",
-      "published": "2026-11-15T08:00:00Z",
-      "summary": "Punkto details a workflow for recording, syncing, editing, and uploading conference talks using a Canon camera, laptop, screen capture software, and supporting equipment."
-    },
-    {
-      "blog_title": "ThinkRoot",
-      "blog_url": "https://thinkroot.xyz/",
-      "feed_url": "https://thinkroot.xyz/feed.php",
-      "post_title": "A început Postul Crăciunului",
-      "post_url": "https://thinkroot.xyz/jurnal/a-inceput-postul-craciunului",
-      "published": "2026-11-15T07:30:00Z",
-      "summary": "The Romanian text describes Christmas Lent from November 15 to December 24, its dietary rules, fish exemptions, religious observances, seasonal consumerism, and traditional carols."
-    },
-    {
-      "blog_title": "Cynni’s Blog",
-      "blog_url": "https://cynnisblog.wordpress.com/",
-      "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "#SilentSunday 🏞️",
-      "post_url": "https://cynnisblog.wordpress.com/2026/11/15/silentsunday-template-15-11/",
-      "published": "2026-11-15T06:00:00Z",
-      "summary": "A SilentSunday photograph depicts the Hatertse Vennen nature reserve near Nijmegen, Netherlands, showing sunlit water, reeds, bare birch trees, heathland, and surrounding woodland."
-    },
-    {
-      "blog_title": "An Archaeopteryx",
-      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
-      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
-      "post_title": "Divinity Original Sin 2 - Wrecker's Cove - 40h15",
-      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-11-14-dos2/",
-      "published": "2026-11-15T03:47:22Z",
-      "summary": "A gameplay account of exploring Wrecker’s Cove in Divinity Original Sin 2, battling Voidwoken and dwarves, regrouping separated characters, and navigating corpse-filled ruins."
     }
   ]
 }
