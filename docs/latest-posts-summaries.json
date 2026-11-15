@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-14T22:59:04.418695Z",
-  "source_generated_at": "2026-11-14T22:58:21.607152Z",
+  "generated_at": "2026-11-15T14:45:14.449296Z",
+  "source_generated_at": "2026-11-15T14:44:37.697897Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
@@ -11,181 +11,181 @@
       "blog_title": "情報の灯台",
       "blog_url": "https://joho-todai.com/",
       "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "Microsoft 365大規模障害のSLAクレジット請求、MSPたちが語る「手間と返金の落差」",
-      "post_url": "https://joho-todai.com/microsoft-365-outage-sla-credit-claims-msp-experience/",
-      "published": "2026-11-14T22:20:12Z",
+      "post_title": "NetChoice、ニューヨーク州のSNS「警告表示」法を提訴。画面75%を覆う通知、利用者は回避不可",
+      "post_url": "https://joho-todai.com/netchoice-sues-new-york-sns-warning-law/",
+      "published": "2026-11-15T14:33:58Z",
       "summary": null
-    },
-    {
-      "blog_title": "Pretend Typewriter",
-      "blog_url": "https://pretendtypewriter.net/",
-      "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "note - casual dinner",
-      "post_url": "https://pretendtypewriter.net/note-casual-dinner/",
-      "published": "2026-11-14T22:10:23Z",
-      "summary": "A November 2026 note describes inviting friends for dinner, preparing a personal version of katsu curry, and eating too much."
-    },
-    {
-      "blog_title": "スナックエルベ",
-      "blog_url": "https://elve.club/",
-      "feed_url": "https://elve.club/feed",
-      "post_title": "登山するってマジですか？ ②小仏城山",
-      "post_url": "https://elve.club/entry/2026/11/15/060000?utm_source=feed",
-      "published": "2026-11-14T21:00:00Z",
-      "summary": "A humorous account of hiking to Kobotoke Castle, describing overheating, exhaustion, Fuji views, a restorative meal, and the strain of descending."
-    },
-    {
-      "blog_title": "JASON JOURNALS",
-      "blog_url": "https://jasonjournals.com/",
-      "feed_url": "https://jasonjournals.com/feed/",
-      "post_title": "Working With iPad Windows",
-      "post_url": "https://jasonjournals.com/posts/working-with-ipad-windows",
-      "published": "2026-11-14T18:37:00Z",
-      "summary": "The piece traces a user’s evolving experience with iPadOS 26 windowing, contrasting external-monitor workflows with Split View and Slide Over on an 11-inch iPad."
-    },
-    {
-      "blog_title": "JAG’s Workshop",
-      "blog_url": "https://jagsworkshop.com/",
-      "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "Alex Tabet’s Live Shot from Denver Airport During the FAA Ground Stop Is a Stunning Bit of Choreography and Timing",
-      "post_url": "https://www.threads.com/@leesechrist/post/DfuUTdCkcE8/media",
-      "published": "2026-11-14T18:29:32Z",
-      "summary": "Alex Tabet and cameraman Raul are praised for a remarkable live shot from Denver Airport during an FAA ground stop, emphasizing choreography and timing."
-    },
-    {
-      "blog_title": "Gamer Of Passion",
-      "blog_url": "https://gamerofpassion.com/",
-      "feed_url": "https://gamerofpassion.com/feed/",
-      "post_title": "How to Find Paradise Planets in No Man’s Sky (Forsaken)",
-      "post_url": "https://gamerofpassion.com/no-mans-sky-paradise-planets/",
-      "published": "2026-11-14T17:00:00Z",
-      "summary": "The guide explains how No Man’s Sky players can locate Paradise planets by scanning systems, checking environmental conditions, and considering galaxies and difficulty settings."
-    },
-    {
-      "blog_title": "Sal's Blog",
-      "blog_url": "https://sals.place/",
-      "feed_url": "https://sals.place/feed/",
-      "post_title": "Fixed our gas fireplace insert",
-      "post_url": "https://sals.place/blog/fixed-gas-fireplace-insert/",
-      "published": "2026-11-14T16:40:50Z",
-      "summary": "Sal describes diagnosing a Valor G3.5 gas fireplace insert’s failed ignition, repairing a shorted and disconnected spark wire, and planning to install a replacement OEM wire."
-    },
-    {
-      "blog_title": "The Ancient Gaming Noob",
-      "blog_url": "https://tagn.wordpress.com/",
-      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
-      "post_title": "EVE Online – Blessed Pilgrim Achievement",
-      "post_url": "https://tagn.wordpress.com/2026/11/14/eve-online-blessed-pilgrim-achievement/",
-      "published": "2026-11-14T16:15:55Z",
-      "summary": "The post recounts completing EVE Online’s Blessed Pilgrim achievement by visiting 689 Amarr-space systems, tracking progress manually before using a log-parsing web tool to find omissions."
-    },
-    {
-      "blog_title": "ThinkRoot",
-      "blog_url": "https://thinkroot.xyz/",
-      "feed_url": "https://thinkroot.xyz/feed.php",
-      "post_title": "Scrie în jurnal",
-      "post_url": "https://thinkroot.xyz/jurnal/scrie-in-jurnal",
-      "published": "2026-11-14T15:47:00Z",
-      "summary": "ThinkRoot’s “Scrie în jurnal” encourages recording thoughts and ideas freely in physical or online journals, including notebooks for daily reflections, tracking, work, and pocket notes."
     },
     {
       "blog_title": "The EOFFTV Review",
       "blog_url": "https://eofftvreview.wordpress.com",
       "feed_url": "https://eofftvreview.wordpress.com/feed/",
-      "post_title": "The Chairman (1969)",
-      "post_url": "https://eofftvreview.wordpress.com/2026/11/14/the-chairman-1969/",
-      "published": "2026-11-14T15:29:34Z",
-      "summary": "J. Lee Thompson’s The Chairman stars Gregory Peck as a biophysicist pursuing a Chinese agricultural enzyme amid Cold War espionage, shifting between thriller conventions and political satire."
-    },
-    {
-      "blog_title": "Inventory Full",
-      "blog_url": "https://bhagpuss.blogspot.com/",
-      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "Communication Breakdown",
-      "post_url": "https://bhagpuss.blogspot.com/2026/11/communication-breakdown.html",
-      "published": "2026-11-14T14:36:28Z",
-      "summary": "A playlist curation explores twenty-eight tunes, moving through French vocals, rock, Americana, covers, and contrasting performances by emerging and established artists."
-    },
-    {
-      "blog_title": "Scopique’s",
-      "blog_url": "https://scopique.com/",
-      "feed_url": "https://scopique.com/feed/",
-      "post_title": "RSI Galaxy",
-      "post_url": "https://scopique.com/2026/11/14/rsi-galaxy/",
-      "published": "2026-11-14T13:42:11Z",
-      "summary": "Scopique evaluates the RSI Galaxy’s modular medical and cargo configurations, hangar capabilities, crewed combat limitations, and anticipated refinery module in Star Citizen."
-    },
-    {
-      "blog_title": "Martin Schuhmann",
-      "blog_url": "https://martinschuhmann.com/",
-      "feed_url": "https://martinschuhmann.com/feed/",
-      "post_title": "Martin Schuhmann - November 14, 2026 14:35",
-      "post_url": "https://martinschuhmann.com/blog/6a3c03ea",
-      "published": "2026-11-14T13:35:00Z",
-      "summary": "Martin Schuhmann shares his excitement about buying pens and other supplies to create a personal zine, reflecting on creativity, tools, and zine-making."
-    },
-    {
-      "blog_title": "Mutant Reviewers",
-      "blog_url": "https://mutantreviewersmovies.com",
-      "feed_url": "https://mutantreviewersmovies.com/feed/",
-      "post_title": "Six fun spoof movies from the ’90s",
-      "post_url": "https://mutantreviewersmovies.com/2026/11/14/six-fun-spoof-movies-from-the-90s/",
-      "published": "2026-11-14T13:00:16Z",
-      "summary": "A roundup of six 1990s spoof films—Wrongfully Accused, Jane Austen’s Mafia!, Loaded Weapon 1, Don’t Be a Menace, High School High, and Fatal Instinct."
-    },
-    {
-      "blog_title": "Tobold's Blog",
-      "blog_url": "http://tobolds.blogspot.com/",
-      "feed_url": "http://feeds2.feedburner.com/ToboldsBlog",
-      "post_title": "Concentration risk",
-      "post_url": "http://tobolds.blogspot.com/2026/11/concentration-risk.html",
-      "published": "2026-11-14T12:34:33Z",
-      "summary": "Tobold examines Nvidia’s valuation decline as a concentration-risk problem, emphasizing Jensen Huang’s centralized control, lack of succession planning, and broader economic dependence on major companies."
+      "post_title": "Barefoot Gen (1983)",
+      "post_url": "https://eofftvreview.wordpress.com/2026/11/15/barefoot-gen-1983/",
+      "published": "2026-11-15T13:58:56Z",
+      "summary": "Barefoot Gen portrays a Hiroshima family’s survival before and after the atomic bombing, depicting nuclear warfare’s graphic devastation through survivor Keiji Nakazawa’s autobiographical perspective."
     },
     {
       "blog_title": "Joho Todai (English)",
       "blog_url": "https://joho-todai.com/",
       "feed_url": "https://joho-todai.com/en/rss/",
-      "post_title": "Wine 11.22 Emulates x86 AVX Instructions on ARM64, Adds Memory Layout Randomization and 34 Fixes",
-      "post_url": "https://joho-todai.com/en/wine-11-22-arm64-x86-avx-emulation/",
-      "published": "2026-11-14T12:24:05Z",
-      "summary": "Wine 11.22 adds ARM64 AVX emulation, ASLR, Vulkan rendering fixes, MSXML validation, Tahoma improvements, updated locale data, and 34 bug fixes."
+      "post_title": "Fed Names AI Infrastructure Investment Its Top Financial-Stability Concern; Debt Issuance Quintuples to $680 Billion in Three Years",
+      "post_url": "https://joho-todai.com/en/frb-ai-infrastructure-investment-financial-stability/",
+      "published": "2026-11-15T13:55:36Z",
+      "summary": "The Federal Reserve identifies AI-related financial-stability risks, examining surging infrastructure debt, circular financing, bank exposures, and parallels with the 1990s telecommunications boom."
+    },
+    {
+      "blog_title": "African Music Forum",
+      "blog_url": "https://amf.didiermary.fr/",
+      "feed_url": "https://amf.didiermary.fr/feed/",
+      "post_title": "One Voice – One World",
+      "post_url": "https://amf.didiermary.fr/one-voice-one-world/",
+      "published": "2026-11-15T13:34:54Z",
+      "summary": "Ladysmith Black Mambazo’s 2026 tribute album “One Voice – One World” honors founder Dr Joseph Shabalala through collaborations with Nduduzo Makhathini and Mbuso Khoza."
+    },
+    {
+      "blog_title": "#デザイン 記事まとめ",
+      "blog_url": "https://note.com/notemagazine/m/m57787022cedc",
+      "feed_url": "https://note.mu/notemag/m/m57787022cedc/rss",
+      "post_title": "「キュレーション」 ー人と集団の経験に宿る意味を読み取り、編み直し、分かち合う",
+      "post_url": "https://note.com/uss_un/n/n7e2db4d7ba0a",
+      "published": "2026-11-15T13:32:33Z",
+      "summary": "The piece defines curation as caring for experiences, reweaving their meanings into new contexts, and sharing resulting value in organizational work."
+    },
+    {
+      "blog_title": "Parallel Spirals",
+      "blog_url": "https://pradx.in",
+      "feed_url": "https://pradx.in/feed/",
+      "post_title": "Weekly Notes 46/2026",
+      "post_url": "https://pradx.in/2026/11/15/weekly-notes-46-2026/",
+      "published": "2026-11-15T12:57:39Z",
+      "summary": "Weekly notes recount work and family life in Pune, reflections on demonetisation and technology unions, holiday disruptions, reading, podcasts, newsletters, films, and television series."
     },
     {
       "blog_title": "NomadWarMachine",
       "blog_url": "https://nomadwarmachine.co.uk/",
       "feed_url": "https://nomadwarmachine.co.uk/feed/",
-      "post_title": "A Dozen of Anything EXCEPT Eggs",
-      "post_url": "https://nomadwarmachine.co.uk/2026/11/14/a-dozen-of-anything-except-eggs/",
-      "published": "2026-11-14T11:00:46Z",
-      "summary": "A photo presents twelve LEGO Doctor Who adversaries—seven Daleks and five Cybermen—positioned opposite each other before a row of poetry books."
+      "post_title": "Give Frank Beard a beard",
+      "post_url": "https://nomadwarmachine.co.uk/2026/11/15/give-frank-beard-a-beard/",
+      "published": "2026-11-15T11:17:19Z",
+      "summary": "A DailyCreate project adds a beard to a photograph of Frank Beard, the ZZ Top drummer noted for being the only member without one."
     },
     {
-      "blog_title": "Cubic Creativity",
-      "blog_url": "https://cubiccreativity.wordpress.com/",
-      "feed_url": "https://cubiccreativity.wordpress.com/feed/",
-      "post_title": "Stalk’s Videogame Corner: Celestial Decks",
-      "post_url": "https://cubiccreativity.wordpress.com/2026/11/14/stalks-videogame-corner-celestial-decks/",
-      "published": "2026-11-14T07:00:00Z",
-      "summary": "Celestial Decks is an online trading card game featuring storytelling rituals, flexible fifteen-card decks, resource management, color-based archetypes, and alternating rounds to five wins."
-    },
-    {
-      "blog_title": "Cynni’s Blog",
-      "blog_url": "https://cynnisblog.wordpress.com/",
-      "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "What next?",
-      "post_url": "https://cynnisblog.wordpress.com/2026/11/14/what-next/",
-      "published": "2026-11-14T06:00:00Z",
-      "summary": "Cynni reflects on sustaining a daily blog, its personal origins, writing challenges, AI-related criticism, grief, recovery, and hopes for more positive experiences."
+      "blog_title": "Words and essays and more",
+      "blog_url": "https://www.omz13.com/",
+      "feed_url": "https://www.omz13.com/feed.rss",
+      "post_title": "immouseable",
+      "post_url": "https://www.omz13.com/fieldnotes/immouseable",
+      "published": "2026-11-15T10:25:00Z",
+      "summary": "“Immouseable” is a coined term describing a computer mouse or trackball rendered immobile by dust or dirt clogging its optical sensor."
     },
     {
       "blog_title": "Rishi Dass",
       "blog_url": "https://rishidass.net",
       "feed_url": "https://rishidass.net/posts_feed",
-      "post_title": "Packing for travel",
-      "post_url": "https://rishidass.net/posts/packing-for-travel",
-      "published": "2026-11-14T05:05:53Z",
-      "summary": "Rishi Dass describes packing travel essentials into a single carry-on, organizing clothing, toiletries, and technology while using checklists, laundry, and a timed routine."
+      "post_title": "Stop recording events",
+      "post_url": "https://rishidass.net/posts/stop-recording-events",
+      "published": "2026-11-15T08:57:17Z",
+      "summary": "Rishi Dass argues that recording literature festival talks disrupts audiences, distracts recorders, and infringes on the copyrighted work of organizers and participating writers."
+    },
+    {
+      "blog_title": "Aeish's Blog Feed :3",
+      "blog_url": "https://aeish-world.neocities.org/blog_front",
+      "feed_url": "https://aeish-world.neocities.org/feed.txt",
+      "post_title": "Plant Diaries #1",
+      "post_url": "https://aeish-world.neocities.org/blog_pages/blog-26-11-15",
+      "published": "2026-11-15T08:24:00Z",
+      "summary": "Aeish records observations from a plant-filled walk around a gated society, describing diverse garden sections, plant health, seasonal insects, and gardening maintenance."
+    },
+    {
+      "blog_title": "Gamer Of Passion",
+      "blog_url": "https://gamerofpassion.com/",
+      "feed_url": "https://gamerofpassion.com/feed/",
+      "post_title": "How to Increase Loyalty in Bannerlord (War Sails, v1.5.7): Towns, Castles and Loyalty Drift",
+      "post_url": "https://gamerofpassion.com/bannerlord-loyalty/",
+      "published": "2026-11-15T08:00:00Z",
+      "summary": "The guide explains Bannerlord loyalty thresholds, daily modifiers, policies, governors, security, culture, rebellion risks, and practical methods for improving towns and castles in version 1.5.7."
+    },
+    {
+      "blog_title": "PUNKTO",
+      "blog_url": "https://punkto.org/",
+      "feed_url": "https://punkto.org/blog.xml",
+      "post_title": "PUNKTO | Recording And Editing Conference Talks",
+      "post_url": "https://punkto.org/blog/recording_and_editing_talks",
+      "published": "2026-11-15T08:00:00Z",
+      "summary": "Punkto details a workflow for recording, syncing, editing, and uploading conference talks using a Canon camera, laptop, screen capture software, and supporting equipment."
+    },
+    {
+      "blog_title": "ThinkRoot",
+      "blog_url": "https://thinkroot.xyz/",
+      "feed_url": "https://thinkroot.xyz/feed.php",
+      "post_title": "A început Postul Crăciunului",
+      "post_url": "https://thinkroot.xyz/jurnal/a-inceput-postul-craciunului",
+      "published": "2026-11-15T07:30:00Z",
+      "summary": "The Romanian text describes Christmas Lent from November 15 to December 24, its dietary rules, fish exemptions, religious observances, seasonal consumerism, and traditional carols."
+    },
+    {
+      "blog_title": "Cynni’s Blog",
+      "blog_url": "https://cynnisblog.wordpress.com/",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "#SilentSunday 🏞️",
+      "post_url": "https://cynnisblog.wordpress.com/2026/11/15/silentsunday-template-15-11/",
+      "published": "2026-11-15T06:00:00Z",
+      "summary": "A SilentSunday photograph depicts the Hatertse Vennen nature reserve near Nijmegen, Netherlands, showing sunlit water, reeds, bare birch trees, heathland, and surrounding woodland."
+    },
+    {
+      "blog_title": "An Archaeopteryx",
+      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
+      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
+      "post_title": "Divinity Original Sin 2 - Wrecker's Cove - 40h15",
+      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-11-14-dos2/",
+      "published": "2026-11-15T03:47:22Z",
+      "summary": "A gameplay account of exploring Wrecker’s Cove in Divinity Original Sin 2, battling Voidwoken and dwarves, regrouping separated characters, and navigating corpse-filled ruins."
+    },
+    {
+      "blog_title": "わくパンの思考のかけら",
+      "blog_url": "https://wakupanbouquet.hatenablog.com/",
+      "feed_url": "https://wakupanbouquet.hatenablog.com/rss",
+      "post_title": "2026-W46 週報 自律神経がめちゃくちゃ",
+      "post_url": "https://wakupanbouquet.hatenablog.com/entry/2026/11/15/112256",
+      "published": "2026-11-15T02:22:56Z",
+      "summary": "A weekly report describes severe headaches, dizziness, suspected autonomic dysfunction, medical consultations, reduced stamina, physical discomfort, and hopes for recovery and continued commissions."
+    },
+    {
+      "blog_title": "スナックエルベ",
+      "blog_url": "https://elve.club/",
+      "feed_url": "https://elve.club/feed",
+      "post_title": "登山するってマジですか？ ③小仏城山～高尾山",
+      "post_url": "https://elve.club/entry/2026/11/15/100000?utm_source=feed",
+      "published": "2026-11-15T01:00:00Z",
+      "summary": "A hiking account follows a journey from Mount Kobotoke Castle to Mount Takao, with references to other mountain trips including Tarumae Mountain."
+    },
+    {
+      "blog_title": "Muttthecowcat",
+      "blog_url": "https://muttthecowcat.neocities.org/",
+      "feed_url": "https://muttthecowcat.neocities.org/rss.xml",
+      "post_title": "My Epic Universe Trip | 11/14/2026",
+      "post_url": "https://muttthecowcat.neocities.org/indiv/37",
+      "published": "2026-11-15T00:58:50Z",
+      "summary": "A first-time theme park visitor recounts a one-day Epic Universe trip with their mother, highlighting Super Nintendo World, themed areas, rides, dining, and entertainment."
+    },
+    {
+      "blog_title": "Michael Harley",
+      "blog_url": "https://michaelharley.net",
+      "feed_url": "https://obsolete29.com/feed/feed.xml",
+      "post_title": "The Cycle (2026) — ⭐⭐ (2/5)",
+      "post_url": "https://michaelharley.net/watching/2026/11/14/the-cycle/",
+      "published": "2026-11-15T00:42:55Z",
+      "summary": "The Cycle is a 2026 horror thriller mystery about a daughter investigating her father’s dark past after his missing body is discovered at a crime scene."
+    },
+    {
+      "blog_title": "Leekscosycorner",
+      "blog_url": "https://leekscosycorner.com/",
+      "feed_url": "https://leekscosycorner.com/feed/",
+      "post_title": "Tricky Madness: Grab Your Snowboard and Hit the Slopes!",
+      "post_url": "https://leekscosycorner.com/2026/11/15/tricky-madness/",
+      "published": "2026-11-15T00:04:00Z",
+      "summary": "Tricky Madness is an early-access arcade snowboarding game featuring high-speed courses, exaggerated tricks, multiple modes, varied characters, and nostalgic inspiration from SSX."
     }
   ]
 }
