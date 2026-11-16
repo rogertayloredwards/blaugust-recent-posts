@@ -1,191 +1,191 @@
 {
-  "generated_at": "2026-11-15T23:23:26.255901Z",
-  "source_generated_at": "2026-11-15T23:22:34.658861Z",
+  "generated_at": "2026-11-16T17:00:28.737126Z",
+  "source_generated_at": "2026-11-16T16:59:48.110927Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
   "post_count": 20,
-  "summary_count": 19,
+  "summary_count": 18,
   "posts": [
     {
-      "blog_title": "情報の灯台",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "Microsoft 365障害、ドイツのホテルで15人が塩素ガス中毒。警報メールが届かず",
-      "post_url": "https://joho-todai.com/microsoft-365-outage-hotel-chlorine-gas-poisoning/",
-      "published": "2026-11-15T23:13:53Z",
-      "summary": "A Microsoft 365 outage prevented a German hotel’s pool chlorine warning emails from arriving, exposing 15 guests and hospitalizing four after excessive chlorine was injected."
-    },
-    {
-      "blog_title": "JAG’s Workshop",
-      "blog_url": "https://jagsworkshop.com/",
-      "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "Josh Marshall: Why Eliminating the Electoral College Is ‘a Big Mistake’",
-      "post_url": "https://talkingpointsmemo.com/edblog/back-to-the-electoral-college-and-why-getting-rid-of-it-is-a-big-mistake",
-      "published": "2026-11-15T22:15:18Z",
-      "summary": "Josh Marshall argues that replacing the Electoral College with the National Popular Vote Interstate Compact could trigger constitutional crises and dangerously federalize election administration."
-    },
-    {
-      "blog_title": "Joelchrono's blog",
-      "blog_url": "https://joelchrono.xyz/",
-      "feed_url": "https://joelchrono.xyz/feed.xml",
-      "post_title": "Strange Jigsaws",
-      "post_url": "https://joelchrono.xyz/blog/strange-jigsaws/",
-      "published": "2026-11-15T22:11:48Z",
-      "summary": "Strange Jigsaws is a short, mind-bending puzzle game featuring handcrafted solutions, diverse mechanics, interconnected progression, varied visuals, references, and optional hints."
-    },
-    {
-      "blog_title": "Frostilyte Writes",
-      "blog_url": "https://frostilyte.ca/",
-      "feed_url": "https://frostilyte.ca/feed/",
-      "post_title": "A Low-Tier Playthrough of Pokémon Silver: Part 10 (Finale)",
-      "post_url": "https://frostilyte.ca/2026/11/15/a-low-tier-playthrough-of-pokemon-silver-part-10-finale/",
-      "published": "2026-11-15T21:10:48Z",
-      "summary": "A low-tier Pokémon Silver team enters the League, using healing supplies, Safeguard, strategic switches, and sleep tactics against Will and Koga’s disruptive teams."
+      "blog_title": "Pretend Typewriter",
+      "blog_url": "https://pretendtypewriter.net/",
+      "feed_url": "https://pretendtypewriter.net/feed/",
+      "post_title": "note - vitamin D",
+      "post_url": "https://pretendtypewriter.net/note-vitamin-d/",
+      "published": "2026-11-16T16:59:47Z",
+      "summary": "A casual reminder encourages people in northern Europe to take vitamin D supplements, linking their absence to pronounced sleepiness after an afternoon nap."
     },
     {
       "blog_title": "Toby Geeks Out",
       "blog_url": "https://tobygeeksout.micro.blog/",
       "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
-      "post_title": "🎬 The End of Oak Street (2026)",
-      "post_url": "https://tobygeeksout.micro.blog/2026/11/15/the-end-of-oak-street.html",
-      "published": "2026-11-15T21:05:05Z",
-      "summary": "The End of Oak Street follows the Platt family after a mysterious cosmic event transports their neighborhood elsewhere, forcing them to navigate unfamiliar surroundings and survive together."
+      "post_title": "Word Nerd Alert: Intractable",
+      "post_url": "https://tobygeeksout.micro.blog/2026/11/16/word-nerd-alert-intractable.html",
+      "published": "2026-11-16T15:29:06Z",
+      "summary": "“Intractable” is defined as difficult to govern, relieve, cure, manipulate, or shape, with Latin roots, related words, opposites, and a first known use in 1531."
+    },
+    {
+      "blog_title": "JASON JOURNALS",
+      "blog_url": "https://jasonjournals.com/",
+      "feed_url": "https://jasonjournals.com/feed/",
+      "post_title": "iPad Not Mac",
+      "post_url": "https://jasonjournals.com/posts/ipad-not-mac",
+      "published": "2026-11-16T15:24:28Z",
+      "summary": "The writer explains choosing an iPad over a Mac, valuing its tablet, laptop, and desktop versatility, affordability, simplicity, and support for typing, sketching, and everyday computing."
+    },
+    {
+      "blog_title": "LOTRO Players",
+      "blog_url": "https://lotroplayers.com",
+      "feed_url": "http://lotroplayers.com/feed/",
+      "post_title": "LOTRO Players News Episode 691: Hooked on the Jug",
+      "post_url": "https://lotroplayers.com/2026/11/16/lotro-players-news-episode-691-hooked-on-the-jug/?utm_source=rss&utm_medium=rss&utm_campaign=lotro-players-news-episode-691-hooked-on-the-jug",
+      "published": "2026-11-16T15:00:00Z",
+      "summary": "LOTRO Players News Episode 691 covers Wenda’s jug, damage types, armor effects, current game events, store sales, weekly gaming activities, and listener questions."
     },
     {
       "blog_title": "スナックエルベ",
       "blog_url": "https://elve.club/",
       "feed_url": "https://elve.club/feed",
-      "post_title": "無事に下山するまでが「登山」ってコト！？",
-      "post_url": "https://elve.club/entry/2026/11/16/060000?utm_source=feed",
-      "published": "2026-11-15T21:00:00Z",
-      "summary": "A descent from Mount Takao follows painful knees, visits Yakōin and the legendary Tako Cedar, then ends with drinks in Kokubunji."
-    },
-    {
-      "blog_title": "ThinkRoot",
-      "blog_url": "https://thinkroot.xyz/",
-      "feed_url": "https://thinkroot.xyz/feed.php",
-      "post_title": "Am făcut o sală de jocuri pe jurnal",
-      "post_url": "https://thinkroot.xyz/jurnal/am-facut-o-sala-de-jocuri-pe-jurnal",
-      "published": "2026-11-15T20:58:00Z",
-      "summary": "ThinkRoot presents a privacy-focused browser game room featuring local scores, daily challenges, and games about fingerprinting, coordination, calm, Linux security, and passwords."
-    },
-    {
-      "blog_title": "Newsonaut",
-      "blog_url": "https://www.newsonaut.com/",
-      "feed_url": "https://www.newsonaut.com/rss",
-      "post_title": "Re: Replies instead of comments",
-      "post_url": "https://www.newsonaut.com/articles/re-replies-instead-of-comments",
-      "published": "2026-11-15T18:36:03Z",
-      "summary": "Newsonaut examines Bubbles’ replacement of comments with linked replies, considering moderation concerns, thoughtful responses, independent blogs’ visibility, and the platform’s post-rating system."
-    },
-    {
-      "blog_title": "Pretend Typewriter",
-      "blog_url": "https://pretendtypewriter.net/",
-      "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "WOCHE 46",
-      "post_url": "https://pretendtypewriter.net/2026-week-46/",
-      "published": "2026-11-15T18:04:32Z",
-      "summary": "A German weekly diary recounts rest, job and internship applications, social gatherings, routines, choir practice, household tasks, and recent media consumption."
-    },
-    {
-      "blog_title": "Martin Schuhmann",
-      "blog_url": "https://martinschuhmann.com/",
-      "feed_url": "https://martinschuhmann.com/feed/",
-      "post_title": "Martin Schuhmann - November 15, 2026 18:15",
-      "post_url": "https://martinschuhmann.com/blog/dcf3db52",
-      "published": "2026-11-15T17:15:00Z",
-      "summary": null
-    },
-    {
-      "blog_title": "What the Fran",
-      "blog_url": "https://francescrossley.com/",
-      "feed_url": "https://francescrossley.com/feed/",
-      "post_title": "Discovering where I'm at",
-      "post_url": "https://francescrossley.com/discovering-where-im-at/",
-      "published": "2026-11-15T17:00:00Z",
-      "summary": "Fran reflects on her score in the “Where you at?” environmental perception test, exploring local knowledge, family influence, wildfire awareness, and identifying grasses."
-    },
-    {
-      "blog_title": "The Ancient Gaming Noob",
-      "blog_url": "https://tagn.wordpress.com/",
-      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
-      "post_title": "TAGN Fantasy Critic League 2026 – Week Forty-Six and Warhammer Survivors",
-      "post_url": "https://tagn.wordpress.com/2026/11/15/tagn-fantasy-critic-league-2026-week-forty-six-and-warhammer-survivors/",
-      "published": "2026-11-15T16:15:12Z",
-      "summary": "Week forty-six of the Fantasy Critic League tracks review-score changes for One Piece: Grand Gourmet, Warhammer Survivors, Boltgun 2, and World of Warcraft: Forever."
-    },
-    {
-      "blog_title": "Yordi - A Lifelong Journey of Growth",
-      "blog_url": "https://yordi.me/",
-      "feed_url": "https://yordi.me/feed/",
-      "post_title": "Photography Lessons from a Dark Night",
-      "post_url": "https://yordi.me/photography-lessons-from-a-dark-night/",
-      "published": "2026-11-15T15:08:57Z",
-      "summary": "Yordi reflects on photographing Popronde’s dimly lit festival performances, explaining exposure settings, noise management, shutter-speed experiments, and plans for future improvement."
+      "post_title": "はてな予約投稿→ツイート予約投稿の自動化",
+      "post_url": "https://elve.club/entry/2026/11/16/235402?utm_source=feed",
+      "published": "2026-11-16T14:54:02Z",
+      "summary": "A Japanese post describes automating scheduled Hatena publishing and tweets with Power Automate Desktop, including date input scripting and clipboard-based text pasting."
     },
     {
       "blog_title": "Joho Todai (English)",
       "blog_url": "https://joho-todai.com/",
       "feed_url": "https://joho-todai.com/en/rss/",
-      "post_title": "NetChoice Sues Over New York Social Media Warning-Label Law: Unavoidable Notices Cover 75% of the Screen",
-      "post_url": "https://joho-todai.com/en/netchoice-sues-new-york-sns-warning-law/",
-      "published": "2026-11-15T14:33:58Z",
-      "summary": "New York’s social-media warning-label law mandates prominent, repeated Surgeon General notices, prompting NetChoice to challenge it on First Amendment compelled-speech grounds."
+      "post_title": "Intel Shareholders File Class Action, Alleging PC Slowdown Was Hidden Before 29% Plunge: $23 Billion Stock Offering During Class Period",
+      "post_url": "https://joho-todai.com/en/intel-shareholders-lawsuit-hidden-pc-slowdown/",
+      "published": "2026-11-16T14:28:02Z",
+      "summary": "Shareholders led by a Michigan pension fund sued Intel and executives, alleging they concealed worsening PC conditions before a 29% stock decline and $23 billion offering."
+    },
+    {
+      "blog_title": "情報の灯台",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/pinterest-rss/",
+      "post_title": "Intel株主が集団訴訟、29%急落の前にPC減速を隠蔽と主張。クラス期間中に230億ドルの株式売出し",
+      "post_url": "https://joho-todai.com/intel-shareholders-lawsuit-hidden-pc-slowdown/",
+      "published": "2026-11-16T14:28:02Z",
+      "summary": null
     },
     {
       "blog_title": "The EOFFTV Review",
       "blog_url": "https://eofftvreview.wordpress.com",
       "feed_url": "https://eofftvreview.wordpress.com/feed/",
-      "post_title": "Barefoot Gen (1983)",
-      "post_url": "https://eofftvreview.wordpress.com/2026/11/15/barefoot-gen-1983/",
-      "published": "2026-11-15T13:58:56Z",
-      "summary": "Barefoot Gen portrays a Hiroshima family’s survival before and after the atomic bombing, depicting nuclear warfare’s graphic devastation through survivor Keiji Nakazawa’s autobiographical perspective."
+      "post_title": "Curse of Bigfoot (1975)",
+      "post_url": "https://eofftvreview.wordpress.com/2026/11/16/curse-of-bigfoot-1975/",
+      "published": "2026-11-16T14:27:10Z",
+      "summary": "Curse of Bigfoot, assembled from Dave Flocker’s amateur film Teenagers Battle the Thing and new footage, follows a cryptid expedition featuring an unconvincing monster."
     },
     {
-      "blog_title": "African Music Forum",
-      "blog_url": "https://amf.didiermary.fr/",
-      "feed_url": "https://amf.didiermary.fr/feed/",
-      "post_title": "One Voice – One World",
-      "post_url": "https://amf.didiermary.fr/one-voice-one-world/",
-      "published": "2026-11-15T13:34:54Z",
-      "summary": "Ladysmith Black Mambazo’s 2026 tribute album “One Voice – One World” honors founder Dr Joseph Shabalala through collaborations with Nduduzo Makhathini and Mbuso Khoza."
+      "blog_title": "Home on devz.cl",
+      "blog_url": "https://devz.cl/",
+      "feed_url": "https://devz.cl/index.xml",
+      "post_title": "My nail biting has been cured!.. By manicure?",
+      "post_url": "https://devz.cl/posts/my-nail-biting-has-been-cured-by-manicure/",
+      "published": "2026-11-16T14:09:18Z",
+      "summary": "A lifelong nail biter describes how manicures, increased awareness, and discovering practical and sensory benefits of longer nails helped end the habit."
     },
     {
-      "blog_title": "#デザイン 記事まとめ",
-      "blog_url": "https://note.com/notemagazine/m/m57787022cedc",
-      "feed_url": "https://note.mu/notemag/m/m57787022cedc/rss",
-      "post_title": "「キュレーション」 ー人と集団の経験に宿る意味を読み取り、編み直し、分かち合う",
-      "post_url": "https://note.com/uss_un/n/n7e2db4d7ba0a",
-      "published": "2026-11-15T13:32:33Z",
-      "summary": "The piece defines curation as caring for experiences, reweaving their meanings into new contexts, and sharing resulting value in organizational work."
+      "blog_title": "Mutant Reviewers",
+      "blog_url": "https://mutantreviewersmovies.com",
+      "feed_url": "https://mutantreviewersmovies.com/feed/",
+      "post_title": "Turbulence (1997) – Worse than air sickness",
+      "post_url": "https://mutantreviewersmovies.com/2026/11/16/turbulence-1997-worse-than-air-sickness/",
+      "published": "2026-11-16T13:00:51Z",
+      "summary": "A review of Turbulence (1997) examines its air-disaster plot, performances, implausible action sequences, critical reception, financial failure, and subsequent direct-to-video sequels."
     },
     {
-      "blog_title": "Parallel Spirals",
-      "blog_url": "https://pradx.in",
-      "feed_url": "https://pradx.in/feed/",
-      "post_title": "Weekly Notes 46/2026",
-      "post_url": "https://pradx.in/2026/11/15/weekly-notes-46-2026/",
-      "published": "2026-11-15T12:57:39Z",
-      "summary": "Weekly notes recount work and family life in Pune, reflections on demonetisation and technology unions, holiday disruptions, reading, podcasts, newsletters, films, and television series."
+      "blog_title": "Blog - 鳥啼く頃に",
+      "blog_url": "https://torinakukoroni.blog.fc2.com/",
+      "feed_url": "https://torinakukoroni.blog.fc2.com/?xml",
+      "post_title": "投稿サイトのくるっぷで個人サイトがつくれるようになった！",
+      "post_url": "https://torinakukoroni.blog.fc2.com/blog-entry-409.html",
+      "published": "2026-11-16T12:35:14Z",
+      "summary": null
+    },
+    {
+      "blog_title": "Brennan Day",
+      "blog_url": "https://brennan.day/",
+      "feed_url": "https://brennan.day/feed.xml",
+      "post_title": "Who is Willing to Do the Work Needed? You?",
+      "post_url": "https://brennan.day/who-is-willing-to-do-the-work-needed-you/",
+      "published": "2026-11-16T11:50:09Z",
+      "summary": "Following AO3’s outage, Brennan Day reflects on maintaining fanfiction.lol, restoring neglected places, decentralizing online communities, and taking practical grassroots action despite imperfect skills."
     },
     {
       "blog_title": "NomadWarMachine",
       "blog_url": "https://nomadwarmachine.co.uk/",
       "feed_url": "https://nomadwarmachine.co.uk/feed/",
-      "post_title": "Give Frank Beard a beard",
-      "post_url": "https://nomadwarmachine.co.uk/2026/11/15/give-frank-beard-a-beard/",
-      "published": "2026-11-15T11:17:19Z",
-      "summary": "A DailyCreate project adds a beard to a photograph of Frank Beard, the ZZ Top drummer noted for being the only member without one."
+      "post_title": "A Turnip Shepherd",
+      "post_url": "https://nomadwarmachine.co.uk/2026/11/16/a-turnip-shepherd/",
+      "published": "2026-11-16T10:36:56Z",
+      "summary": "A Creative Commons photograph and NightCafe-generated image accompany a DailyCreate prompt about celebrating obscure Old English census occupations, focusing on the turnip shepherd."
     },
     {
-      "blog_title": "Words and essays and more",
-      "blog_url": "https://www.omz13.com/",
-      "feed_url": "https://www.omz13.com/feed.rss",
-      "post_title": "immouseable",
-      "post_url": "https://www.omz13.com/fieldnotes/immouseable",
-      "published": "2026-11-15T10:25:00Z",
-      "summary": "“Immouseable” is a coined term describing a computer mouse or trackball rendered immobile by dust or dirt clogging its optical sensor."
+      "blog_title": "ThinkRoot",
+      "blog_url": "https://thinkroot.xyz/",
+      "feed_url": "https://thinkroot.xyz/feed.php",
+      "post_title": "TuxTalk, dictare vocală în orice program pe Linux",
+      "post_url": "https://thinkroot.xyz/tuxtalk-dictare-vocala-in-orice-program-pe-linux",
+      "published": "2026-11-16T10:00:00Z",
+      "summary": "TuxTalk este un program Linux de dictare vocală offline, compatibil cu aplicații Wayland și X11, care oferă instalare, configurare și corectare a textului."
+    },
+    {
+      "blog_title": "Gamer Of Passion",
+      "blog_url": "https://gamerofpassion.com/",
+      "feed_url": "https://gamerofpassion.com/feed/",
+      "post_title": "Stellaris Best Ascension Path (4.5): Tier List by Empire Type",
+      "post_url": "https://gamerofpassion.com/stellaris-best-ascension-path/",
+      "published": "2026-11-16T08:00:00Z",
+      "summary": "A Stellaris 4.5.4 guide ranks ascension paths for seven empire types, comparing requirements, bonuses, timings, expansions, and recommended choices."
+    },
+    {
+      "blog_title": "Rishi Dass",
+      "blog_url": "https://rishidass.net",
+      "feed_url": "https://rishidass.net/posts_feed",
+      "post_title": "Knowember",
+      "post_url": "https://rishidass.net/posts/knowember",
+      "published": "2026-11-16T06:26:00Z",
+      "summary": "Rishi Dass responds to Knowember prompts, introducing his name, Bombay, photography, text-only blog, writing interests, and weekly email about natural professional living."
+    },
+    {
+      "blog_title": "Cynni’s Blog",
+      "blog_url": "https://cynnisblog.wordpress.com/",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "Depression or (autistic) burnout? 🥺",
+      "post_url": "https://cynnisblog.wordpress.com/2026/11/16/depression-or-autistic-burnout-%f0%9f%a5%ba/",
+      "published": "2026-11-16T06:00:12Z",
+      "summary": "Cynni examines overlapping symptoms of depression and autistic burnout, contrasting their causes, effects, misdiagnosis risks, and differing approaches to recovery."
+    },
+    {
+      "blog_title": "Divergent Rays' Blog",
+      "blog_url": "https://divergentrays.com/blog/",
+      "feed_url": "https://divergentrays.com/blog/blogfeed.xml",
+      "post_title": "Weekly Wrap Up 136",
+      "post_url": "https://divergentrays.com/blog/posts/2026-11-15-Weekly-Wrap-Up-136.html",
+      "published": "2026-11-16T04:39:00Z",
+      "summary": "Weekly Wrap Up 136 shares unusual stories, lo-pi radio, mail-club correspondence, postcard art, and experiences from Scottsdale’s Canal Convergence festival."
+    },
+    {
+      "blog_title": "Valentine's days",
+      "blog_url": "https://valentine.bearblog.dev/",
+      "feed_url": "https://valentine.bearblog.dev/feed/",
+      "post_title": "knowemberrr",
+      "post_url": "https://valentine.bearblog.dev/knowemberrr/",
+      "published": "2026-11-16T02:20:47Z",
+      "summary": "Valentine introduces their Philippines-based blog about student life, med school, music, creative writing, and personal struggles with identity and becoming someone."
+    },
+    {
+      "blog_title": "JVT Workshop",
+      "blog_url": "http://josephskyrim.blogspot.com/",
+      "feed_url": "http://josephskyrim.blogspot.com/feeds/posts/default",
+      "post_title": "Brothers under Fire and The Mongoose",
+      "post_url": "http://josephskyrim.blogspot.com/2026/11/brothers-under-fire-and-mongoose.html",
+      "published": "2026-11-16T02:09:22Z",
+      "summary": "Prime’s action films Brothers under Fire and The Mongoose follow soldiers confronting cartels and a veteran fleeing in a stolen high-tech car."
     }
   ]
 }
