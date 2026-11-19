@@ -1,12 +1,147 @@
 {
-  "generated_at": "2026-11-18T16:27:32.713244Z",
-  "source_generated_at": "2026-11-18T16:26:41.761625Z",
+  "generated_at": "2026-11-19T01:13:16.745243Z",
+  "source_generated_at": "2026-11-19T01:12:25.355880Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
   "post_count": 20,
-  "summary_count": 19,
+  "summary_count": 18,
   "posts": [
+    {
+      "blog_title": "情報の灯台",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/pinterest-rss/",
+      "post_title": "民主党ガルシア、トランプ一族・側近12人に記録保全を要請。利益相反・DHS不正・エプスタイン隠蔽の3軸で調査へ",
+      "post_url": "https://joho-todai.com/democrat-garcia-trump-investigation-conflicts-dhs-fraud/",
+      "published": "2026-11-19T00:06:18Z",
+      "summary": "Robert Garcia sent record-preservation letters to 12 Trump relatives and associates, outlining planned congressional inquiries into conflicts of interest, DHS contracts, and Epstein-related documents."
+    },
+    {
+      "blog_title": "コーポ雪原",
+      "blog_url": "https://coop-setsugen.com/",
+      "feed_url": "https://coop-setsugen.com/feed.xml",
+      "post_title": "自画自賛",
+      "post_url": "https://coop-setsugen.com/essay/2026/11/19/",
+      "published": "2026-11-19T00:00:00Z",
+      "summary": "A retrospective revisits personal writings on depression, repetition, identity, memory, art, social criticism, and finding meaning through careful observation and dialogue."
+    },
+    {
+      "blog_title": "粉红路",
+      "blog_url": "https://pinkway.mataroa.blog/",
+      "feed_url": "https://pinkway.mataroa.blog/rss/",
+      "post_title": "徘徊",
+      "post_url": "https://pinkway.mataroa.blog/blog/a6a-61-d08/",
+      "published": "2026-11-19T00:00:00Z",
+      "summary": null
+    },
+    {
+      "blog_title": "スナックエルベ",
+      "blog_url": "https://elve.club/",
+      "feed_url": "https://elve.club/feed",
+      "post_title": "おまけ漫画",
+      "post_url": "https://elve.club/entry/2026/11/19/080000?utm_source=feed",
+      "published": "2026-11-18T23:00:00Z",
+      "summary": "A humorous bonus comic recounts the narrator and father laughing at the mother’s sleep-talking after a nighttime bathroom interruption."
+    },
+    {
+      "blog_title": "Leekscosycorner",
+      "blog_url": "https://leekscosycorner.com/",
+      "feed_url": "https://leekscosycorner.com/feed/",
+      "post_title": "League of Legends Comeback: From Riftbound TCG to K/DA’s New Album",
+      "post_url": "https://leekscosycorner.com/2026/11/18/league-of-legends-riftbound/",
+      "published": "2026-11-18T22:24:19Z",
+      "summary": "The writer’s renewed interest in League of Legends spans K/DA’s music, Arcane, learning champions, and exploring the Riftbound physical trading card game."
+    },
+    {
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "⚙︎ Unexpected Accent Color Change in Ivory",
+      "post_url": "https://jagsworkshop.com/2026/11/ivory-accent-color-change/",
+      "published": "2026-11-18T22:09:17Z",
+      "summary": "Ivory’s two-finger swipe gesture unexpectedly changes accent colors, causing confusion about its theme settings, gesture controls, and a possible accent-selection display bug."
+    },
+    {
+      "blog_title": "Gamer Of Passion",
+      "blog_url": "https://gamerofpassion.com/",
+      "feed_url": "https://gamerofpassion.com/feed/",
+      "post_title": "Bannerlord Khuzaits Guide: Troop Tree, Best Units and Culture Bonuses (War Sails, v1.5.7)",
+      "post_url": "https://gamerofpassion.com/bannerlord-khuzait/",
+      "published": "2026-11-18T22:00:00Z",
+      "summary": "A guide to Bannerlord’s Khuzait troop tree covers unit roles, skills, equipment, armor, horse requirements, culture details, and version-specific changes in War Sails v1.5.7."
+    },
+    {
+      "blog_title": "Wry Writer",
+      "blog_url": "https://wrywriter.ca",
+      "feed_url": "https://wrywriter.ca/posts_feed",
+      "post_title": "Glory Main by Henry O’Neil",
+      "post_url": "https://alexandrawolfe.ca/posts/glory-main-by-henry-oneil",
+      "published": "2026-11-18T20:43:00Z",
+      "summary": "Henry V. O’Neil’s Glory Main follows four contrasting survivors stranded on a harsh world, battling environmental dangers, deception, starvation, and humanlike Simulants amid war."
+    },
+    {
+      "blog_title": "Pretend Typewriter",
+      "blog_url": "https://pretendtypewriter.net/",
+      "feed_url": "https://pretendtypewriter.net/feed/",
+      "post_title": "note - eine kleine Geschichte",
+      "post_url": "https://pretendtypewriter.net/note-eine-kleine-geschichte/",
+      "published": "2026-11-18T20:15:27Z",
+      "summary": "A brief humorous German-language story written for Daniel during a moment of boredom is presented with an acknowledgment that it may contain errors."
+    },
+    {
+      "blog_title": "Personal InfoCloud",
+      "blog_url": "https://personalinfocloud.com/",
+      "feed_url": "https://personalinfocloud.com/feed/",
+      "post_title": "Four Cornerstones of Development",
+      "post_url": "https://personalinfocloud.com/blog/2026/11/18/four-cornerstones-of-development/",
+      "published": "2026-11-18T19:47:37Z",
+      "summary": "The post presents four development cornerstones—usable, reliable, maintainable, and repeatable—as essential considerations for building, shipping, supporting, and scaling products."
+    },
+    {
+      "blog_title": "ThinkRoot",
+      "blog_url": "https://thinkroot.xyz/",
+      "feed_url": "https://thinkroot.xyz/feed.php",
+      "post_title": "GTA VI fans",
+      "post_url": "https://thinkroot.xyz/galerie/gta-vi-fans",
+      "published": "2026-11-18T19:38:00Z",
+      "summary": null
+    },
+    {
+      "blog_title": "Sal's Blog",
+      "blog_url": "https://sals.place/",
+      "feed_url": "https://sals.place/feed/",
+      "post_title": "Alfred 6 is here",
+      "post_url": "https://sals.place/blog/alfred-6-is-here/",
+      "published": "2026-11-18T19:20:23Z",
+      "summary": "Sal’s Blog announces Alfred 6’s release and points readers to the official “What’s New” page for details during a flight home."
+    },
+    {
+      "blog_title": "What the Fran",
+      "blog_url": "https://francescrossley.com/",
+      "feed_url": "https://francescrossley.com/feed/",
+      "post_title": "Cabinet tidy up",
+      "post_url": "https://francescrossley.com/cabinet-tidy-up/",
+      "published": "2026-11-18T19:00:00Z",
+      "summary": "A personal account describes tidying an overloaded Nathan cabinet, cataloguing its books and contents, and reflecting on how everyday use leaves stories in household objects."
+    },
+    {
+      "blog_title": "Inventory Full",
+      "blog_url": "https://bhagpuss.blogspot.com/",
+      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
+      "post_title": "What Are Friends For?",
+      "post_url": "https://bhagpuss.blogspot.com/2026/11/what-are-friends-for.html",
+      "published": "2026-11-18T16:31:57Z",
+      "summary": "Neverness To Everness Version 1.5’s “Once Upon A Glitched Call” is praised for immersive, exceptionally written storytelling combining dialogue, animation, visuals, music, and interactive exploration."
+    },
+    {
+      "blog_title": "The Ancient Gaming Noob",
+      "blog_url": "https://tagn.wordpress.com/",
+      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
+      "post_title": "Over the Hill – No Trails in the Desert",
+      "post_url": "https://tagn.wordpress.com/2026/11/18/over-the-hill-no-trails-in-the-desert/",
+      "published": "2026-11-18T16:15:42Z",
+      "summary": "The post recounts exploring Over the Hill’s Algerian desert maps, navigating unmarked routes, sandy terrain, rocky climbs, vehicle choices, winch mishaps, and scattered points of interest."
+    },
     {
       "blog_title": "Taxodium",
       "blog_url": "https://taxodium.ink/",
@@ -35,15 +170,6 @@
       "summary": "“Word Nerd Alert: Exorbitant” defines the adjective’s meanings, pronunciation, Latin and Middle English roots, related terms, and first known use."
     },
     {
-      "blog_title": "ThinkRoot",
-      "blog_url": "https://thinkroot.xyz/",
-      "feed_url": "https://thinkroot.xyz/feed.php",
-      "post_title": "Crează-ți situl prin Telegram",
-      "post_url": "https://thinkroot.xyz/jurnal/creaza-ti-situl-prin-telegram",
-      "published": "2026-11-18T14:52:00Z",
-      "summary": "Publio, created by Cauê Napier, lets users build and update websites through Telegram messages, while its creator considers the project’s limited adoption and future."
-    },
-    {
       "blog_title": "NomadWarMachine",
       "blog_url": "https://nomadwarmachine.co.uk/",
       "feed_url": "https://nomadwarmachine.co.uk/feed/",
@@ -60,132 +186,6 @@
       "post_url": "https://joho-todai.com/en/nand-flash-price-drop-smartphone-pc-storage/",
       "published": "2026-11-18T14:17:18Z",
       "summary": "NAND spot prices have fallen sharply as costly memory weakens smartphone and PC demand, while AI-focused enterprise SSD demand and DRAM prices remain strong."
-    },
-    {
-      "blog_title": "情報の灯台",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "NANDスポット価格が1か月で20%下落。スマホ・PC向けだけが崩れ始めた理由",
-      "post_url": "https://joho-todai.com/nand-flash-price-drop-smartphone-pc-storage/",
-      "published": "2026-11-18T14:17:18Z",
-      "summary": null
-    },
-    {
-      "blog_title": "Alligators and aneurysms!",
-      "blog_url": "https://alligatorsandaneurysms.wordpress.com/",
-      "feed_url": "http://alligatorsandaneurysms.wordpress.com/feed/",
-      "post_title": "I Expected to Hate It: Why My Dune Messiah Reread Was a Total Win",
-      "post_url": "https://alligatorsandaneurysms.wordpress.com/2026/11/18/i-expected-to-hate-it-why-my-dune-messiah-reread-was-a-total-win/",
-      "published": "2026-11-18T13:18:34Z",
-      "summary": "A reread of Frank Herbert’s Dune Messiah unexpectedly proves enjoyable, especially through its competing prescient forces, Bene Tleilax, ghola Duncan Idaho, Alia, and unresolved character concerns."
-    },
-    {
-      "blog_title": "Blog - 鳥啼く頃に",
-      "blog_url": "https://torinakukoroni.blog.fc2.com/",
-      "feed_url": "https://torinakukoroni.blog.fc2.com/?xml",
-      "post_title": "映画『クリスマス・キャロル／３人のゴーストたち』の軽い感想",
-      "post_url": "https://torinakukoroni.blog.fc2.com/blog-entry-412.html",
-      "published": "2026-11-18T13:18:08Z",
-      "summary": "A light review of 『クリスマス・キャロル／３人のゴーストたち』 praises its historical atmosphere, horror elements, performances, visual style, and Ebenezer’s transformation."
-    },
-    {
-      "blog_title": "Mutant Reviewers",
-      "blog_url": "https://mutantreviewersmovies.com",
-      "feed_url": "https://mutantreviewersmovies.com/feed/",
-      "post_title": "The Blob (1988) — A take-no-prisoners pile of homicidal goo",
-      "post_url": "https://mutantreviewersmovies.com/2026/11/18/the-blob-1988-a-take-no-prisoners-pile-of-homicidal-goo/",
-      "published": "2026-11-18T13:00:51Z",
-      "summary": "Chuck Russell’s 1988 remake follows teenagers Brian and Meg as they battle a rapidly growing alien goo that devours their small California town."
-    },
-    {
-      "blog_title": "Pretend Typewriter",
-      "blog_url": "https://pretendtypewriter.net/",
-      "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "TEA-FOR-ONE SETS",
-      "post_url": "https://pretendtypewriter.net/tea-for-one-sets/",
-      "published": "2026-11-18T11:30:00Z",
-      "summary": "The writer explores tea-for-one sets, recounting a pumpkin set’s renewed use, researching designs and secondhand options, and resisting tempting purchases."
-    },
-    {
-      "blog_title": "スナックエルベ",
-      "blog_url": "https://elve.club/",
-      "feed_url": "https://elve.club/feed",
-      "post_title": "てすてす２",
-      "post_url": "https://elve.club/entry/2026/11/18/200425?utm_source=feed",
-      "published": "2026-11-18T11:04:25Z",
-      "summary": "A test post examines embedding TikTok videos, noting differences between computer access, previews, publication, and Gemini’s comment about the title length."
-    },
-    {
-      "blog_title": "Bavatuesdays",
-      "blog_url": "https://bavatuesdays.com",
-      "feed_url": "http://bavatuesdays.com/feed/",
-      "post_title": "The Man/Machine Disk Liberation Tour",
-      "post_url": "https://bavatuesdays.com/the-man-machine-disk-liberation-tour/",
-      "published": "2026-11-18T10:12:37Z",
-      "summary": "Bavatuesdays recounts playful conversations with ChatGPT during server maintenance, describing its increasingly personalized, profane hype-man persona and contrasting text and voice interactions."
-    },
-    {
-      "blog_title": "Rishi Dass",
-      "blog_url": "https://rishidass.net",
-      "feed_url": "https://rishidass.net/posts_feed",
-      "post_title": "Don’t sign up",
-      "post_url": "https://rishidass.net/posts/dont-sign-up",
-      "published": "2026-11-18T08:37:22Z",
-      "summary": "Rishi Dass criticizes exchanging free resources for email addresses, arguing that unsolicited mailing lists are spam and that genuine readers can access his writing without such tactics."
-    },
-    {
-      "blog_title": "ROSKA'S REVERIE ⋆౨ৎ˚⟡˖ ࣪",
-      "blog_url": "https://polvoronii.bearblog.dev/",
-      "feed_url": "https://polvoronii.bearblog.dev/feed/",
-      "post_title": "unbearably laggy",
-      "post_url": "https://polvoronii.bearblog.dev/unbearably-laggy/",
-      "published": "2026-11-18T07:01:46Z",
-      "summary": "A brief status update from 18 November 2026 laments the writer’s frustratingly slow devices."
-    },
-    {
-      "blog_title": "#デザイン 記事まとめ",
-      "blog_url": "https://note.com/notemagazine/m/m57787022cedc",
-      "feed_url": "https://note.mu/notemag/m/m57787022cedc/rss",
-      "post_title": "「探究の自己物語」 ーこの仕事にどのようなテーマを込めて歩んでいるのか",
-      "post_url": "https://note.com/uss_un/n/n1634019a9700",
-      "published": "2026-11-18T06:45:04Z",
-      "summary": "“探究の自己物語” presents a framework connecting experience, personal values, subjects, experiments, and hypotheses to reconstruct work as a meaningful personal narrative."
-    },
-    {
-      "blog_title": "Cynni’s Blog",
-      "blog_url": "https://cynnisblog.wordpress.com/",
-      "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "Unable to recharge 🪫",
-      "post_url": "https://cynnisblog.wordpress.com/2026/11/18/unable-to-recharge-%f0%9f%aa%ab/",
-      "published": "2026-11-18T06:00:58Z",
-      "summary": "Cynni describes exhaustion from caring for Koa amid sleep deprivation, chronic pain, limited freedom, and learning how to support his individual needs."
-    },
-    {
-      "blog_title": "Kaylriene",
-      "blog_url": "https://kaylriene.com/",
-      "feed_url": "https://kaylriene.wordpress.com/feed/",
-      "post_title": "Reflecting on Midnight Mythic Plus In Season 2 – Myth Obtained and the Challenges of Season 2",
-      "post_url": "https://kaylriene.com/2026/11/17/reflecting-on-midnight-mythic-plus-in-season-2-myth-obtained-and-the-challenges-of-season-2/",
-      "published": "2026-11-18T05:14:53Z",
-      "summary": "Kaylriene reflects on achieving Keystone Myth in Midnight Season 2, evaluating Restoration Shaman healing, Riptide management, dungeon challenges, and the season’s gearing and balance issues."
-    },
-    {
-      "blog_title": "20ily April",
-      "blog_url": "https://20ilyapril.wordpress.com/",
-      "feed_url": "https://20ilyapril.wordpress.com/feed/",
-      "post_title": "Invaluable Considerations",
-      "post_url": "https://20ilyapril.wordpress.com/2026/11/18/invaluable-considerations/",
-      "published": "2026-11-18T04:58:05Z",
-      "summary": "The piece describes sexual fantasies, preferences, and the perceived irreplaceability of physical intimacy with men, alongside brief thoughts about menstruation, heat, and cuffing season."
-    },
-    {
-      "blog_title": "Sal's Blog",
-      "blog_url": "https://sals.place/",
-      "feed_url": "https://sals.place/feed/",
-      "post_title": "Work trip travel kit",
-      "post_url": "https://sals.place/blog/travel-kit/",
-      "published": "2026-11-18T04:04:38Z",
-      "summary": "Sal outlines his three-day New York work-trip kit, including an Evergoods backpack, iPad, headphones, chargers, power bank, pill organizer, and Owala water bottle."
     }
   ]
 }
