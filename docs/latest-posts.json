@@ -1,17 +1,121 @@
 {
-  "generated_at": "2026-11-19T16:33:05.557158Z",
+  "generated_at": "2026-11-20T01:15:20.704830Z",
   "feed_count": 358,
   "successful_feeds": 329,
   "failed_feeds": 29,
   "post_count": 20,
   "posts": [
     {
+      "blog_title": "情報の灯台",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/pinterest-rss/",
+      "post_title": "Cisco、Java4Shell影響の22製品を公表。IOS XEとUCS Centralは対象外に",
+      "post_url": "https://joho-todai.com/cisco-java4shell-22-products-affected/",
+      "published": "2026-11-20T00:48:14Z"
+    },
+    {
+      "blog_title": "Joho Todai (English)",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/en/rss/",
+      "post_title": "UK Tribunal Allows Disclosure That Government Ordered Apple to Provide Access to Encrypted Data",
+      "post_url": "https://joho-todai.com/en/apple-encryption-access-uk-court-disclosure/",
+      "published": "2026-11-20T00:33:54Z"
+    },
+    {
+      "blog_title": "Michael Harley",
+      "blog_url": "https://michaelharley.net",
+      "feed_url": "https://obsolete29.com/feed/feed.xml",
+      "post_title": "Crystal Lake (2026) — ⭐⭐⭐⭐½ (4.5/5)",
+      "post_url": "https://michaelharley.net/watching/2026/11/19/crystal-lake-s1/",
+      "published": "2026-11-20T00:08:12Z"
+    },
+    {
+      "blog_title": "JVT Workshop",
+      "blog_url": "http://josephskyrim.blogspot.com/",
+      "feed_url": "http://josephskyrim.blogspot.com/feeds/posts/default",
+      "post_title": "Wonka's The Golden Ticket and Fisk",
+      "post_url": "http://josephskyrim.blogspot.com/2026/11/wonkas-golden-ticket-and-fisk.html",
+      "published": "2026-11-19T22:21:41Z"
+    },
+    {
+      "blog_title": "When a Gamer Girl Grows up",
+      "blog_url": "https://grownupgamergirl.wordpress.com/",
+      "feed_url": "https://grownupgamergirl.wordpress.com/feed/",
+      "post_title": "Jonesing for GTA 6",
+      "post_url": "https://grownupgamergirl.wordpress.com/2026/11/19/jonesing-for-gta-6/",
+      "published": "2026-11-19T21:28:16Z"
+    },
+    {
+      "blog_title": "Ubergeek Kelly's World",
+      "blog_url": "https://www.kgadams.net/",
+      "feed_url": "https://www.kgadams.net/feed",
+      "post_title": "Yardwork part one: the Destruction",
+      "post_url": "https://www.kgadams.net/life/yardwork-part-one-the-destruction",
+      "published": "2026-11-19T20:29:02Z"
+    },
+    {
+      "blog_title": "Inventory Full",
+      "blog_url": "https://bhagpuss.blogspot.com/",
+      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
+      "post_title": "Flowered Up",
+      "post_url": "https://bhagpuss.blogspot.com/2026/11/flowered-up.html",
+      "published": "2026-11-19T20:23:29Z"
+    },
+    {
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "Anthropic IPO Mints Thousands of Millionaires",
+      "post_url": "https://www.msn.com/en-us/money/top-stocks/anthropic-ipo-to-mint-thousands-of-millionaires/ar-AA2hKOca",
+      "published": "2026-11-19T20:16:42Z"
+    },
+    {
+      "blog_title": "Gamer Of Passion",
+      "blog_url": "https://gamerofpassion.com/",
+      "feed_url": "https://gamerofpassion.com/feed/",
+      "post_title": "No Man’s Sky Corvette Guide (Forsaken): How to Build One and Get Parts",
+      "post_url": "https://gamerofpassion.com/no-mans-sky-corvette/",
+      "published": "2026-11-19T20:00:00Z"
+    },
+    {
+      "blog_title": "Kay Talks Games",
+      "blog_url": "https://kaytalksgames.wordpress.com/",
+      "feed_url": "https://kaytalksgames.wordpress.com/feed/",
+      "post_title": "The Wii Turns 20",
+      "post_url": "https://kaytalksgames.wordpress.com/2026/11/19/the-wii-turns-20/",
+      "published": "2026-11-19T18:56:10Z"
+    },
+    {
+      "blog_title": "World of Matticus",
+      "blog_url": "https://worldofmatticus.com/",
+      "feed_url": "https://worldofmatticus.com/feed/",
+      "post_title": "What to Do at Level 60 in WoW Forever",
+      "post_url": "https://worldofmatticus.com/what-to-do-at-level-60-in-wow-forever/",
+      "published": "2026-11-19T18:50:22Z"
+    },
+    {
+      "blog_title": "What the Fran",
+      "blog_url": "https://francescrossley.com/",
+      "feed_url": "https://francescrossley.com/feed/",
+      "post_title": "Almanac makeover",
+      "post_url": "https://francescrossley.com/almanac-makeover/",
+      "published": "2026-11-19T18:00:00Z"
+    },
+    {
       "blog_title": "Toby Geeks Out",
       "blog_url": "https://tobygeeksout.micro.blog/",
       "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
-      "post_title": "testing - will be removed shortly",
-      "post_url": "https://tobygeeksout.micro.blog/2026/11/19/testing-will-be-removed-shortly.html",
-      "published": "2026-11-19T16:16:14Z"
+      "post_title": "On This Day: The Chess Player",
+      "post_url": "https://tobygeeksout.micro.blog/2026/11/19/on-this-day-the-chess.html",
+      "published": "2026-11-19T16:49:34Z"
+    },
+    {
+      "blog_title": "The Ancient Gaming Noob",
+      "blog_url": "https://tagn.wordpress.com/",
+      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
+      "post_title": "Grand Theft Auto VI Nominated for Game of the Year",
+      "post_url": "https://tagn.wordpress.com/2026/11/19/grand-theft-auto-vi-nominated-for-game-of-the-year/",
+      "published": "2026-11-19T16:15:53Z"
     },
     {
       "blog_title": "Cobb.land",
@@ -38,36 +142,12 @@
       "published": "2026-11-19T14:07:40Z"
     },
     {
-      "blog_title": "Joho Todai (English)",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/en/rss/",
-      "post_title": "Microsoft To Do Will Shut Down on June 30, 2027: Planner for Work, No Successor for Personal Accounts",
-      "post_url": "https://joho-todai.com/en/microsoft-to-do-shutting-down-2027/",
-      "published": "2026-11-19T13:47:00Z"
-    },
-    {
-      "blog_title": "情報の灯台",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "Microsoft To Do、2027年6月30日に終了。職場はPlannerへ、個人は後継なし",
-      "post_url": "https://joho-todai.com/microsoft-to-do-shutting-down-2027/",
-      "published": "2026-11-19T13:47:00Z"
-    },
-    {
       "blog_title": "Mutant Reviewers",
       "blog_url": "https://mutantreviewersmovies.com",
       "feed_url": "https://mutantreviewersmovies.com/feed/",
       "post_title": "Turbulence 2: Fear of Flying (1999) — The fabled franchise hits DTV",
       "post_url": "https://mutantreviewersmovies.com/2026/11/19/turbulence-2-fear-of-flying-1999-the-fabled-franchise-hits-dtv/",
       "published": "2026-11-19T13:00:54Z"
-    },
-    {
-      "blog_title": "Michael Harley",
-      "blog_url": "https://michaelharley.net",
-      "feed_url": "https://obsolete29.com/feed/feed.xml",
-      "post_title": "I like email",
-      "post_url": "https://michaelharley.net/posts/2026/11/19/i-like-email/",
-      "published": "2026-11-19T12:55:00Z"
     },
     {
       "blog_title": "African Music Forum",
@@ -84,86 +164,6 @@
       "post_title": "7周年イベ、誰の箒に乗るかとか料理のボイスの差分とかあるので…",
       "post_url": "https://392ms.witchserver.jp/kb/?postid=1298",
       "published": "2026-11-19T12:23:48Z"
-    },
-    {
-      "blog_title": "スナックエルベ",
-      "blog_url": "https://elve.club/",
-      "feed_url": "https://elve.club/feed",
-      "post_title": "コスト度外視コストコ視察①",
-      "post_url": "https://elve.club/entry/2026/11/19/204211?utm_source=feed",
-      "published": "2026-11-19T11:42:11Z"
-    },
-    {
-      "blog_title": "#デザイン 記事まとめ",
-      "blog_url": "https://note.com/notemagazine/m/m57787022cedc",
-      "feed_url": "https://note.mu/notemag/m/m57787022cedc/rss",
-      "post_title": "「作家性」 ―言葉にしきれない、その人らしいつながりのパターン",
-      "post_url": "https://note.com/uss_un/n/n2c61fb2c3622",
-      "published": "2026-11-19T11:37:31Z"
-    },
-    {
-      "blog_title": "Tobold's Blog",
-      "blog_url": "http://tobolds.blogspot.com/",
-      "feed_url": "http://feeds2.feedburner.com/ToboldsBlog",
-      "post_title": "Is it easy to make a great game?",
-      "post_url": "http://tobolds.blogspot.com/2026/11/is-it-easy-to-make-great-game.html",
-      "published": "2026-11-19T10:54:57Z"
-    },
-    {
-      "blog_title": "NomadWarMachine",
-      "blog_url": "https://nomadwarmachine.co.uk/",
-      "feed_url": "https://nomadwarmachine.co.uk/feed/",
-      "post_title": "My name backwards",
-      "post_url": "https://nomadwarmachine.co.uk/2026/11/19/my-name-backwards/",
-      "published": "2026-11-19T10:11:40Z"
-    },
-    {
-      "blog_title": "Matt's Blog",
-      "blog_url": "https://mtwb.blog/",
-      "feed_url": "https://mtwb.blog/index.xml",
-      "post_title": "🎬 Why I Put My Life Back On Paper",
-      "post_url": "https://mtwb.blog/videos/2026/why-i-put-my-life-back-on-paper/",
-      "published": "2026-11-19T07:48:49Z"
-    },
-    {
-      "blog_title": "X2600",
-      "blog_url": "https://write.as/blog-x2600/",
-      "feed_url": "https://write.as/blog-x2600/feed/",
-      "post_title": "log/backlog entry for ^nix on x2600 acct",
-      "post_url": "https://write.as/blog-x2600/log-backlog-entry-for-nix-on-x2600-acct?pk_campaign=rss-feed",
-      "published": "2026-11-19T06:25:39Z"
-    },
-    {
-      "blog_title": "Cynni’s Blog",
-      "blog_url": "https://cynnisblog.wordpress.com/",
-      "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "Thursday “Favorite TV-series” Quote",
-      "post_url": "https://cynnisblog.wordpress.com/2026/11/19/thursday-favorite-tv-series-quote/",
-      "published": "2026-11-19T06:00:00Z"
-    },
-    {
-      "blog_title": "Rishi Dass",
-      "blog_url": "https://rishidass.net",
-      "feed_url": "https://rishidass.net/posts_feed",
-      "post_title": "Five-star service",
-      "post_url": "https://rishidass.net/posts/five-star-service",
-      "published": "2026-11-19T05:40:48Z"
-    },
-    {
-      "blog_title": "Divergent Rays' Blog",
-      "blog_url": "https://divergentrays.com/blog/",
-      "feed_url": "https://divergentrays.com/blog/blogfeed.xml",
-      "post_title": "Pink Butterfly Tiara",
-      "post_url": "https://divergentrays.com/blog/posts/2026-11-18-Pink-Butterfly-Tiara.html",
-      "published": "2026-11-19T01:39:00Z"
-    },
-    {
-      "blog_title": "Daily Blogroll",
-      "blog_url": "http://westkarana.xyz",
-      "feed_url": "https://westkarana.xyz/rss.xml",
-      "post_title": "The Daily Blogroll — Thursday, 19 November 2026",
-      "post_url": "https://westkarana.xyz/2026/11/daily-blogroll-2026-11-19.html",
-      "published": "2026-11-19T00:00:00Z"
     }
   ]
 }
