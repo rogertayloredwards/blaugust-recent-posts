@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-21T15:21:04.802861Z",
+  "generated_at": "2026-11-21T23:47:24.802067Z",
   "feed_count": 358,
-  "successful_feeds": 328,
-  "failed_feeds": 30,
+  "successful_feeds": 323,
+  "failed_feeds": 35,
   "post_count": 20,
   "posts": [
     {
@@ -14,20 +14,108 @@
       "published": "2026-11-22T02:00:00Z"
     },
     {
-      "blog_title": "Joho Todai (English)",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/en/rss/",
-      "post_title": "Google to Shut Down Nest App on January 25, 2027; Manually Saved Video Clips Will Not Migrate Automatically",
-      "post_url": "https://joho-todai.com/en/google-nest-app-shutdown-2027/",
-      "published": "2026-11-21T14:55:06Z"
-    },
-    {
       "blog_title": "情報の灯台",
       "blog_url": "https://joho-todai.com/",
       "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "Google、Nestアプリを2027年1月25日に終了。手動保存の動画クリップは自動移行されず",
-      "post_url": "https://joho-todai.com/google-nest-app-shutdown-2027/",
-      "published": "2026-11-21T14:55:06Z"
+      "post_title": "Microsoft、セキュリティ製品をWindowsカーネルから分離する新基盤を正式提供。8社が順次対応へ",
+      "post_url": "https://joho-todai.com/microsoft-windows-kernel-security-product-separation/",
+      "published": "2026-11-21T23:42:54Z"
+    },
+    {
+      "blog_title": "Joho Todai (English)",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/en/rss/",
+      "post_title": "Europe-Japan Mercury Probe BepiColombo Passes Scheduled Orbit-Insertion Burn Window After Eight-Year Journey",
+      "post_url": "https://joho-todai.com/en/bepicolumbo-mercury-orbit-insertion/",
+      "published": "2026-11-21T23:30:54Z"
+    },
+    {
+      "blog_title": "Sal's Blog",
+      "blog_url": "https://sals.place/",
+      "feed_url": "https://sals.place/feed/",
+      "post_title": "Wired up Webmention; and about that Peugeot",
+      "post_url": "https://sals.place/blog/wired-up-webmentions/",
+      "published": "2026-11-21T23:05:26Z"
+    },
+    {
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "UK Government Forced to Disclose Secret Apple Backdoor Order",
+      "post_url": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/",
+      "published": "2026-11-21T22:05:13Z"
+    },
+    {
+      "blog_title": "Inventory Full",
+      "blog_url": "https://bhagpuss.blogspot.com/",
+      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
+      "post_title": "High School Daze",
+      "post_url": "https://bhagpuss.blogspot.com/2026/11/high-school-daze.html",
+      "published": "2026-11-21T19:35:11Z"
+    },
+    {
+      "blog_title": "Mike's Take On the Movies",
+      "blog_url": "https://mikestakeonthemovies.com",
+      "feed_url": "https://mikestakeonthemovies.com/feed/",
+      "post_title": "Actors Turned Director – One Time Only",
+      "post_url": "https://mikestakeonthemovies.com/2026/11/21/actors-turned-director-one-time-only/",
+      "published": "2026-11-21T18:49:02Z"
+    },
+    {
+      "blog_title": "Gamer Of Passion",
+      "blog_url": "https://gamerofpassion.com/",
+      "feed_url": "https://gamerofpassion.com/feed/",
+      "post_title": "No Man’s Sky Pirates Guide (Forsaken): Outlaw Systems, Smuggling and the Dreadnought",
+      "post_url": "https://gamerofpassion.com/no-mans-sky-pirates/",
+      "published": "2026-11-21T17:00:00Z"
+    },
+    {
+      "blog_title": "What the Fran",
+      "blog_url": "https://francescrossley.com/",
+      "feed_url": "https://francescrossley.com/feed/",
+      "post_title": "Untagging",
+      "post_url": "https://francescrossley.com/untagging/",
+      "published": "2026-11-21T17:00:00Z"
+    },
+    {
+      "blog_title": "Toby Geeks Out",
+      "blog_url": "https://tobygeeksout.micro.blog/",
+      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
+      "post_title": "Word Nerd Alert: Ameliorate",
+      "post_url": "https://tobygeeksout.micro.blog/2026/11/21/word-nerd-alert-ameliorate.html",
+      "published": "2026-11-21T16:56:59Z"
+    },
+    {
+      "blog_title": "WCRobinson",
+      "blog_url": "https://wcrobinson.org/",
+      "feed_url": "https://wcrobinson.org/feed/",
+      "post_title": "A New Adventure: My Two Weeks in India!",
+      "post_url": "https://wcrobinson.org/2026/11/21/a-new-adventure-my-two-weeks-in-india/",
+      "published": "2026-11-21T16:26:14Z"
+    },
+    {
+      "blog_title": "The Ancient Gaming Noob",
+      "blog_url": "https://tagn.wordpress.com/",
+      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
+      "post_title": "Friday Bullet Points on Saturday About EVE Online During the Seasonal News Lull",
+      "post_url": "https://tagn.wordpress.com/2026/11/21/friday-bullet-points-on-saturday-about-eve-online-during-the-seasonal-news-lull/",
+      "published": "2026-11-21T16:15:56Z"
+    },
+    {
+      "blog_title": "JASON JOURNALS",
+      "blog_url": "https://jasonjournals.com/",
+      "feed_url": "https://jasonjournals.com/feed/",
+      "post_title": "This new bundle of cuteness just showed up...",
+      "post_url": "https://jasonjournals.com/posts/2026-11-21-this-new-bundle-of",
+      "published": "2026-11-21T16:14:00Z"
+    },
+    {
+      "blog_title": "X2600",
+      "blog_url": "https://write.as/blog-x2600/",
+      "feed_url": "https://write.as/blog-x2600/feed/",
+      "post_title": "Finalizing Fall",
+      "post_url": "https://write.as/blog-x2600/finalizing-fall?pk_campaign=rss-feed",
+      "published": "2026-11-21T14:05:07Z"
     },
     {
       "blog_title": "TGLG",
@@ -54,14 +142,6 @@
       "published": "2026-11-21T13:00:09Z"
     },
     {
-      "blog_title": "Gamer Of Passion",
-      "blog_url": "https://gamerofpassion.com/",
-      "feed_url": "https://gamerofpassion.com/feed/",
-      "post_title": "Hades 1 Epilogue Guide: Every Requirement for the True Ending",
-      "post_url": "https://gamerofpassion.com/hades-epilogue/",
-      "published": "2026-11-21T12:00:00Z"
-    },
-    {
       "blog_title": "The Weekly Miscellaneous",
       "blog_url": "https://theweeklymiscellaneous.co.uk/",
       "feed_url": "https://theweeklymiscellaneous.co.uk/index.xml",
@@ -84,86 +164,6 @@
       "post_title": "UNRAVELING",
       "post_url": "https://pretendtypewriter.net/unraveling/",
       "published": "2026-11-21T10:35:00Z"
-    },
-    {
-      "blog_title": "African Music Forum",
-      "blog_url": "https://amf.didiermary.fr/",
-      "feed_url": "https://amf.didiermary.fr/feed/",
-      "post_title": "Nigeria 80",
-      "post_url": "https://amf.didiermary.fr/nigeria-80/",
-      "published": "2026-11-21T10:22:25Z"
-    },
-    {
-      "blog_title": "Cubic Creativity",
-      "blog_url": "https://cubiccreativity.wordpress.com/",
-      "feed_url": "https://cubiccreativity.wordpress.com/feed/",
-      "post_title": "Stalk’s Mini Review-Mashup 9",
-      "post_url": "https://cubiccreativity.wordpress.com/2026/11/21/stalks-mini-review-mashup-9/",
-      "published": "2026-11-21T07:00:00Z"
-    },
-    {
-      "blog_title": "Rishi Dass",
-      "blog_url": "https://rishidass.net",
-      "feed_url": "https://rishidass.net/posts_feed",
-      "post_title": "Creative buffer",
-      "post_url": "https://rishidass.net/posts/creative-buffer",
-      "published": "2026-11-21T06:55:07Z"
-    },
-    {
-      "blog_title": "Cynni’s Blog",
-      "blog_url": "https://cynnisblog.wordpress.com/",
-      "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "📺 Re-watching – I 💜 it!",
-      "post_url": "https://cynnisblog.wordpress.com/2026/11/21/%f0%9f%93%ba-re-watching-i-%f0%9f%92%9c-it/",
-      "published": "2026-11-21T06:00:34Z"
-    },
-    {
-      "blog_title": "Toby Geeks Out",
-      "blog_url": "https://tobygeeksout.micro.blog/",
-      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
-      "post_title": "📚 Currently Reading: The Ferryman's Daughter (Bloodlines)",
-      "post_url": "https://tobygeeksout.micro.blog/2026/11/21/currently-reading-the-ferrymans-daughter.html",
-      "published": "2026-11-21T05:34:29Z"
-    },
-    {
-      "blog_title": "Blog - 鳥啼く頃に",
-      "blog_url": "https://torinakukoroni.blog.fc2.com/",
-      "feed_url": "https://torinakukoroni.blog.fc2.com/?xml",
-      "post_title": "複数のサービスを使っておくのって大事だな～",
-      "post_url": "https://torinakukoroni.blog.fc2.com/blog-entry-416.html",
-      "published": "2026-11-21T02:42:18Z"
-    },
-    {
-      "blog_title": "An Archaeopteryx",
-      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
-      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
-      "post_title": "Divinity Original Sin 2 - Act 4 - Wrecker's Cove - 42h30",
-      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-11-20-dos2/",
-      "published": "2026-11-21T02:28:22Z"
-    },
-    {
-      "blog_title": "JAG’s Workshop",
-      "blog_url": "https://jagsworkshop.com/",
-      "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "Focusing on the Important Work of Being President, Donald Trump Posthumously Pardons Pete Rose",
-      "post_url": "https://www.nbcnews.com/politics/donald-trump/posthumously-pardons-pete-rose-mlb-hit-leader-betting-baseball-rcna610308",
-      "published": "2026-11-21T01:43:52Z"
-    },
-    {
-      "blog_title": "Daily Blogroll",
-      "blog_url": "http://westkarana.xyz",
-      "feed_url": "https://westkarana.xyz/rss.xml",
-      "post_title": "The Daily Blogroll — Saturday, 21 November 2026",
-      "post_url": "https://westkarana.xyz/2026/11/daily-blogroll-2026-11-21.html",
-      "published": "2026-11-21T00:00:00Z"
-    },
-    {
-      "blog_title": "Tommyeveryday",
-      "blog_url": "https://tommyeveryday.mataroa.blog",
-      "feed_url": "https://tommyeveryday.mataroa.blog/rss/",
-      "post_title": "Saturday November 21, 2026",
-      "post_url": "https://tommyeveryday.mataroa.blog/blog/saturday-november-21-2026/",
-      "published": "2026-11-21T00:00:00Z"
     }
   ]
 }
