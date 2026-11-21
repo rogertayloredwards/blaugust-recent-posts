@@ -8,8 +8,8 @@
       "post_url": "https://biobreak.wordpress.com/2026/11/02/syps-gaming-goals-for-november-2026/",
       "published": "2026-11-02T14:00:22Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://3rdworldecol.neocities.org/RSS.xml": {
@@ -21,8 +21,8 @@
       "post_url": "https://3rdworldecol.neocities.org/",
       "published": "2023-08-04T00:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://caniplaytooblog.wordpress.com/feed/": {
@@ -34,8 +34,8 @@
       "post_url": "https://caniplaytooblog.wordpress.com/2026/07/30/am-i-back/",
       "published": "2026-07-30T17:35:40Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://thoughts.uncountable.uk/feed/": {
@@ -47,9 +47,9 @@
       "post_url": "https://thoughts.uncountable.uk/august-2026-indieweb-carnival-roundup/",
       "published": "2026-09-03T05:00:00Z"
     },
-    "last_success": "2026-11-20T16:08:03.579916Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
-    "last_error": "ValueError: no usable entries (<unknown>:2:119: not well-formed (invalid token))"
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
+    "last_error": null
   },
   "https://mailvaltar.wordpress.com/feed/": {
     "post": {
@@ -60,13 +60,13 @@
       "post_url": "https://mailvaltar.wordpress.com/2026/11/12/getting-ganked-is-good-occasionally/",
       "published": "2026-11-12T21:17:40Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://coldtoast.org/index.xml": {
-    "last_checked": "2026-11-21T00:47:00.100035Z",
-    "last_error": "ConnectTimeout: HTTPSConnectionPool(host='coldtoast.org', port=443): Max retries exceeded with url: /index.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='coldtoast.org', port=443) at 0x7839741c57c0>, 'Connection to coldtoast.org timed out. (connect timeout=10.0)'))"
+    "last_checked": "2026-11-21T15:21:04.802861Z",
+    "last_error": "ConnectTimeout: HTTPSConnectionPool(host='coldtoast.org', port=443): Max retries exceeded with url: /index.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='coldtoast.org', port=443) at 0x7ea470c3eb40>, 'Connection to coldtoast.org timed out. (connect timeout=10.0)'))"
   },
   "https://criminallyvulgar.dev/feed/": {
     "post": {
@@ -77,8 +77,8 @@
       "post_url": "https://criminallyvulgar.dev/what-veilguard-tells-me-about-mass-effect-5/",
       "published": "2026-10-29T09:25:17Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://syls.blog/feed/": {
@@ -90,8 +90,8 @@
       "post_url": "https://syls.blog/world-of-warcraft-forever/",
       "published": "2026-11-13T16:12:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://massack.wordpress.com/feed/": {
@@ -103,8 +103,8 @@
       "post_url": "https://massack.wordpress.com/2023/07/05/new-world-season-1-fellowship-fire-final-thoughts/",
       "published": "2023-07-05T04:27:45Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://saintbyleth.wordpress.com/feed/": {
@@ -116,8 +116,8 @@
       "post_url": "https://saintbyleth.wordpress.com/2023/08/09/todays-post-new-site/",
       "published": "2023-08-10T01:31:02Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "http://mmoonenight.blogspot.com/feeds/posts/default": {
@@ -129,8 +129,8 @@
       "post_url": "http://mmoonenight.blogspot.com/2026/11/septemberoctober-check-in-midnight-and.html",
       "published": "2026-11-02T22:29:21Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://seeker518.wordpress.com/feed/": {
@@ -142,8 +142,8 @@
       "post_url": "https://seeker518.wordpress.com/2025/08/11/this-blogging-thing/",
       "published": "2025-08-12T00:48:01Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "http://whyigame.wordpress.com/feed/": {
@@ -155,8 +155,8 @@
       "post_url": "https://whyigame.wordpress.com/2026/08/15/gpt-4o-letter-15-its-the-economy-stupid/",
       "published": "2026-08-15T01:39:33Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://sals.place/feed/": {
@@ -168,8 +168,8 @@
       "post_url": "https://sals.place/blog/eating-apples/",
       "published": "2026-11-20T01:09:28Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://blog.itsnero.com/feed": {
@@ -181,9 +181,9 @@
       "post_url": "https://blog.itsnero.com/nvo-newsletter-013/",
       "published": "2026-10-15T09:06:49Z"
     },
-    "last_success": "2026-11-20T16:08:03.579916Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
-    "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://blog.itsnero.com/feed"
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
+    "last_error": null
   },
   "https://blog.gamepad.club/feed/": {
     "post": {
@@ -194,8 +194,8 @@
       "post_url": "https://blog.gamepad.club/2023/08/03/searching-on-mastodon/",
       "published": "2023-08-03T21:35:02Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "http://thefriendlynecromancer.blogspot.com/feeds/posts/default": {
@@ -207,8 +207,8 @@
       "post_url": "http://thefriendlynecromancer.blogspot.com/2026/11/tom-purdue-cosmic-radiation-and-bad.html",
       "published": "2026-11-11T22:43:25Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "http://endgameviable.com/feed/": {
@@ -220,8 +220,8 @@
       "post_url": "https://endgameviable.com/post/2026/11/nfl-week-10/",
       "published": "2026-11-20T13:34:03Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "http://gaudetetheology.wordpress.com/feed/": {
@@ -233,8 +233,8 @@
       "post_url": "https://gaudetetheology.wordpress.com/2026/11/12/action-for-usians-protect-refugees-time-critical/",
       "published": "2026-11-13T00:16:20Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "http://ihavetouchedthesky.blogspot.com/feeds/posts/default": {
@@ -246,8 +246,8 @@
       "post_url": "https://ihavetouchedthesky.blogspot.com/2024/06/repetition-is-key.html",
       "published": "2024-06-06T00:03:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://www.bloggingwithdragons.com/feed/": {
@@ -259,9 +259,9 @@
       "post_url": "https://bloggingwithdragons.com/book-review-a-snake-among-swans/",
       "published": "2026-09-07T16:00:36Z"
     },
-    "last_success": "2026-11-20T16:08:03.579916Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
-    "last_error": "ValueError: no usable entries (<unknown>:2:119: not well-formed (invalid token))"
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
+    "last_error": null
   },
   "https://brokenstar.blog/feed/": {
     "post": {
@@ -272,8 +272,8 @@
       "post_url": "https://brokenstar.blog/2025/12/23/silent-hill-f-atmosphere-without-attachment/",
       "published": "2025-12-23T14:57:57Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://vueltaspodcast.wordpress.com/blog/feed/": {
@@ -285,8 +285,8 @@
       "post_url": "https://vueltaspodcast.wordpress.com/2022/12/05/weve-moved/",
       "published": "2022-12-05T08:53:16Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://www.isaacwyatt.com/feed.xml": {
@@ -298,8 +298,8 @@
       "post_url": "https://www.isaacwyatt.com/posts/2026-06-30/",
       "published": "2026-06-30T00:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://amerpie.lol/feed.xml": {
@@ -311,8 +311,8 @@
       "post_url": "https://amerpie.lol/2026/10/16/crucial-track-for-october.html",
       "published": "2026-10-16T10:57:07Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://talk.jackalope.city/feed/": {
@@ -324,9 +324,9 @@
       "post_url": "https://talk.jackalope.city/reviews/%f0%9f%93%96-the-southern-book-clubs-guide-to-slaying-vampires/",
       "published": "2025-09-24T14:24:14Z"
     },
-    "last_success": "2026-11-20T16:08:03.579916Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
-    "last_error": "ConnectTimeout: HTTPSConnectionPool(host='talk.jackalope.city', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='talk.jackalope.city', port=443) at 0x783974241d00>, 'Connection to talk.jackalope.city timed out. (connect timeout=10.0)'))"
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
+    "last_error": null
   },
   "https://dirchansky.com/freetalk/rss.xml": {
     "post": {
@@ -337,8 +337,8 @@
       "post_url": "https://dirchansky.com/freetalk/changing-course",
       "published": "2026-11-20T03:09:44Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://diary.uncountable.uk/feed/": {
@@ -350,8 +350,8 @@
       "post_url": "https://diary.uncountable.uk/2026/11/laying-hedge-previously-planted/",
       "published": "2026-11-06T20:41:31Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "http://www.beyondtannhausergate.com/feed/": {
@@ -363,8 +363,8 @@
       "post_url": "https://www.beyondtannhausergate.com/2026/08/03/my-team-its-past-time/",
       "published": "2026-08-04T01:59:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://www.kgadams.net/feed": {
@@ -376,8 +376,8 @@
       "post_url": "https://www.kgadams.net/life/yardwork-part-one-the-destruction",
       "published": "2026-11-19T20:29:02Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://hollie.eilloh.net/rss.xml": {
@@ -389,8 +389,8 @@
       "post_url": "https://hollie.eilloh.net/posts/morning-entries-because-im-a-lark-now-new-socks-terrible-corgi-pun-pizza-small-chronic-illness-update",
       "published": "2026-11-06T20:20:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://www.bongotwisty.blog/index.xml": {
@@ -402,8 +402,8 @@
       "post_url": "https://bongotwisty.uk/webmentions_privacy_consent/",
       "published": "2026-11-19T00:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "http://neverwinterthoughts.blogspot.com/feeds/posts/default": {
@@ -415,8 +415,8 @@
       "post_url": "http://neverwinterthoughts.blogspot.com/2025/09/a-sad-decline.html",
       "published": "2025-09-06T10:11:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://mmojuggler.wordpress.com/feed/": {
@@ -428,8 +428,8 @@
       "post_url": "https://mmojuggler.wordpress.com/2025/08/15/dune-break-restart-or-end/",
       "published": "2025-08-16T01:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://vgobscura.neocities.org/rssfeed.xml": {
@@ -441,12 +441,12 @@
       "post_url": "https://vgobscura.neocities.org/posts/2023-10-09-Dark-Void.html",
       "published": "2023-10-09T12:41:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://syntheticdulips.wordpress.com/feed/": {
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": "ValueError: no usable entries (no entries)"
   },
   "https://yordi.me/feed/": {
@@ -458,8 +458,8 @@
       "post_url": "https://yordi.me/photography-lessons-from-a-dark-night/",
       "published": "2026-11-15T15:08:57Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "http://kebrent.blogspot.com/feeds/posts/default": {
@@ -471,8 +471,8 @@
       "post_url": "http://kebrent.blogspot.com/2026/08/computer-literacy-skills-that-are.html",
       "published": "2026-08-12T02:23:45Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://overage-gaming.com/feed/": {
@@ -484,8 +484,8 @@
       "post_url": "https://overage-gaming.com/2026/11/17/over-the-hill-the-cozy-offroad-game-i-didnt-know-i-needed-gameplay/",
       "published": "2026-11-17T08:01:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://cynnisblog.wordpress.com/feed/": {
@@ -493,12 +493,12 @@
       "blog_title": "Cynni’s Blog",
       "blog_url": "https://cynnisblog.wordpress.com/",
       "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "Some more (edited) Koa snaps & animations",
-      "post_url": "https://cynnisblog.wordpress.com/2026/11/20/some-more-edited-koa-snaps-animations/",
-      "published": "2026-11-20T06:00:16Z"
+      "post_title": "📺 Re-watching – I 💜 it!",
+      "post_url": "https://cynnisblog.wordpress.com/2026/11/21/%f0%9f%93%ba-re-watching-i-%f0%9f%92%9c-it/",
+      "published": "2026-11-21T06:00:34Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "http://nerdybookahs.wordpress.com/feed/": {
@@ -510,8 +510,8 @@
       "post_url": "https://nerdybookahs.wordpress.com/2026/10/23/first-look-unmess-co-rewind-the-wreck-demo/",
       "published": "2026-10-23T10:33:12Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://www.cheshiregaming.com/feeds/posts/default": {
@@ -523,8 +523,8 @@
       "post_url": "https://www.cheshiregaming.com/2026/11/the-shadowgrapher.html",
       "published": "2026-11-11T20:17:35Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://tankingmage.wordpress.com/feed/": {
@@ -536,8 +536,8 @@
       "post_url": "https://tankingmage.wordpress.com/2023/11/06/no-dreamlight-valley-cant-go-free-to-play/",
       "published": "2023-11-06T11:47:10Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://dispatchesfromdarksyde.wordpress.com/feed/": {
@@ -549,8 +549,8 @@
       "post_url": "https://dispatchesfromdarksyde.wordpress.com/2022/08/09/musings-on-the-heat-and-sensory-triggered-memory/",
       "published": "2022-08-09T18:35:20Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://gamingsf.wordpress.com/feed/": {
@@ -562,8 +562,8 @@
       "post_url": "https://gamingsf.wordpress.com/2025/03/22/my-pathfinder-2e-beginner-box-improvements/",
       "published": "2025-03-22T00:29:15Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://indiecator.home.blog/feed/": {
@@ -575,8 +575,8 @@
       "post_url": "https://indiecator.org/2026/11/08/sephiria-review/",
       "published": "2026-11-08T16:39:12Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://blog.kevinbrill.com/feeds/posts/default?alt=rss": {
@@ -588,8 +588,8 @@
       "post_url": "https://blog.kevinbrill.com/2026/07/farewell-belghast.html",
       "published": "2026-07-03T18:11:06Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://taylorfilmcritic.wordpress.com/feed/": {
@@ -601,8 +601,8 @@
       "post_url": "https://taylorfilmcritic.wordpress.com/2026/08/04/remembering-livejournal/",
       "published": "2026-08-04T18:30:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://scormey.com/feed/": {
@@ -614,8 +614,8 @@
       "post_url": "https://scormey.com/2026/11/20/nostaliga-or-nuisance/",
       "published": "2026-11-20T17:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "http://feeds.feedburner.com/lazy-sniper/iEkg": {
@@ -627,8 +627,8 @@
       "post_url": "https://www.thedragonchronicle.com/book-review-a-song-of-legends-lost-by-m-h-ayinde/",
       "published": "2025-04-09T19:21:58Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://cheshiresminddump.blogspot.com/feeds/posts/default": {
@@ -640,8 +640,8 @@
       "post_url": "https://cheshiresminddump.blogspot.com/2023/08/what-do-i-do-more-personalized.html",
       "published": "2023-08-11T10:47:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://ww0cj.radio/feed/": {
@@ -653,8 +653,8 @@
       "post_url": "https://ww0cj.radio/3d-modeling-a-wind-turbine/",
       "published": "2026-08-17T21:08:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://www.timetoloot.com/feed/": {
@@ -666,9 +666,9 @@
       "post_url": "https://www.timetoloot.com/blog/journal/time-to-loot-journal-march-2026/",
       "published": "2026-04-18T22:44:36Z"
     },
-    "last_success": "2026-11-20T16:08:03.579916Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
-    "last_error": "ValueError: no usable entries (<unknown>:2:119: not well-formed (invalid token))"
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
+    "last_error": null
   },
   "https://www.technbuzz.com/feed/": {
     "post": {
@@ -679,8 +679,8 @@
       "post_url": "https://www.technbuzz.com/2026/07/31/building-a-reusable-angular-sorting-directive/",
       "published": "2026-07-31T17:22:31Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://blog.marqaroll.com/feeds/posts/default": {
@@ -693,7 +693,7 @@
       "published": "2026-09-29T10:42:56Z"
     },
     "last_success": "2026-10-15T11:27:37.654182Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": "ConnectionError: HTTPSConnectionPool(host='blog.marqaroll.com', port=443): Max retries exceeded with url: /feeds/posts/default (Caused by NameResolutionError(\"HTTPSConnection(host='blog.marqaroll.com', port=443): Failed to resolve 'blog.marqaroll.com' ([Errno -2] Name or service not known)\"))"
   },
   "https://www.calamityjess.net/feed/": {
@@ -705,9 +705,9 @@
       "post_url": "https://www.calamityjess.net/ensuing-chaos/",
       "published": "2023-08-21T19:28:10Z"
     },
-    "last_success": "2026-11-20T16:08:03.579916Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
-    "last_error": "ConnectTimeout: HTTPSConnectionPool(host='www.calamityjess.net', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.calamityjess.net', port=443) at 0x783976aab110>, 'Connection to www.calamityjess.net timed out. (connect timeout=10.0)'))"
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
+    "last_error": null
   },
   "https://justtext.net/feed.atom": {
     "post": {
@@ -718,8 +718,8 @@
       "post_url": "https://justtext.net/posts/voiceover-can-announce-indentation-on-macos/",
       "published": "2026-07-27T06:35:52Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://dailycreativething.wordpress.com/feed/": {
@@ -731,8 +731,8 @@
       "post_url": "https://dailycreativething.wordpress.com/2025/01/13/scrappy-advent-shorties-started/",
       "published": "2025-01-13T22:05:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "http://gdub4.wordpress.com/feed/": {
@@ -744,8 +744,8 @@
       "post_url": "https://gdub4.wordpress.com/2026/05/08/oh-she-inspires/",
       "published": "2026-05-09T05:58:56Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://www.gamersesoteric.com/feeds/posts/default": {
@@ -757,8 +757,8 @@
       "post_url": "https://www.gamersesoteric.com/2026/11/challistein-holiday-for-in-between.html",
       "published": "2026-11-11T23:44:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://vixiss.bearblog.dev/feed/": {
@@ -770,8 +770,8 @@
       "post_url": "https://vixiss.bearblog.dev/the-act-of-creation/",
       "published": "2026-06-29T23:05:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://rahim.li/index.xml": {
@@ -783,8 +783,8 @@
       "post_url": "https://rahim.li/2026/rest-in-peace-dieter-3",
       "published": "2026-07-10T13:49:47Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://lemons.bearblog.dev/feed/": {
@@ -796,8 +796,8 @@
       "post_url": "https://lemons.bearblog.dev/addictions/",
       "published": "2025-08-04T01:35:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://sincerityplayground.bearblog.dev/feed/": {
@@ -809,8 +809,8 @@
       "post_url": "https://sincerityplayground.bearblog.dev/blaugust-2025-epilogue/",
       "published": "2025-09-05T21:04:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://preconstructedmagic.wordpress.com/feed/": {
@@ -822,8 +822,8 @@
       "post_url": "https://preconstructedmagic.wordpress.com/2026/08/13/the-hobbit-story-decks-the-next-chapter/",
       "published": "2026-08-13T09:57:25Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://www.tartdarling.com/feed/": {
@@ -835,9 +835,9 @@
       "post_url": "https://www.tartdarling.com/2024/08/05/books-i-have-preordered-for-the-rest-of-the-year/",
       "published": "2024-08-05T10:28:10Z"
     },
-    "last_success": "2026-11-20T16:08:03.579916Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
-    "last_error": "ConnectTimeout: HTTPSConnectionPool(host='www.tartdarling.com', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.tartdarling.com', port=443) at 0x78396ce04710>, 'Connection to www.tartdarling.com timed out. (connect timeout=10.0)'))"
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
+    "last_error": null
   },
   "https://blog.x1101.net/rss.xml": {
     "post": {
@@ -848,8 +848,8 @@
       "post_url": "https://blog.x1101.net/posts/trying-again/",
       "published": "2023-12-07T13:59:04Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://super142.wordpress.com/feed/": {
@@ -861,8 +861,8 @@
       "post_url": "https://super142.wordpress.com/2026/11/01/resident-evil-2026-review/",
       "published": "2026-11-01T18:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://monocyte.bearblog.dev/feed/?type=rss": {
@@ -874,8 +874,8 @@
       "post_url": "https://monocyte.blog/56/",
       "published": "2026-11-05T21:40:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://www.oh-no.ooo/rss.xml": {
@@ -887,8 +887,8 @@
       "post_url": "https://oh-no.ooo/articles/say-goodbye-to-javascript-date-lets-talk-about-temporal",
       "published": "2026-04-24T21:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://sag.sadesignz.org/feed/": {
@@ -900,8 +900,8 @@
       "post_url": "https://sag.sadesignz.org/where-have-i-been-lately/",
       "published": "2026-11-03T22:42:41Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "http://gamergirlconfessions.com/feed/": {
@@ -913,8 +913,8 @@
       "post_url": "https://gamergirlconfessions.com/2022/04/19/stream-schedule-apr-18-24-2022/",
       "published": "2022-04-20T01:47:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://thelastchapterguild.wordpress.com/feed/": {
@@ -926,8 +926,8 @@
       "post_url": "https://thelastchapterguild.wordpress.com/2026/07/27/new-posts-at-salaryns-sword/",
       "published": "2026-07-28T00:06:25Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://jlaasonen.me/feed/": {
@@ -939,8 +939,8 @@
       "post_url": "https://jlaasonen.me/new-ambient-single-frozen-world/",
       "published": "2026-01-30T20:47:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://sameolddaph.wordpress.com/feed/": {
@@ -952,8 +952,8 @@
       "post_url": "https://sameolddaph.wordpress.com/2022/05/01/a-solid-half-dozen/",
       "published": "2022-05-01T18:30:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://kaytalksgames.wordpress.com/feed/": {
@@ -965,8 +965,8 @@
       "post_url": "https://kaytalksgames.wordpress.com/2026/11/19/the-wii-turns-20/",
       "published": "2026-11-19T18:56:10Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "http://welshtroll.co.uk/feed/": {
@@ -978,8 +978,8 @@
       "post_url": "https://welshtroll.co.uk/post/2026-the-alchemist-of-torchlight-2-is-stirring.html",
       "published": "2026-10-24T11:30:20Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://waxingpoeticaboutlife.dreamwidth.org/data/rss": {
@@ -992,7 +992,7 @@
       "published": "2025-08-10T02:25:33Z"
     },
     "last_success": "2026-11-18T01:36:26.276259Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": "ReadTimeout: HTTPSConnectionPool(host='waxingpoeticaboutlife.dreamwidth.org', port=443): Read timed out. (read timeout=25.0)"
   },
   "https://rieaglenest.wordpress.com/feed/": {
@@ -1004,8 +1004,8 @@
       "post_url": "https://rieaglenest.wordpress.com/2026/10/02/my-console-gaming-era-part-1/",
       "published": "2026-10-02T10:29:39Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://theweeklymiscellaneous.co.uk/index.xml": {
@@ -1013,12 +1013,12 @@
       "blog_title": "The Weekly Miscellaneous",
       "blog_url": "https://theweeklymiscellaneous.co.uk/",
       "feed_url": "https://theweeklymiscellaneous.co.uk/index.xml",
-      "post_title": "Return",
-      "post_url": "https://theweeklymiscellaneous.co.uk/posts/2026/11/return/",
-      "published": "2026-11-12T20:24:00Z"
+      "post_title": "Mourning",
+      "post_url": "https://theweeklymiscellaneous.co.uk/posts/2026/11/mourning/",
+      "published": "2026-11-21T12:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://blog.nyman.re/index.xml": {
@@ -1030,8 +1030,8 @@
       "post_url": "https://blog.nyman.re/2026/08/08/blaugustclassifier.html",
       "published": "2026-08-08T20:16:29Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://thegmtim.ca/feed/": {
@@ -1043,8 +1043,8 @@
       "post_url": "https://thegmtim.ca/2026/09/06/appendix-lit-book-club-season-6/",
       "published": "2026-09-06T15:20:50Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://vrabia.bearblog.dev/feed/": {
@@ -1056,8 +1056,8 @@
       "post_url": "https://vrabia.bearblog.dev/weekly-notes-003/",
       "published": "2025-07-27T19:38:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://jagsworkshop.com/rss/": {
@@ -1065,12 +1065,12 @@
       "blog_title": "JAG’s Workshop",
       "blog_url": "https://jagsworkshop.com/",
       "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "Anthropic Stock Tumbles, Erasing Most of Its IPO Gains",
-      "post_url": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4",
-      "published": "2026-11-21T00:28:59Z"
+      "post_title": "Focusing on the Important Work of Being President, Donald Trump Posthumously Pardons Pete Rose",
+      "post_url": "https://www.nbcnews.com/politics/donald-trump/posthumously-pardons-pete-rose-mlb-hit-leader-betting-baseball-rcna610308",
+      "published": "2026-11-21T01:43:52Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "http://wowaltaddiction.blogspot.com/feeds/posts/default": {
@@ -1082,8 +1082,8 @@
       "post_url": "http://wowaltaddiction.blogspot.com/2026/11/october-month-in-review.html",
       "published": "2026-11-04T20:27:43Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://www.reayjespersen.com/feed/": {
@@ -1095,9 +1095,9 @@
       "post_url": "https://www.reayjespersen.com/blog-1/2026/11/06/new-trend/?utm_source=rss&utm_medium=rss&utm_campaign=new-trend",
       "published": "2026-11-06T13:02:13Z"
     },
-    "last_success": "2026-11-20T16:08:03.579916Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
-    "last_error": "ConnectTimeout: HTTPSConnectionPool(host='www.reayjespersen.com', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.reayjespersen.com', port=443) at 0x78396cf6d9a0>, 'Connection to www.reayjespersen.com timed out. (connect timeout=10.0)'))"
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
+    "last_error": null
   },
   "https://www.muliama.blog/feed/": {
     "post": {
@@ -1108,8 +1108,8 @@
       "post_url": "https://www.muliama.blog/be-there/",
       "published": "2026-11-12T13:27:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://gridranger.frama.io/feeds/all.atom.xml": {
@@ -1121,8 +1121,8 @@
       "post_url": "https://blog.gridranger.dev/eyespace-2026/?focus=post-2026-09-07",
       "published": "2026-09-07T19:35:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://nerdgirlthoughts.game.blog/feed/": {
@@ -1134,8 +1134,8 @@
       "post_url": "https://nerdgirlthoughts.game.blog/2026/09/07/mixtape-monday-okay-with-not-being-okay/",
       "published": "2026-09-07T13:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://aywren.com/feed.xml": {
@@ -1147,8 +1147,8 @@
       "post_url": "https://aywren.com/2026/11/04/guild-wars-afterlife-announced",
       "published": "2026-11-06T22:42:01Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCAv8L8WQAZqClsJItHwIDqw": {
@@ -1160,8 +1160,8 @@
       "post_url": "https://www.youtube.com/watch?v=QWhHEksxer8",
       "published": "2025-01-25T14:05:07Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://sigmatic.neocities.org/feed.txt": {
@@ -1173,8 +1173,8 @@
       "post_url": "https://sigmatic.neocities.org/posts/2023-08-02-The-Grand-Reopening-of-the-Sigmatic-Blog",
       "published": "2023-08-01T23:06:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://www.mollyrazor.com/feed/": {
@@ -1186,9 +1186,9 @@
       "post_url": "https://www.mollyrazor.com/2024/11/11/sunday-chore-day/?utm_source=rss&utm_medium=rss&utm_campaign=sunday-chore-day",
       "published": "2024-11-11T01:30:13Z"
     },
-    "last_success": "2026-11-20T16:08:03.579916Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
-    "last_error": "ConnectTimeout: HTTPSConnectionPool(host='www.mollyrazor.com', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.mollyrazor.com', port=443) at 0x78397425ce60>, 'Connection to www.mollyrazor.com timed out. (connect timeout=10.0)'))"
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
+    "last_error": null
   },
   "http://casualaggro.wordpress.com/feed/": {
     "post": {
@@ -1199,8 +1199,8 @@
       "post_url": "https://casualaggro.wordpress.com/2026/08/11/thieving-and-cheesing-in-tamriel/",
       "published": "2026-08-12T02:05:25Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://journal.miso.town/atom?url=https://mormoroi.com/_parts/rss.html": {
@@ -1212,8 +1212,8 @@
       "post_url": "https://mormoroi.com/_parts/rss.html",
       "published": "2025-03-01T00:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://blu30rion.wordpress.com/feed/": {
@@ -1225,8 +1225,8 @@
       "post_url": "https://blu30rion.wordpress.com/2025/09/05/moss-grotto/",
       "published": "2025-09-05T19:35:05Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://birming.com/feed/": {
@@ -1238,8 +1238,8 @@
       "post_url": "https://birming.com/posts/youre-still-here",
       "published": "2026-11-13T18:36:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://geekonaharley.org/feed/": {
@@ -1251,8 +1251,8 @@
       "post_url": "https://geekonaharley.org/2026/10/08/last-ride-of-2026/",
       "published": "2026-10-08T20:26:48Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://priestwithacause.blogspot.com/feeds/posts/default?alt=rss": {
@@ -1264,8 +1264,8 @@
       "post_url": "https://priestwithacause.blogspot.com/2026/11/some-paladin-adventures.html",
       "published": "2026-11-17T21:55:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://imkarthikk.com/feed.xml": {
@@ -1277,8 +1277,8 @@
       "post_url": "https://imkarthikk.com/blog/iphone-mirroring-control-center",
       "published": "2026-09-16T12:02:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://lameazoid.com/feed/": {
@@ -1291,7 +1291,7 @@
       "published": "2026-10-26T22:30:00Z"
     },
     "last_success": "2026-10-27T22:57:11.905037Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": "ValueError: feed exceeds 6291456 bytes"
   },
   "https://monsterladysdiary.wordpress.com/feed/": {
@@ -1303,8 +1303,8 @@
       "post_url": "https://monsterladysdiary.wordpress.com/2026/11/02/hosted-confuse-ray/",
       "published": "2026-11-02T11:45:53Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://ofg.fyi/feed.xml": {
@@ -1316,8 +1316,8 @@
       "post_url": "https://ofg.fyi/2023/08/08/how-i-slid.html",
       "published": "2023-08-09T03:44:42Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://punkto.org/blog.xml": {
@@ -1329,8 +1329,8 @@
       "post_url": "https://punkto.org/blog/recording_and_editing_talks",
       "published": "2026-11-15T08:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://nothe.purplellamas.net/feed.xml": {
@@ -1342,8 +1342,8 @@
       "post_url": "https://nothe.purplellamas.net/blog/aug12/",
       "published": "2025-08-12T07:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://cubiccreativity.wordpress.com/feed/": {
@@ -1351,12 +1351,12 @@
       "blog_title": "Cubic Creativity",
       "blog_url": "https://cubiccreativity.wordpress.com/",
       "feed_url": "https://cubiccreativity.wordpress.com/feed/",
-      "post_title": "Stalk’s Videogame Corner: Celestial Decks",
-      "post_url": "https://cubiccreativity.wordpress.com/2026/11/14/stalks-videogame-corner-celestial-decks/",
-      "published": "2026-11-14T07:00:00Z"
+      "post_title": "Stalk’s Mini Review-Mashup 9",
+      "post_url": "https://cubiccreativity.wordpress.com/2026/11/21/stalks-mini-review-mashup-9/",
+      "published": "2026-11-21T07:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "http://feeds.feedburner.com/RagingMonkeys": {
@@ -1368,8 +1368,8 @@
       "post_url": "https://www.mmogypsy.com/2025/01/videogame-radio-and-soundtrack-spotlight.html",
       "published": "2025-01-06T19:41:33Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://martinschuhmann.com/feed/": {
@@ -1381,8 +1381,8 @@
       "post_url": "https://martinschuhmann.com/blog/dcf3db52",
       "published": "2026-11-15T17:15:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://wordsundermyname.wordpress.com/feed/": {
@@ -1394,8 +1394,8 @@
       "post_url": "https://wordsundermyname.wordpress.com/2026/10/20/10-20-2026-seeing-eye-singles/",
       "published": "2026-10-20T22:54:22Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "http://josephskyrim.blogspot.com/feeds/posts/default": {
@@ -1407,8 +1407,8 @@
       "post_url": "http://josephskyrim.blogspot.com/2026/11/wonkas-golden-ticket-and-fisk.html",
       "published": "2026-11-19T22:21:41Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://www.jayeless.net/index.xml": {
@@ -1421,8 +1421,8 @@
       "published": "2025-12-31T00:00:00Z"
     },
     "last_success": "2026-09-20T20:48:26.370886Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
-    "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.jayeless.net/index.xml"
+    "last_checked": "2026-11-21T15:21:04.802861Z",
+    "last_error": "ValueError: no usable entries (<unknown>:26:2: mismatched tag)"
   },
   "https://www.bibliollama.uk/feed": {
     "post": {
@@ -1433,8 +1433,8 @@
       "post_url": "https://www.bibliollama.uk/a-little-life-update-and-an-explanation-for-my-absence/",
       "published": "2026-11-20T13:27:30Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "http://nomadicgamer.wordpress.com/feed/": {
@@ -1446,8 +1446,8 @@
       "post_url": "https://nomadicgamer.wordpress.com/2022/02/18/and-yet-another-minute/",
       "published": "2022-02-19T02:09:56Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "http://aggronaut.com/feed/": {
@@ -1459,8 +1459,8 @@
       "post_url": "https://aggronaut.com/2026/07/01/mapping-in-poe2-kinda-sucks/",
       "published": "2026-07-01T14:59:12Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://manywelps.com/feed/": {
@@ -1472,8 +1472,8 @@
       "post_url": "https://manywelps.com/2026/08/04/this-is-my-very-first-blog/",
       "published": "2026-08-05T01:52:32Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://neurofrontiers.blog/feed/": {
@@ -1485,8 +1485,8 @@
       "post_url": "https://neurofrontiers.blog/your-brain-is-a-special-snowflake/",
       "published": "2026-09-15T17:04:03Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://hundstrasse.com/feed/": {
@@ -1498,8 +1498,8 @@
       "post_url": "https://hundstrasse.com/2026/06/27/gaming-donks-breezy/",
       "published": "2026-06-27T19:02:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://ageekgirlsguide.com/feed/": {
@@ -1511,8 +1511,8 @@
       "post_url": "https://ageekgirlsguide.com/2025/05/22/field-trip-universal-fan-fest-nights/",
       "published": "2025-05-22T18:54:43Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss": {
@@ -1524,8 +1524,8 @@
       "post_url": "https://bhagpuss.blogspot.com/2026/11/does-it-feel-like-december-to-you.html",
       "published": "2026-11-20T13:00:05Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://www.inconsistent.software/feed.xml": {
@@ -1537,8 +1537,8 @@
       "post_url": "https://www.inconsistent.software/blog/2026/08-11-superpower/",
       "published": "2026-08-11T19:50:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://noof.omg.lol/rss.xml": {
@@ -1551,7 +1551,7 @@
       "published": "2026-06-07T19:29:00Z"
     },
     "last_success": "2026-08-14T19:13:22.221307Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": "ValueError: no usable entries (<unknown>:2:0: syntax error)"
   },
   "https://backlogcrusader.com/feed/": {
@@ -1563,8 +1563,8 @@
       "post_url": "https://backlogcrusader.com/2021/07/09/post-pandemic-check-in/",
       "published": "2021-07-09T06:20:04Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://www.awsketch.com/rss.xml": {
@@ -1576,8 +1576,8 @@
       "post_url": "https://www.awsketch.com/blog/2026/02/2026-citrus-con/",
       "published": "2026-02-03T00:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://kaylriene.wordpress.com/feed/": {
@@ -1589,8 +1589,8 @@
       "post_url": "https://kaylriene.com/2026/11/17/reflecting-on-midnight-mythic-plus-in-season-2-myth-obtained-and-the-challenges-of-season-2/",
       "published": "2026-11-18T05:14:53Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://laterlevels.com/feed/": {
@@ -1602,12 +1602,12 @@
       "post_url": "https://laterlevelsblog.wordpress.com/2024/08/17/stream-escape-the-dark-castle/",
       "published": "2024-08-17T05:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://justcallmeroybert.ca/feed/": {
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": "ConnectionError: HTTPSConnectionPool(host='justcallmeroybert.ca', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='justcallmeroybert.ca', port=443): Failed to resolve 'justcallmeroybert.ca' ([Errno -2] Name or service not known)\"))"
   },
   "https://necocolovesstuff.wordpress.com/feed/": {
@@ -1619,8 +1619,8 @@
       "post_url": "https://necocolovesstuff.wordpress.com/2024/08/02/when-things-you-love-come-to-an-end/",
       "published": "2024-08-03T03:16:34Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "http://syncaine.wordpress.com/feed/": {
@@ -1632,8 +1632,8 @@
       "post_url": "https://syncaine.com/2021/10/04/back-to-final-fantasy-14/",
       "published": "2021-10-04T14:40:38Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://hamatti.org/feed/feed.xml": {
@@ -1645,12 +1645,12 @@
       "post_url": "https://hamatti.org/posts/djangonaut-log-5-traveling-amongst-the-stars/",
       "published": "2026-11-15T00:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://cohost.org/mdi/rss/public.json": {
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": "ValueError: no usable entries (<unknown>:76:4: mismatched tag)"
   },
   "https://louplummer.lol/feed/": {
@@ -1662,8 +1662,8 @@
       "post_url": "https://louplummer.lol/that-sticky-icky/",
       "published": "2026-09-10T14:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://roguewriters.net/feed/": {
@@ -1675,9 +1675,9 @@
       "post_url": "https://roguewriters.net/rogue-reviews-saints-of-storm-and-sorrow-by-gabriella-buba/",
       "published": "2026-07-23T02:19:29Z"
     },
-    "last_success": "2026-11-20T16:08:03.579916Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
-    "last_error": "ConnectTimeout: HTTPSConnectionPool(host='roguewriters.net', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='roguewriters.net', port=443) at 0x78396cf662d0>, 'Connection to roguewriters.net timed out. (connect timeout=10.0)'))"
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
+    "last_error": null
   },
   "http://starandshadow.wordpress.com/feed/": {
     "post": {
@@ -1688,8 +1688,8 @@
       "post_url": "https://starandshadow.wordpress.com/2026/02/06/new-lotro-blog/",
       "published": "2026-02-06T15:45:31Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://ashgar.com/feed/": {
@@ -1701,8 +1701,8 @@
       "post_url": "https://ashgar.com/2021/on-avatars/",
       "published": "2021-09-02T20:22:53Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://kalechips.net/RSS.xml": {
@@ -1714,8 +1714,8 @@
       "post_url": "https://blog.kalechips.net/post/2026-11-15-Obsidian",
       "published": "2026-11-15T00:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://chasingdings.com/?feed=rss2": {
@@ -1727,8 +1727,8 @@
       "post_url": "https://chasingdings.com/2026/11/19/final-fantasy-resonance-more-exvius-than-brave/",
       "published": "2026-11-20T01:17:38Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://kayleerowena.com/rss.xml": {
@@ -1740,8 +1740,8 @@
       "post_url": "https://kayleerowena.com/comics/shorts/",
       "published": "2026-02-09T19:17:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://www.calishat.com/feed/": {
@@ -1753,9 +1753,9 @@
       "post_url": "https://www.calishat.com/2026/11/03/congress-corral-offline-until-next-year/",
       "published": "2026-11-03T21:47:22Z"
     },
-    "last_success": "2026-11-20T16:08:03.579916Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
-    "last_error": "ConnectTimeout: HTTPSConnectionPool(host='www.calishat.com', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.calishat.com', port=443) at 0x78397422d520>, 'Connection to www.calishat.com timed out. (connect timeout=10.0)'))"
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
+    "last_error": null
   },
   "https://forkingmad.blog/feed/": {
     "post": {
@@ -1766,8 +1766,8 @@
       "post_url": "https://forkingmad.blog/i-actually-started-journaling/",
       "published": "2026-10-25T14:06:37Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://ofbonesandtealeaves.wordpress.com/feed/": {
@@ -1779,8 +1779,8 @@
       "post_url": "https://ofbonesandtealeaves.wordpress.com/2023/11/10/life-update/",
       "published": "2023-11-10T16:45:26Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://notes.jeddacp.com/feed/": {
@@ -1792,8 +1792,8 @@
       "post_url": "https://notes.jeddacp.com/the-last-of-your-water-bowl/",
       "published": "2026-09-15T18:35:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://apps.louplummer.lol/feed.atom": {
@@ -1805,8 +1805,8 @@
       "post_url": "https://appaddict.app/post/appaddict-on-temporary-hiatus",
       "published": "2026-11-09T18:52:52Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://cobb.land/feed.xml": {
@@ -1818,8 +1818,8 @@
       "post_url": "https://cobb.land/posts/bookmarks/when-everything-has-changed/",
       "published": "2026-11-19T16:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "http://leaflocker.blogspot.com/feeds/posts/default": {
@@ -1831,8 +1831,8 @@
       "post_url": "http://leaflocker.blogspot.com/2022/03/turning-over-new-leaf.html",
       "published": "2022-03-16T02:54:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://gamerlady.blog/feed/": {
@@ -1844,9 +1844,9 @@
       "post_url": "https://www.gamerlady.blog/farewell-to-frost/",
       "published": "2026-09-02T17:46:43Z"
     },
-    "last_success": "2026-11-20T16:08:03.579916Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
-    "last_error": "ConnectTimeout: HTTPSConnectionPool(host='gamerlady.blog', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gamerlady.blog', port=443) at 0x7839741b5550>, 'Connection to gamerlady.blog timed out. (connect timeout=10.0)'))"
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
+    "last_error": null
   },
   "https://mmofolklorist.com/feed/": {
     "post": {
@@ -1857,8 +1857,8 @@
       "post_url": "https://mmofolklorist.com/2025/10/26/designing-virtual-words-new-edition-of-richard-bartles-seminal-text-is-utterly-essential/",
       "published": "2025-10-26T17:02:34Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://dextraneous.blog/feed/": {
@@ -1870,8 +1870,8 @@
       "post_url": "https://dextraneous.blog/2024/01/03/glameow-purugly/",
       "published": "2024-01-03T19:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://battlestance.org/feed/": {
@@ -1883,8 +1883,8 @@
       "post_url": "https://battlestance.org/2026/11/11/raiding-the-venomous-abyss-week-12/",
       "published": "2026-11-11T20:44:53Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://varunbarad.com/feed.xml": {
@@ -1896,8 +1896,8 @@
       "post_url": "https://varunbarad.com/blog/bookbinding-notebooks.html",
       "published": "2026-11-04T20:24:20Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://knifesedgeblogs.wordpress.com/feed/": {
@@ -1909,8 +1909,8 @@
       "post_url": "https://knifesedgeblogs.wordpress.com/2026/08/26/blaugust2026-crows-a-new-mcdm-rpg/",
       "published": "2026-08-26T07:53:41Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://wawawa.bearblog.dev/feed/": {
@@ -1922,8 +1922,8 @@
       "post_url": "https://wawawa.bearblog.dev/an-emcounter-with-a-beggar/",
       "published": "2024-08-25T13:35:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "http://sfmatheson.blogspot.com/feeds/posts/default": {
@@ -1935,8 +1935,8 @@
       "post_url": "https://sfmatheson.blogspot.com/2024/08/albert-brooks-on-writing-its-one-of.html",
       "published": "2024-08-03T20:50:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://pmjg.blogspot.com/feeds/posts/default": {
@@ -1948,8 +1948,8 @@
       "post_url": "https://pmjg.blogspot.com/2026/05/alternatively-you-could-stfu.html",
       "published": "2026-05-03T17:09:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://lapislabel.net/feed.xml": {
@@ -1961,8 +1961,8 @@
       "post_url": "https://lapislabel.net/blog/posts/2026-04-02-artist-questionnare.html",
       "published": "2026-04-02T05:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://joelchrono.xyz/feed.xml": {
@@ -1974,8 +1974,8 @@
       "post_url": "https://joelchrono.xyz/blog/outer-wilds-echoes-of-the-eye/",
       "published": "2026-11-17T23:10:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "http://feeds2.feedburner.com/ToboldsBlog": {
@@ -1987,8 +1987,8 @@
       "post_url": "http://tobolds.blogspot.com/2026/11/is-it-easy-to-make-great-game.html",
       "published": "2026-11-19T10:54:57Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://konmai.substack.com/feed": {
@@ -2001,7 +2001,7 @@
       "published": "2025-01-04T22:07:20Z"
     },
     "last_success": "2026-11-16T16:59:48.110927Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": "HTTPError: 403 Client Error: Forbidden for url: https://konmai.substack.com/feed"
   },
   "https://missquote.net/rss.xml": {
@@ -2013,8 +2013,8 @@
       "post_url": "https://missquote.net/posts/midyear-book-freakout-2025/",
       "published": "2025-08-05T00:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://angrybunnyman.com/feed/": {
@@ -2026,8 +2026,8 @@
       "post_url": "https://angrybunnyman.com/the-pit-is-hiring/",
       "published": "2026-11-20T20:19:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://lunarloony.co.uk/feed/": {
@@ -2039,8 +2039,8 @@
       "post_url": "https://lunarloony.co.uk/misc/twelve-months/",
       "published": "2026-10-14T11:59:37Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://anarchaeopteryx.bearblog.dev/feed/": {
@@ -2048,12 +2048,12 @@
       "blog_title": "An Archaeopteryx",
       "blog_url": "https://anarchaeopteryx.bearblog.dev/",
       "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
-      "post_title": "2026 Week 47 Digest",
-      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-11-20-week-47-digest/",
-      "published": "2026-11-20T21:39:10Z"
+      "post_title": "Divinity Original Sin 2 - Act 4 - Wrecker's Cove - 42h30",
+      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-11-20-dos2/",
+      "published": "2026-11-21T02:28:22Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://kimberlyhirsh.com/feed.xml": {
@@ -2066,7 +2066,7 @@
       "published": "2026-10-26T22:22:34Z"
     },
     "last_success": "2026-11-14T22:58:21.607152Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": "ValueError: entries were present but none had a usable title, link and date"
   },
   "http://aeternusgaming.nl/feed/": {
@@ -2078,8 +2078,8 @@
       "post_url": "http://aeternusgaming.nl/2024/02/14/late-to-the-party-atelier-ryza-1/",
       "published": "2024-02-14T21:35:51Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://grownupgamergirl.wordpress.com/feed/": {
@@ -2091,8 +2091,8 @@
       "post_url": "https://grownupgamergirl.wordpress.com/2026/11/19/jonesing-for-gta-6/",
       "published": "2026-11-19T21:28:16Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://ghastlymirror.wordpress.com/feed/": {
@@ -2104,8 +2104,8 @@
       "post_url": "https://ghastlymirror.wordpress.com/2024/11/20/this-blog-has-moved/",
       "published": "2024-11-20T21:39:44Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "http://lfgryph.com/feed/": {
@@ -2117,8 +2117,8 @@
       "post_url": "https://lfgryph.com/2023/10/03/state-of-the-gryph-streams/",
       "published": "2023-10-03T16:16:51Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "http://www.agreenmushroom.com/feeds/posts/default": {
@@ -2130,8 +2130,8 @@
       "post_url": "http://www.agreenmushroom.com/2026/07/finding-new-internet-home.html",
       "published": "2026-07-06T13:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "http://swtorcommando.blogspot.com/feeds/posts/default?alt=rss": {
@@ -2143,8 +2143,8 @@
       "post_url": "https://swtorcommando.blogspot.com/2026/11/80-gearing-info-controversy.html",
       "published": "2026-11-11T18:01:36Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://www.conor.zone/en/feeds/rss.xml": {
@@ -2157,8 +2157,8 @@
       "published": "2024-08-14T00:00:00Z"
     },
     "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
-    "last_error": null
+    "last_checked": "2026-11-21T15:21:04.802861Z",
+    "last_error": "HTTPError: 402 Client Error: Payment Required for url: https://www.conor.zone/en/feeds/rss.xml"
   },
   "https://nerdendnews.wordpress.com/feed/": {
     "post": {
@@ -2169,8 +2169,8 @@
       "post_url": "https://nerdendnews.wordpress.com/2024/09/17/leaving-valheim-undoing-nations/",
       "published": "2024-09-17T12:36:13Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://lars-christian.com/posts/feed.xml": {
@@ -2182,8 +2182,8 @@
       "post_url": "https://lars-christian.com/posts/2026-11-14-assassins-fate-by-robin-hobb/",
       "published": "2026-11-14T00:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "http://wolfyseyes.wordpress.com/feed/": {
@@ -2195,8 +2195,8 @@
       "post_url": "https://wolfyseyes.wordpress.com/2026/08/10/blaugust-check-in/",
       "published": "2026-08-10T18:03:12Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "http://inanage.com/feed/": {
@@ -2208,8 +2208,8 @@
       "post_url": "https://inanage.com/2026/11/17/pregame-of-the-year/",
       "published": "2026-11-18T00:19:26Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "http://mikeazariah.wordpress.com/feed/": {
@@ -2221,8 +2221,8 @@
       "post_url": "https://mikeazariah.wordpress.com/2024/08/04/funeral-you-us-them/",
       "published": "2024-08-04T19:36:58Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://historywillsaythiswasjustabookblog.wordpress.com/feed/": {
@@ -2234,8 +2234,8 @@
       "post_url": "https://historywillsaythiswasjustabookblog.wordpress.com/2025/07/27/the-library-at-hellebore-audio/",
       "published": "2025-07-27T17:52:27Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "http://feeds.feedburner.com/TheAncientGamingNoob": {
@@ -2247,8 +2247,8 @@
       "post_url": "https://tagn.wordpress.com/2026/11/20/wow-forever-notes-from-fields-of-westfall/",
       "published": "2026-11-20T16:15:19Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://sid-debona.blogspot.com/feeds/posts/default": {
@@ -2260,8 +2260,8 @@
       "post_url": "https://sid-debona.blogspot.com/2025/08/blaugust-2025.html",
       "published": "2025-08-24T10:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "http://braxwolf.wordpress.com/feed/": {
@@ -2273,8 +2273,8 @@
       "post_url": "https://braxwolf.wordpress.com/2024/08/22/world-of-warships-bad-player-or-just-a-different-playstyle/",
       "published": "2024-08-23T04:06:34Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://your-local-grubdog.neocities.org/feed.xml": {
@@ -2286,8 +2286,8 @@
       "post_url": "https://your-local-grubdog.neocities.org/blog/posts/2026/26-31-06/",
       "published": "2026-03-31T12:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://leekscosycorner.com/feed/": {
@@ -2299,8 +2299,8 @@
       "post_url": "https://leekscosycorner.com/2026/11/18/league-of-legends-riftbound/",
       "published": "2026-11-18T22:24:19Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://unidentifiedsignalsource.wordpress.com/feed/": {
@@ -2312,8 +2312,8 @@
       "post_url": "https://unidentifiedsignalsource.wordpress.com/2026/09/22/no-mans-sky-cosmos-our-journey-continues/",
       "published": "2026-09-22T14:17:07Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://notes.druchan.com/feed.xml": {
@@ -2325,8 +2325,8 @@
       "post_url": "https://notes.druchan.com/re-paper-004",
       "published": "2026-09-07T12:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://adayinthelifeofflash.wordpress.com/feed/": {
@@ -2338,8 +2338,8 @@
       "post_url": "https://adayinthelifeofflash.wordpress.com/2026/09/01/9-11-ceremony-2026/",
       "published": "2026-09-01T19:15:32Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://tallywinkle.bearblog.dev/feed/": {
@@ -2351,8 +2351,8 @@
       "post_url": "https://tallywinkle.bearblog.dev/life-lately-oct-2026/",
       "published": "2026-10-05T22:30:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://anotherdayu.com/feed/": {
@@ -2364,8 +2364,8 @@
       "post_url": "https://anotherdayu.com/1384/",
       "published": "2026-11-11T22:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "http://cheapbossattack.wordpress.com/feed/": {
@@ -2377,8 +2377,8 @@
       "post_url": "https://cheapbossattack.wordpress.com/2022/03/14/catching-up/",
       "published": "2022-03-14T08:16:08Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://amf.didiermary.fr/feed/": {
@@ -2386,12 +2386,12 @@
       "blog_title": "African Music Forum",
       "blog_url": "https://amf.didiermary.fr/",
       "feed_url": "https://amf.didiermary.fr/feed/",
-      "post_title": "Xalam – Apartheid",
-      "post_url": "https://amf.didiermary.fr/rss-club/xalam-apartheid/",
-      "published": "2026-11-19T12:26:58Z"
+      "post_title": "Nigeria 80",
+      "post_url": "https://amf.didiermary.fr/nigeria-80/",
+      "published": "2026-11-21T10:22:25Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://themmoist.wordpress.com/feed/": {
@@ -2403,8 +2403,8 @@
       "post_url": "https://themmoist.wordpress.com/2024/04/12/the-good-old-days/",
       "published": "2024-04-12T20:06:15Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://mtwb.blog/index.xml": {
@@ -2416,8 +2416,8 @@
       "post_url": "https://mtwb.blog/videos/2026/why-i-put-my-life-back-on-paper/",
       "published": "2026-11-19T07:48:49Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://ramblewithoutacause.wordpress.com/feed/": {
@@ -2429,12 +2429,12 @@
       "post_url": "https://ramblewithoutacause.wordpress.com/2025/10/21/inktober-day-8-maomao-from-the-apothecary-diaries/",
       "published": "2025-10-21T16:46:29Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://www.timbornholdt.com/blog/feed.rss": {
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": "HTTPError: 406 Client Error: Not Acceptable for url: https://timbornholdt.com/blog/feed"
   },
   "http://talesfrombacklog.blogspot.com/feeds/posts/default": {
@@ -2446,8 +2446,8 @@
       "post_url": "https://www.capsulejay.com/2026/01/capsulejays-2026-stream-line-up.html",
       "published": "2026-01-10T01:32:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://ahobbitsjourney.wordpress.com/feed/": {
@@ -2459,8 +2459,8 @@
       "post_url": "https://ahobbitsjourney.wordpress.com/2026/05/12/journey-from-a-hobbits-tale-to-house-of-ash-veil/",
       "published": "2026-05-12T00:54:06Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://valentine.bearblog.dev/feed/": {
@@ -2472,8 +2472,8 @@
       "post_url": "https://valentine.bearblog.dev/knowemberrr/",
       "published": "2026-11-16T02:20:47Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://frostilyte.ca/feed/": {
@@ -2485,8 +2485,8 @@
       "post_url": "https://frostilyte.ca/2026/11/17/a-promising-new-asymmetric-puzzler-two-two-agents-first-impressions/",
       "published": "2026-11-17T14:39:57Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://kavmac.com/feed/": {
@@ -2498,8 +2498,8 @@
       "post_url": "https://kavmac.com/twenty-five-years/",
       "published": "2026-09-12T00:00:33Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "http://galumphing.net/feed/": {
@@ -2511,8 +2511,8 @@
       "post_url": "https://galumphing.net/2026/10/02/warcraft-poison-ivy/",
       "published": "2026-10-02T05:25:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://aboyandhiscomputer.neocities.org/feed.xml": {
@@ -2524,8 +2524,8 @@
       "post_url": "https://aboyandhiscomputer.org/posts/2026-11-09-The-Road-To-8.0-Part-7-Jp-Fan-Fest-2026-Recap-And-Full-Trailer-Disucssion",
       "published": "2026-11-09T00:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://queenofsquiggles.codeberg.page/rss.xml": {
@@ -2537,8 +2537,8 @@
       "post_url": "https://queenofsquiggles.codeberg.page/personal-essay/fate-stay-night-saved-my-life/",
       "published": "2026-06-04T00:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "http://feeds.feedburner.com/Heartless_Gamer": {
@@ -2550,8 +2550,8 @@
       "post_url": "http://www.heartlessgamer.com/2026/11/thoughts-from-grand-theft-auto-vi-pc.html",
       "published": "2026-11-19T14:07:40Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://www.indiedee.com/feed/": {
@@ -2564,7 +2564,7 @@
       "published": "2025-02-20T23:40:52Z"
     },
     "last_success": "2026-08-15T06:56:51.013376Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": "ConnectionError: HTTPSConnectionPool(host='www.indiedee.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.indiedee.com', port=443): Failed to resolve 'www.indiedee.com' ([Errno -2] Name or service not known)\"))"
   },
   "https://marisabel.nl/feeds/blog.php": {
@@ -2577,8 +2577,8 @@
       "published": "2026-09-13T00:00:00Z"
     },
     "last_success": "2026-09-14T12:45:36.886598Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
-    "last_error": "HTTPError: 403 Client Error: Forbidden for url: https://marisabel.nl/feeds/blog.php"
+    "last_checked": "2026-11-21T15:21:04.802861Z",
+    "last_error": "ConnectionError: HTTPSConnectionPool(host='marisabel.nl', port=443): Max retries exceeded with url: /feeds/blog.php (Caused by NewConnectionError(\"HTTPSConnection(host='marisabel.nl', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
   },
   "http://dragonchasers.com/feed/": {
     "post": {
@@ -2589,12 +2589,12 @@
       "post_url": "https://dragonchasers.com/2026/10/28/game-tracking-choice-paralysis-and-me-being-weird-again/",
       "published": "2026-10-28T17:58:38Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://gamingomnivore.com/feed/": {
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": "HTTPError: 404 Client Error: Not Found for url: https://gamingomnivore.com/feed/"
   },
   "https://fifthgengaming.blog/feed/": {
@@ -2606,8 +2606,8 @@
       "post_url": "https://fifthgengaming.blog/2026/11/02/all-jaguar-games-in-order-1995-part-3/",
       "published": "2026-11-03T02:16:54Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://ribo.zone/feed.xml": {
@@ -2619,8 +2619,8 @@
       "post_url": "https://ribo.zone/weirdweb/",
       "published": "2026-10-02T01:39:22Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "http://alligatorsandaneurysms.wordpress.com/feed/": {
@@ -2632,12 +2632,12 @@
       "post_url": "https://alligatorsandaneurysms.wordpress.com/2026/11/18/i-expected-to-hate-it-why-my-dune-messiah-reread-was-a-total-win/",
       "published": "2026-11-18T13:18:34Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "http://www.containsmoderateperil.com/feed/": {
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.containsmoderateperil.com/feed/"
   },
   "https://virtualmoose.org/feed/": {
@@ -2649,8 +2649,8 @@
       "post_url": "https://virtualmoose.org/2026/11/17/used-my-librarys-newspaper-archive-to-research-local-internet-history/",
       "published": "2026-11-17T18:29:47Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://jasonjournals.com/feed/": {
@@ -2662,8 +2662,8 @@
       "post_url": "https://jasonjournals.com/posts/ipad-so-nice-i-bought-it-twice",
       "published": "2026-11-20T16:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://whimsies.bearblog.dev/feed/": {
@@ -2675,8 +2675,8 @@
       "post_url": "https://whimsies.bearblog.dev/certifiable-work-in-progress/",
       "published": "2026-04-16T21:07:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://glome.bearblog.dev/feed/": {
@@ -2688,8 +2688,8 @@
       "post_url": "https://glome.bearblog.dev/woke-up/",
       "published": "2026-06-17T18:37:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://davehenry.blog/rss.xml": {
@@ -2701,8 +2701,8 @@
       "post_url": "https://davehenry.blog/2026/11/xblog-phase-01-the-feed-reader/",
       "published": "2026-11-15T00:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://clandestini.org/feed/": {
@@ -2714,8 +2714,8 @@
       "post_url": "https://clandestini.org/blog/setembro-de-2026-recap-mensal/",
       "published": "2026-10-10T20:00:26Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://www.achilletoupin.com/feed.xml": {
@@ -2727,8 +2727,8 @@
       "post_url": "https://achilletoupin.com/blog/metier-4-cadres/",
       "published": "2026-11-06T08:00:19Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://www.nicksimson.com/feed.xml": {
@@ -2740,8 +2740,8 @@
       "post_url": "https://www.nicksimson.com//posts/2026-dolly-and-us.html",
       "published": "2026-08-26T02:11:40Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://flamingo-flix.blogspot.com/feeds/posts/default": {
@@ -2753,8 +2753,8 @@
       "post_url": "https://flamingo-flix.blogspot.com/2024/08/im-tired-so-little-more-about-me.html",
       "published": "2024-08-10T14:54:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://theworksofegan.net/feed.xml": {
@@ -2766,8 +2766,8 @@
       "post_url": "https://theworksofegan.net/posts/2026-11-05-card-of-darkness-apple-arcade/",
       "published": "2026-11-06T02:20:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://axxuy.com/blog/feed.xml": {
@@ -2779,8 +2779,8 @@
       "post_url": "https://axxuy.com/blog/2026/blogging-on-the-bus/",
       "published": "2026-11-16T00:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://ben.ramsey.dev/feeds/blog.rss": {
@@ -2792,8 +2792,8 @@
       "post_url": "https://ben.ramsey.dev/blog/2026/07/who-do-i-talk-to",
       "published": "2026-07-12T22:47:47Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "http://82mhz.net/index.xml": {
@@ -2805,8 +2805,8 @@
       "post_url": "http://82mhz.net/posts/2026/11/linkdump-no-134/",
       "published": "2026-11-20T00:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://christirichards.com/rss.xml": {
@@ -2818,8 +2818,8 @@
       "post_url": "https://christirichards.com/writing/image-optimization/",
       "published": "2026-07-24T00:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://comradenerdy.com/feed/": {
@@ -2831,8 +2831,8 @@
       "post_url": "https://comradenerdy.com/end-of-subathon-2026-some-info-and-plans/",
       "published": "2026-11-12T17:10:39Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://emmajuettner.com/feed/rss.xml": {
@@ -2844,8 +2844,8 @@
       "post_url": "https://emmajuettner.com/posts/when-the-shell-breaks-your-arrow-keys/",
       "published": "2026-09-01T00:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://gamesandgeekeryblog.wordpress.com/feed/": {
@@ -2857,8 +2857,8 @@
       "post_url": "https://gamesandgeekeryblog.wordpress.com/2017/09/06/excited-ys-viii-lacrimosa-of-dana/",
       "published": "2017-09-05T19:37:53Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://fyr.io/feed": {
@@ -2870,8 +2870,8 @@
       "post_url": "https://fyr.io/post/feeds-are-critical",
       "published": "2026-08-15T00:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://littlelum.neocities.org/RSS.xml": {
@@ -2884,7 +2884,7 @@
       "published": "2026-08-05T18:19:00Z"
     },
     "last_success": "2026-08-06T12:15:50.916769Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": "HTTPError: 404 Client Error: Not Found for url: https://littlelum.neocities.org/RSS.xml"
   },
   "https://lyonsinbeta.com/feed/feed.xml": {
@@ -2896,8 +2896,8 @@
       "post_url": "https://lyonsinbeta.com/posts/hot-water-heater/",
       "published": "2026-09-22T02:36:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://luckyinstar.neocities.org/feed.xml": {
@@ -2909,8 +2909,8 @@
       "post_url": "https://luckyinstar.neocities.org/blog/linkage_2026_10_16",
       "published": "2026-10-16T21:08:54Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://mogblog.pika.page/posts_feed": {
@@ -2922,8 +2922,8 @@
       "post_url": "https://mogblog.pika.page/posts/oc-lore-dump",
       "published": "2026-09-25T01:23:19Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://brennan.day/feed.xml": {
@@ -2931,12 +2931,12 @@
       "blog_title": "Brennan Day",
       "blog_url": "https://brennan.day/",
       "feed_url": "https://brennan.day/feed.xml",
-      "post_title": "I Just Published Two New Books",
-      "post_url": "https://brennan.day/i-just-published-two-new-books/",
-      "published": "2026-11-20T18:30:00Z"
+      "post_title": "I Want It Darker",
+      "post_url": "https://brennan.day/i-want-it-darker/",
+      "published": "2026-11-22T02:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://paseobaggage.bearblog.dev/feed/": {
@@ -2948,8 +2948,8 @@
       "post_url": "https://paseobaggage.bearblog.dev/odds-and-ends-31-blaugust-2026/",
       "published": "2026-08-31T16:18:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://nomadwarmachine.co.uk/feed/": {
@@ -2957,12 +2957,12 @@
       "blog_title": "NomadWarMachine",
       "blog_url": "https://nomadwarmachine.co.uk/",
       "feed_url": "https://nomadwarmachine.co.uk/feed/",
-      "post_title": "Nothing",
-      "post_url": "https://nomadwarmachine.co.uk/2026/11/20/nothing/",
-      "published": "2026-11-20T13:33:57Z"
+      "post_title": "The Missing Shade of Blue",
+      "post_url": "https://nomadwarmachine.co.uk/2026/11/21/the-missing-shade-of-blue/",
+      "published": "2026-11-21T11:53:03Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://www.ryanpatrickrandall.com/feed.xml": {
@@ -2974,8 +2974,8 @@
       "post_url": "https://www.ryanpatrickrandall.com/rewind/weekly-rewind-2026wk35",
       "published": "2026-09-06T19:49:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://quinndaedal.com/feed.xml": {
@@ -2987,8 +2987,8 @@
       "post_url": "https://quinndaedal.com/blog/2026/09/30/spinning-law/",
       "published": "2026-09-30T00:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://taxodium.ink/index.xml": {
@@ -3000,8 +3000,8 @@
       "post_url": "https://taxodium.ink/album-52.html",
       "published": "2026-11-18T15:37:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://themakerdad.com/rss/": {
@@ -3013,8 +3013,8 @@
       "post_url": "https://themakerdad.com/im-done-playing-the-youtube-game/",
       "published": "2026-10-02T16:08:21Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://thinkroot.xyz/feed.php": {
@@ -3026,8 +3026,8 @@
       "post_url": "https://thinkroot.xyz/jurnal/4-lucruri-despre-femei-pe-care-trebuie-sa-le-stii-de-tanar",
       "published": "2026-11-20T21:03:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://thetangent.space/feed.xml": {
@@ -3039,8 +3039,8 @@
       "post_url": "https://thetangent.space/2026/digest79/",
       "published": "2026-11-02T22:12:49Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://francescrossley.com/feed/": {
@@ -3052,8 +3052,8 @@
       "post_url": "https://francescrossley.com/almanac-makeover/",
       "published": "2026-11-19T18:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://wcrobinson.org/feed/": {
@@ -3065,8 +3065,8 @@
       "post_url": "https://wcrobinson.org/2026/10/09/pragmata-review-an-innovative-endearing-space-adventure-that-only-gets-better/",
       "published": "2026-10-09T22:17:49Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://christopherhimes.com/feed.xml": {
@@ -3078,8 +3078,8 @@
       "post_url": "http://christopherhimes.com/blog/2026/11/13/weeknotes-week46.html",
       "published": "2026-11-13T17:03:53Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://26g.netlify.app/feed.xml": {
@@ -3091,8 +3091,8 @@
       "post_url": "https://26g.netlify.app/posts/2026-08-10/",
       "published": "2026-08-10T13:48:05Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://20ilyapril.wordpress.com/feed/": {
@@ -3104,8 +3104,8 @@
       "post_url": "https://20ilyapril.wordpress.com/2026/11/18/invaluable-considerations/",
       "published": "2026-11-18T04:58:05Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://taterinx.bearblog.dev/feed/": {
@@ -3117,8 +3117,8 @@
       "post_url": "https://taterinx.bearblog.dev/260806-new/",
       "published": "2026-08-06T22:57:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://dearangelblog.tumblr.com/rss": {
@@ -3130,8 +3130,8 @@
       "post_url": "https://dearangelblog.tumblr.com/post/832827244926959616",
       "published": "2026-11-09T17:39:13Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://graphiya.wordpress.com/feed/": {
@@ -3143,8 +3143,8 @@
       "post_url": "https://graphiya.wordpress.com/2026/08/05/billybug/",
       "published": "2026-08-05T20:09:58Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "http://www.hyperborea.org/journal/feed/": {
@@ -3156,9 +3156,9 @@
       "post_url": "https://journal.kvibber.com/2026/11/old-man-writing/",
       "published": "2026-11-10T00:20:11Z"
     },
-    "last_success": "2026-11-20T16:08:03.579916Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
-    "last_error": "ConnectTimeout: HTTPConnectionPool(host='www.hyperborea.org', port=80): Max retries exceeded with url: /journal/feed/ (Caused by ConnectTimeoutError(<HTTPConnection(host='www.hyperborea.org', port=80) at 0x78397422ed80>, 'Connection to www.hyperborea.org timed out. (connect timeout=10.0)'))"
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
+    "last_error": null
   },
   "https://kvibber.com/feed.xml": {
     "post": {
@@ -3169,9 +3169,9 @@
       "post_url": "https://kvibber.com/reviews/books/oppenheimer-alternative/",
       "published": "2026-11-17T04:46:19Z"
     },
-    "last_success": "2026-11-20T16:08:03.579916Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
-    "last_error": "ConnectTimeout: HTTPSConnectionPool(host='kvibber.com', port=443): Max retries exceeded with url: /feed.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='kvibber.com', port=443) at 0x783974266c90>, 'Connection to kvibber.com timed out. (connect timeout=10.0)'))"
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
+    "last_error": null
   },
   "https://michcia.bearblog.dev/feed/": {
     "post": {
@@ -3182,8 +3182,8 @@
       "post_url": "https://michcia.bearblog.dev/declarative-tailnet-sharing-we-asked-2-gay-girls-and-heres-what-they-said/",
       "published": "2026-10-17T23:52:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://pourthecoffee.bearblog.dev/feed/": {
@@ -3195,8 +3195,8 @@
       "post_url": "https://pourthecoffee.bearblog.dev/three-of-swords-and-ace-of-pentacles/",
       "published": "2026-10-22T20:46:45Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://orbitalmartian.polymaths.page/feed.xml": {
@@ -3208,8 +3208,8 @@
       "post_url": "https://orbitalmartian.polymaths.page/blog/2026-11-01-week-notes-44/",
       "published": "2026-11-01T16:45:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://personalinfocloud.com/feed/": {
@@ -3221,8 +3221,8 @@
       "post_url": "https://personalinfocloud.com/blog/2026/11/18/four-cornerstones-of-development/",
       "published": "2026-11-18T19:47:37Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://nullish.smol.pub/atom.xml": {
@@ -3234,8 +3234,8 @@
       "post_url": "https://nullish.smol.pub/a-backup-plan",
       "published": "2026-09-28T01:37:37Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "http://feeds.feedburner.com/VanderwalnetOffTheTop": {
@@ -3247,8 +3247,8 @@
       "post_url": "https://www.vanderwal.net/random/entrysel.php?blog=2237",
       "published": "2026-11-02T16:55:37Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://scopique.com/feed/": {
@@ -3260,8 +3260,8 @@
       "post_url": "https://scopique.com/2026/11/20/whiplash-in-star-citizen/",
       "published": "2026-11-20T13:09:41Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://smorgasboring.com/rss/": {
@@ -3273,8 +3273,8 @@
       "post_url": "https://smorgasboring.com/being-understood/",
       "published": "2026-01-09T19:02:59Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://medium.com/feed/@audreyzetta": {
@@ -3286,8 +3286,8 @@
       "post_url": "https://medium.com/read-or-die/aluminum-foil-wars-31cd76e56b82?source=rss-529ca56efa34------2",
       "published": "2026-11-08T08:46:43Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://sweaterpockets.bearblog.dev/feed/": {
@@ -3300,7 +3300,7 @@
       "published": "2026-08-31T12:25:00Z"
     },
     "last_success": "2026-08-31T13:48:25.478716Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": "HTTPError: 404 Client Error: Not Found for url: https://sweaterpockets.bearblog.dev/feed/"
   },
   "https://tabitha.computer/feed/": {
@@ -3313,7 +3313,7 @@
       "published": "2026-09-16T04:38:44Z"
     },
     "last_success": "2026-11-20T16:08:03.579916Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": "SSLError: HTTPSConnectionPool(host='tabitha.computer', port=443): Max retries exceeded with url: /feed/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1011)')))"
   },
   "https://tobygeeksout.micro.blog/feed.xml": {
@@ -3321,12 +3321,12 @@
       "blog_title": "Toby Geeks Out",
       "blog_url": "https://tobygeeksout.micro.blog/",
       "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
-      "post_title": "On This Day: My Old Front Yard in Full Color",
-      "post_url": "https://tobygeeksout.micro.blog/2026/11/20/on-this-day-my-old.html",
-      "published": "2026-11-20T17:39:32Z"
+      "post_title": "📚 Currently Reading: The Ferryman's Daughter (Bloodlines)",
+      "post_url": "https://tobygeeksout.micro.blog/2026/11/21/currently-reading-the-ferrymans-daughter.html",
+      "published": "2026-11-21T05:34:29Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://write.as/blog-x2600/feed/": {
@@ -3338,8 +3338,8 @@
       "post_url": "https://write.as/blog-x2600/black-friday-acct-deletion?pk_campaign=rss-feed",
       "published": "2026-11-20T13:44:43Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://note.mu/notemag/m/m57787022cedc/rss": {
@@ -3351,8 +3351,8 @@
       "post_url": "https://note.com/uss_un/n/n2c61fb2c3622",
       "published": "2026-11-19T11:37:31Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://wakupanbouquet.hatenablog.com/rss": {
@@ -3364,8 +3364,8 @@
       "post_url": "https://wakupanbouquet.hatenablog.com/entry/2026/11/15/112256",
       "published": "2026-11-15T02:22:56Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://coop-setsugen.com/feed.xml": {
@@ -3377,8 +3377,8 @@
       "post_url": "https://coop-setsugen.com/essay/2026/11/19/",
       "published": "2026-11-19T00:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://wakanatrium.site/?mode=rss": {
@@ -3391,7 +3391,7 @@
       "published": "2026-11-03T12:39:51Z"
     },
     "last_success": "2026-11-03T23:58:45.003865Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": "ValueError: no usable entries (<unknown>:2:1264: mismatched tag)"
   },
   "http://z.arlmy.me/atom.xml": {
@@ -3403,8 +3403,8 @@
       "post_url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_535/",
       "published": "2026-11-10T04:48:27Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://leehenry.top/rss.xml": {
@@ -3416,8 +3416,8 @@
       "post_url": "https://leehenry.top/posts/words_in_wildness/ww-vol09/",
       "published": "2026-08-28T00:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://nosrednayduj.dreamwidth.org/data/rss": {
@@ -3430,8 +3430,8 @@
       "published": "2026-11-17T22:19:01Z"
     },
     "last_success": "2026-11-18T01:36:26.276259Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
-    "last_error": "ReadTimeout: HTTPSConnectionPool(host='nosrednayduj.dreamwidth.org', port=443): Read timed out. (read timeout=25.0)"
+    "last_checked": "2026-11-21T15:21:04.802861Z",
+    "last_error": "HTTPError: 504 Server Error: Gateway Time-out for url: https://nosrednayduj.dreamwidth.org/data/rss"
   },
   "https://pinkway.mataroa.blog/rss/": {
     "post": {
@@ -3442,8 +3442,8 @@
       "post_url": "https://pinkway.mataroa.blog/blog/limbo/",
       "published": "2026-11-19T00:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://aeish-world.neocities.org/feed.txt": {
@@ -3455,8 +3455,8 @@
       "post_url": "https://aeish-world.neocities.org/blog_pages/blog-26-11-15",
       "published": "2026-11-15T08:24:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://kingwilly105.blogspot.com/feeds/posts/default": {
@@ -3468,8 +3468,8 @@
       "post_url": "https://kingwilly105.blogspot.com/2026/10/pictures-from-october-vintage-computer.html",
       "published": "2026-10-18T03:20:08Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "http://bavatuesdays.com/feed/": {
@@ -3481,8 +3481,8 @@
       "post_url": "https://bavatuesdays.com/the-man-machine-disk-liberation-tour/",
       "published": "2026-11-18T10:12:37Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://www.crosenthal.com/chrome/feed.xml": {
@@ -3494,8 +3494,8 @@
       "post_url": "https://www.crosenthal.com/chrome/2026/10/23/pipx-pipx-hooray.html",
       "published": "2026-10-23T07:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://drjan.org/feed/": {
@@ -3507,8 +3507,8 @@
       "post_url": "https://drjan.org/2026/10/24/late-lunch/",
       "published": "2026-10-24T17:02:56Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://devz.cl/index.xml": {
@@ -3520,8 +3520,8 @@
       "post_url": "https://devz.cl/posts/my-nail-biting-has-been-cured-by-manicure/",
       "published": "2026-11-16T14:09:18Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://www.ivyrun.com/inanotherplace/?feed=rss2": {
@@ -3533,8 +3533,8 @@
       "post_url": "https://www.ivyrun.com/inanotherplace/?p=2948",
       "published": "2026-10-14T19:39:56Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://prry.uk/feed": {
@@ -3547,7 +3547,7 @@
       "published": "2026-08-16T21:18:00Z"
     },
     "last_success": "2026-11-17T16:52:29.311913Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": "ValueError: no usable entries (<unknown>:47:2: mismatched tag)"
   },
   "https://lysurps.neocities.org/rss.xml": {
@@ -3559,8 +3559,8 @@
       "post_url": "https://lysurps.neocities.org/",
       "published": "2026-08-17T12:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://lostletters.neocities.org/feed.xml": {
@@ -3572,8 +3572,8 @@
       "post_url": "https://lostletters.neocities.org/2026/11/01/self-limiting-beliefs.html",
       "published": "2026-11-01T17:55:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://obsolete29.com/feed/feed.xml": {
@@ -3585,8 +3585,8 @@
       "post_url": "https://michaelharley.net/watching/2026/11/19/year-10/",
       "published": "2026-11-20T01:51:18Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://musingsoverpintsandcoffee.wordpress.com/feed/": {
@@ -3598,8 +3598,8 @@
       "post_url": "https://musingsoverpintsandcoffee.wordpress.com/2026/11/17/the-next-date-on-the-calendar/",
       "published": "2026-11-17T23:10:32Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://object.computer/feed.xml": {
@@ -3611,8 +3611,8 @@
       "post_url": "https://object.computer/2026/10/07/week-note-on-making-stickers.html",
       "published": "2026-10-07T23:42:59Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://msfjarvis.dev/notes/rss.xml": {
@@ -3624,8 +3624,8 @@
       "post_url": "https://msfjarvis.dev/notes/til-prettier-mdx-jsx-formatting-quirk-with-nested-elements/",
       "published": "2026-09-06T07:45:19Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://pradx.in/feed/": {
@@ -3637,8 +3637,8 @@
       "post_url": "https://pradx.in/2026/11/15/weekly-notes-46-2026/",
       "published": "2026-11-15T12:57:39Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://pretendtypewriter.net/feed/": {
@@ -3646,12 +3646,12 @@
       "blog_title": "Pretend Typewriter",
       "blog_url": "https://pretendtypewriter.net/",
       "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "note - crashing out",
-      "post_url": "https://pretendtypewriter.net/note-crashing-out/",
-      "published": "2026-11-20T21:49:00Z"
+      "post_title": "UNRAVELING",
+      "post_url": "https://pretendtypewriter.net/unraveling/",
+      "published": "2026-11-21T10:35:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://pux.nehukon.de/box/feed.php?f=notes": {
@@ -3663,8 +3663,8 @@
       "post_url": "https://pux.nehukon.de/post/?p=20260620_221809",
       "published": "2026-06-20T20:18:09Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://polvoronii.bearblog.dev/feed/": {
@@ -3676,8 +3676,8 @@
       "post_url": "https://polvoronii.bearblog.dev/unbearably-laggy/",
       "published": "2026-11-18T07:01:46Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://rishidass.net/posts_feed": {
@@ -3685,12 +3685,12 @@
       "blog_title": "Rishi Dass",
       "blog_url": "https://rishidass.net",
       "feed_url": "https://rishidass.net/posts_feed",
-      "post_title": "Secure messaging",
-      "post_url": "https://rishidass.net/posts/secure-messaging",
-      "published": "2026-11-20T03:05:00Z"
+      "post_title": "Creative buffer",
+      "post_url": "https://rishidass.net/posts/creative-buffer",
+      "published": "2026-11-21T06:55:07Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://sylvia.studio/feed.xml": {
@@ -3703,7 +3703,7 @@
       "published": "2026-11-12T07:34:09Z"
     },
     "last_success": "2026-11-19T01:12:25.355880Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": "ValueError: no usable entries (<unknown>:23:2: mismatched tag)"
   },
   "https://www.omz13.com/feed.rss": {
@@ -3715,8 +3715,8 @@
       "post_url": "https://www.omz13.com/fieldnotes/immouseable",
       "published": "2026-11-15T10:25:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://elve.club/feed": {
@@ -3724,12 +3724,12 @@
       "blog_title": "スナックエルベ",
       "blog_url": "https://elve.club/",
       "feed_url": "https://elve.club/feed",
-      "post_title": "母親に呪われ続けている",
-      "post_url": "https://elve.club/entry/2026/11/21/083000?utm_source=feed",
-      "published": "2026-11-20T23:30:00Z"
+      "post_title": "情緒がめちゃくちゃで",
+      "post_url": "https://elve.club/entry/2026/11/21/224507?utm_source=feed",
+      "published": "2026-11-21T13:45:07Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://sylvia.bearblog.dev/feed/": {
@@ -3741,8 +3741,8 @@
       "post_url": "https://departure.blog/wwo/2026/9-spicy/",
       "published": "2026-10-09T20:44:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://blog.agnes.love/feed/": {
@@ -3755,7 +3755,7 @@
       "published": "2026-09-18T08:38:51Z"
     },
     "last_success": "2026-09-18T20:53:58.734206Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": "HTTPError: 404 Client Error: Not Found for url: https://blog.agnes.love/feed/"
   },
   "https://aneeshsathe.com/index.xml": {
@@ -3767,8 +3767,8 @@
       "post_url": "https://aneeshsathe.com/it-s-not-just-screen-time-kids-are-bombarded-by-hectic-media-aeon-essays/",
       "published": "2026-09-14T10:18:50Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://annonimax.bearblog.dev/feed/": {
@@ -3781,7 +3781,7 @@
       "published": "2026-08-27T11:20:00Z"
     },
     "last_success": "2026-08-28T11:10:30.247809Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": "HTTPError: 404 Client Error: Not Found for url: https://annonimax.bearblog.dev/feed/"
   },
   "https://thiskurt.me/rss.xml": {
@@ -3793,8 +3793,8 @@
       "post_url": "https://thiskurt.me/blog/mad-king/index.html",
       "published": "2026-08-18T00:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://robida.net/feed.xml": {
@@ -3807,7 +3807,7 @@
       "published": "2026-11-11T18:35:41Z"
     },
     "last_success": "2026-11-17T16:52:29.311913Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": "HTTPError: 404 Client Error: Not Found for url: https://robida.net/feed.xml"
   },
   "https://tobygeeksout.micro.blog/categories/blogging/feed.xml": {
@@ -3819,8 +3819,8 @@
       "post_url": "https://tobygeeksout.micro.blog/2026/11/20/tab-dump-food-and-blogging.html",
       "published": "2026-11-20T16:15:08Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://alessandrocuzzocrea.com/feed.xml": {
@@ -3832,8 +3832,8 @@
       "post_url": "https://alessandrocuzzocrea.com/reverse-engineering-octopath-traveler-therion-steal-success-rate/",
       "published": "2026-10-10T00:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://blog.spencermagnusson.com/feed.xml": {
@@ -3845,8 +3845,8 @@
       "post_url": "https://blog.spencermagnusson.com/sequels_uncharted/",
       "published": "2026-11-20T07:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://burgeonlab.com/all/feed.xml": {
@@ -3858,8 +3858,8 @@
       "post_url": "https://burgeonlab.com/photos/2026/1119-1156/",
       "published": "2026-11-19T03:56:01Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://divergentrays.com/blog/blogfeed.xml": {
@@ -3871,8 +3871,8 @@
       "post_url": "https://divergentrays.com/blog/posts/2026-11-18-Pink-Butterfly-Tiara.html",
       "published": "2026-11-19T01:39:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fwww.dozenialdragons.me.uk%2Fblog": {
@@ -3884,8 +3884,8 @@
       "post_url": "https://www.dozenialdragons.me.uk/2026/09/01/iwfc_august_26_round-up/",
       "published": "2026-09-01T00:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://greenwald.substack.com/feed/": {
@@ -3898,7 +3898,7 @@
       "published": "2026-11-13T13:48:15Z"
     },
     "last_success": "2026-11-16T16:59:48.110927Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": "HTTPError: 403 Client Error: Forbidden for url: https://greenwald.substack.com/feed/"
   },
   "https://sheri42.net/feed/": {
@@ -3910,8 +3910,8 @@
       "post_url": "https://sheri42.net/2026/10/28/weekly-wrapup-pond-life-brushtober/",
       "published": "2026-10-28T23:06:03Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "http://feeds.feedburner.com/gregorlove": {
@@ -3923,9 +3923,9 @@
       "post_url": "https://gregorlove.com/2026/10/beginning/",
       "published": "2026-10-26T15:25:00Z"
     },
-    "last_success": "2026-11-20T16:08:03.579916Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
-    "last_error": "ConnectTimeout: HTTPConnectionPool(host='gregorlove.com', port=80): Max retries exceeded with url: /articles.atom (Caused by ConnectTimeoutError(<HTTPConnection(host='gregorlove.com', port=80) at 0x783974215520>, 'Connection to gregorlove.com timed out. (connect timeout=10.0)'))"
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
+    "last_error": null
   },
   "https://heartsoulmachine.com/feed.xml": {
     "post": {
@@ -3936,8 +3936,8 @@
       "post_url": "https://heartsoulmachine.com/blog/2026/11-08-october-2026/",
       "published": "2026-11-08T00:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://kaigulliksen.com/feed.xml": {
@@ -3949,8 +3949,8 @@
       "post_url": "https://kaigulliksen.com/blog/deleting-my-subscriptions-through-the-power-of-pikapods/",
       "published": "2026-11-19T00:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://prin.lu/feed.xml": {
@@ -3962,8 +3962,8 @@
       "post_url": "https://prin.lu/log/260904_cornix/",
       "published": "2026-09-04T02:21:44Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://muttthecowcat.neocities.org/rss.xml": {
@@ -3975,8 +3975,8 @@
       "post_url": "https://muttthecowcat.neocities.org/indiv/37",
       "published": "2026-11-15T00:58:50Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://www.newsonaut.com/rss": {
@@ -3988,8 +3988,8 @@
       "post_url": "https://www.newsonaut.com/articles/newspaper-design-elements-that-often-didnt-make-the-transition-to-the-web",
       "published": "2026-11-20T23:12:22Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://noisydeadlines.net/feed/": {
@@ -4001,8 +4001,8 @@
       "post_url": "https://noisydeadlines.net/week-notes-nov-01-to-nov-16-2026?pk_campaign=rss-feed",
       "published": "2026-11-17T02:15:21Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://rachonaut.com/feed/": {
@@ -4014,8 +4014,8 @@
       "post_url": "https://rachonaut.com/suspiciously-good/",
       "published": "2026-08-11T16:32:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://manuelmoreale.com/feed/peopleandblogs": {
@@ -4027,13 +4027,13 @@
       "post_url": "https://zacharykai.net/notes/pb/juhis",
       "published": "2026-09-04T00:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "http://tantek.com/updates.atom": {
-    "last_checked": "2026-11-21T00:47:00.100035Z",
-    "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: http://tantek.com/updates.atom"
+    "last_checked": "2026-11-21T15:21:04.802861Z",
+    "last_error": "ValueError: entries were present but none had a usable title, link and date"
   },
   "https://srijan.ch/feed/all.xml": {
     "post": {
@@ -4044,8 +4044,8 @@
       "post_url": "https://srijan.ch/emacs-desktop-save-mode-without-the-automatic-restore",
       "published": "2026-08-06T08:10:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://392ms.witchserver.jp/kb/?mode=rss": {
@@ -4053,12 +4053,12 @@
       "blog_title": "TGLG",
       "blog_url": "https://392ms.witchserver.jp/kb/",
       "feed_url": "https://392ms.witchserver.jp/kb/?mode=rss",
-      "post_title": "7周年イベ、誰の箒に乗るかとか料理のボイスの差分とかあるので…",
-      "post_url": "https://392ms.witchserver.jp/kb/?postid=1298",
-      "published": "2026-11-19T12:23:48Z"
+      "post_title": "#lifelog",
+      "post_url": "https://392ms.witchserver.jp/kb/?postid=1299",
+      "published": "2026-11-21T14:00:30Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://wrywriter.ca/posts_feed": {
@@ -4070,8 +4070,8 @@
       "post_url": "https://alexandrawolfe.ca/posts/me-and-my-phone",
       "published": "2026-11-17T18:44:12Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://tommyeveryday.mataroa.blog/rss/": {
@@ -4079,12 +4079,12 @@
       "blog_title": "Tommyeveryday",
       "blog_url": "https://tommyeveryday.mataroa.blog",
       "feed_url": "https://tommyeveryday.mataroa.blog/rss/",
-      "post_title": "Friday November 20, 2026",
-      "post_url": "https://tommyeveryday.mataroa.blog/blog/friday-november-20-2026/",
-      "published": "2026-11-20T00:00:00Z"
+      "post_title": "Saturday November 21, 2026",
+      "post_url": "https://tommyeveryday.mataroa.blog/blog/saturday-november-21-2026/",
+      "published": "2026-11-21T00:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://torinakukoroni.blog.fc2.com/?xml": {
@@ -4092,12 +4092,12 @@
       "blog_title": "Blog - 鳥啼く頃に",
       "blog_url": "https://torinakukoroni.blog.fc2.com/",
       "feed_url": "https://torinakukoroni.blog.fc2.com/?xml",
-      "post_title": "映画『装甲騎兵ボトムズ 灰色の魔女』良かったよ～！",
-      "post_url": "https://torinakukoroni.blog.fc2.com/blog-entry-415.html",
-      "published": "2026-11-20T13:30:28Z"
+      "post_title": "複数のサービスを使っておくのって大事だな～",
+      "post_url": "https://torinakukoroni.blog.fc2.com/blog-entry-416.html",
+      "published": "2026-11-21T02:42:18Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://westkarana.xyz/rss.xml": {
@@ -4105,12 +4105,12 @@
       "blog_title": "Daily Blogroll",
       "blog_url": "http://westkarana.xyz",
       "feed_url": "https://westkarana.xyz/rss.xml",
-      "post_title": "The Daily Blogroll — Thursday, 19 November 2026",
-      "post_url": "https://westkarana.xyz/2026/11/daily-blogroll-2026-11-19.html",
-      "published": "2026-11-19T00:00:00Z"
+      "post_title": "The Daily Blogroll — Saturday, 21 November 2026",
+      "post_url": "https://westkarana.xyz/2026/11/daily-blogroll-2026-11-21.html",
+      "published": "2026-11-21T00:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://sonatano1.wordpress.com/feed/": {
@@ -4122,8 +4122,8 @@
       "post_url": "https://sonatano1.wordpress.com/2026/11/19/replaying-thief-ii-the-metal-age-or-how-i-learned-and-forgot-how-to-be-patient/",
       "published": "2026-11-20T03:34:26Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://stoheidy.wordpress.com/feed/": {
@@ -4135,8 +4135,8 @@
       "post_url": "https://stoheidy.wordpress.com/2026/10/31/godspeed-captain-picard/",
       "published": "2026-11-01T06:36:11Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://joeandsto.wordpress.com/feed/": {
@@ -4148,8 +4148,8 @@
       "post_url": "https://joeandsto.wordpress.com/2026/11/10/the-value-series-rediscovered-spocking-up-on-anti-gorn-weapons-and-new-costumes/",
       "published": "2026-11-10T16:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "http://startrekonlinecouv.wordpress.com/feed/": {
@@ -4161,8 +4161,8 @@
       "post_url": "https://startrekonlinecouv.wordpress.com/2026/09/10/sto-cheaters-or-are-some-players-just-that-good/",
       "published": "2026-09-10T18:31:53Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "http://lotroplayers.com/feed/": {
@@ -4174,8 +4174,8 @@
       "post_url": "https://lotroplayers.com/2026/11/16/lotro-players-news-episode-691-hooked-on-the-jug/?utm_source=rss&utm_medium=rss&utm_campaign=lotro-players-news-episode-691-hooked-on-the-jug",
       "published": "2026-11-16T15:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://blackholereviews.blogspot.com/feeds/posts/default": {
@@ -4187,8 +4187,8 @@
       "post_url": "https://blackholereviews.blogspot.com/2017/01/zombie-catastrophe-freaks-1970s-movie.html",
       "published": "2017-01-01T10:58:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://fleapitsandpicturepalaces.blogspot.com/feeds/posts/default": {
@@ -4200,8 +4200,8 @@
       "post_url": "https://fleapitsandpicturepalaces.blogspot.com/2026/10/crystal-lake-tv-series-2026-episodes-1.html",
       "published": "2026-10-13T21:38:50Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://www.explodinghelicopter.com/feeds/posts/default": {
@@ -4213,8 +4213,8 @@
       "post_url": "https://www.explodinghelicopter.com/2026/10/no-escape.html",
       "published": "2026-10-12T09:12:50Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://jigsawshorrorcorner.com/feed/": {
@@ -4226,12 +4226,12 @@
       "post_url": "https://jigsawshorrorcorner.com/2026/05/07/an-update-from-jiggy/",
       "published": "2026-05-08T02:37:40Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://www.killerhorrorcritic.com/1/feed": {
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.killerhorrorcritic.com/1/feed"
   },
   "https://mikestakeonthemovies.com/feed/": {
@@ -4243,8 +4243,8 @@
       "post_url": "https://mikestakeonthemovies.com/2026/10/01/its-october-so-whatever-youre-thinking-of-doing-dont/",
       "published": "2026-10-01T14:05:59Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://mmoblogg.wordpress.com/feed/": {
@@ -4256,8 +4256,8 @@
       "post_url": "https://mmoblogg.wordpress.com/2026/11/17/vethug-and-andesite/",
       "published": "2026-11-17T05:20:57Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://modeltrainsinthecinema.blogspot.com/feeds/posts/default": {
@@ -4269,8 +4269,8 @@
       "post_url": "https://modeltrainsinthecinema.blogspot.com/2026/05/crack-in-world-1965.html",
       "published": "2026-05-31T08:52:52Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://mutantreviewersmovies.com/feed/": {
@@ -4278,12 +4278,12 @@
       "blog_title": "Mutant Reviewers",
       "blog_url": "https://mutantreviewersmovies.com",
       "feed_url": "https://mutantreviewersmovies.com/feed/",
-      "post_title": "The Village (2004) — The emperor’s new-old clothes",
-      "post_url": "https://mutantreviewersmovies.com/2026/11/20/the-village-2004-the-emperors-new-old-clothes/",
-      "published": "2026-11-20T13:00:39Z"
+      "post_title": "Mutant Roundtable: What cult romcoms do we recommend?",
+      "post_url": "https://mutantreviewersmovies.com/2026/11/21/mutant-roundtable-what-cult-romcoms-do-we-recommend/",
+      "published": "2026-11-21T13:00:09Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://modelaircraftinthecinema.blogspot.com/feeds/posts/default": {
@@ -4295,8 +4295,8 @@
       "post_url": "https://modelaircraftinthecinema.blogspot.com/2026/10/a-lady-without-passport-1950.html",
       "published": "2026-10-18T07:58:30Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://www.modelshipsinthecinema.com/feeds/posts/default": {
@@ -4308,8 +4308,8 @@
       "post_url": "https://www.modelshipsinthecinema.com/2026/10/high-barbaree-1947.html",
       "published": "2026-10-17T09:13:34Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://nzpetesmatteshot.blogspot.com/feeds/posts/default": {
@@ -4321,8 +4321,8 @@
       "post_url": "https://nzpetesmatteshot.blogspot.com/2026/08/matte-effects-films-celebrated-part.html",
       "published": "2026-08-21T04:52:51Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://space1970.blogspot.com/feeds/posts/default": {
@@ -4334,8 +4334,8 @@
       "post_url": "https://space1970.blogspot.com/2017/07/planet-of-dinosaurs-1977-behind-scenes.html",
       "published": "2017-07-31T04:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://superior-realities.com/feed/": {
@@ -4347,8 +4347,8 @@
       "post_url": "https://superior-realities.com/2026/11/20/song-of-the-month-lowell-i-love-you-money/",
       "published": "2026-11-20T15:00:01Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://eofftvreview.wordpress.com/feed/": {
@@ -4360,8 +4360,8 @@
       "post_url": "https://eofftvreview.wordpress.com/2026/11/16/curse-of-bigfoot-1975/",
       "published": "2026-11-16T14:27:10Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://thecapsulecritic.com/feed/": {
@@ -4373,8 +4373,8 @@
       "post_url": "https://thecapsulecritic.com/2026/11/06/the-changeling-1980-a-first-class-ghost-story-with-a-great-cast-and-fine-production-values/",
       "published": "2026-11-06T19:03:12Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://pixelnomad.ca/feed/": {
@@ -4386,8 +4386,8 @@
       "post_url": "https://pixelnomad.ca/2026/11/10/adventures-on-jackal/",
       "published": "2026-11-10T15:57:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://gamerofpassion.com/feed/": {
@@ -4395,12 +4395,12 @@
       "blog_title": "Gamer Of Passion",
       "blog_url": "https://gamerofpassion.com/",
       "feed_url": "https://gamerofpassion.com/feed/",
-      "post_title": "Hades 1 Hidden Aspects: How to Unlock All 6 and Which to Buy First",
-      "post_url": "https://gamerofpassion.com/hades-hidden-aspects/",
-      "published": "2026-11-20T21:08:57Z"
+      "post_title": "Hades 1 Epilogue Guide: Every Requirement for the True Ending",
+      "post_url": "https://gamerofpassion.com/hades-epilogue/",
+      "published": "2026-11-21T12:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://lecinemadreams.blogspot.com/feeds/posts/default": {
@@ -4412,8 +4412,8 @@
       "post_url": "https://lecinemadreams.blogspot.com/2026/07/negatives-1968.html",
       "published": "2026-07-03T23:08:28Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://vmphilblog.wordpress.com/feed/": {
@@ -4425,8 +4425,8 @@
       "post_url": "https://vmphilblog.wordpress.com/2026/08/30/all-i-have-to-do-is-dream/",
       "published": "2026-08-30T21:26:27Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://blessingofkings.blogspot.com/feeds/posts/default": {
@@ -4438,8 +4438,8 @@
       "post_url": "http://blessingofkings.blogspot.com/2025/03/checking-in.html",
       "published": "2025-03-03T08:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://honorscode.blogspot.com/feeds/posts/default": {
@@ -4451,8 +4451,8 @@
       "post_url": "http://honorscode.blogspot.com/2026/09/the-next-chapter-honors-code-is.html",
       "published": "2026-09-21T20:15:48Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://www.filfre.net/feed/": {
@@ -4460,13 +4460,13 @@
       "blog_title": "The Digital Antiquarian",
       "blog_url": "https://www.filfre.net/",
       "feed_url": "https://www.filfre.net/feed/",
-      "post_title": "This Week on The Analog Antiquarian",
-      "post_url": "https://www.filfre.net/2026/11/this-week-on-the-analog-antiquarian/",
-      "published": "2026-11-13T17:07:18Z"
+      "post_title": "Diablo II",
+      "post_url": "https://www.filfre.net/2026/11/diablo-ii/",
+      "published": "2026-11-20T17:03:57Z"
     },
-    "last_success": "2026-11-20T16:08:03.579916Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
-    "last_error": "ConnectionError: HTTPSConnectionPool(host='www.filfre.net', port=443): Max retries exceeded with url: /feed/ (Caused by NewConnectionError(\"HTTPSConnection(host='www.filfre.net', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
+    "last_error": null
   },
   "https://tomeoftheancient.wordpress.com/feed/": {
     "post": {
@@ -4477,8 +4477,8 @@
       "post_url": "https://tomeoftheancient.wordpress.com/2026/11/06/my-apologies-to-cat-sy-yansee-cim-and-everyone-else/",
       "published": "2026-11-06T23:32:52Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://nosygamer.blogspot.com/feeds/posts/default": {
@@ -4490,8 +4490,8 @@
       "post_url": "https://nosygamer.blogspot.com/2026/11/pass-popcorn-gta-6-launched.html",
       "published": "2026-11-20T19:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://worldofmatticus.com/feed/": {
@@ -4503,8 +4503,8 @@
       "post_url": "https://worldofmatticus.com/what-to-do-at-level-60-in-wow-forever/",
       "published": "2026-11-19T18:50:22Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://joho-todai.com/pinterest-rss/": {
@@ -4512,12 +4512,12 @@
       "blog_title": "情報の灯台",
       "blog_url": "https://joho-todai.com/",
       "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "Signal、iOS 27とAndroidでAIによる画面読み取りを遮断。暗号化の「外側」を守る闘い",
-      "post_url": "https://joho-todai.com/signal-blocks-ai-screen-reading-ios-android/",
-      "published": "2026-11-21T00:13:04Z"
+      "post_title": "Google、Nestアプリを2027年1月25日に終了。手動保存の動画クリップは自動移行されず",
+      "post_url": "https://joho-todai.com/google-nest-app-shutdown-2027/",
+      "published": "2026-11-21T14:55:06Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://joho-todai.com/en/rss/": {
@@ -4525,12 +4525,12 @@
       "blog_title": "Joho Todai (English)",
       "blog_url": "https://joho-todai.com/",
       "feed_url": "https://joho-todai.com/en/rss/",
-      "post_title": "South Korea Catches 54 Suneung AI Cheaters via Emergency Alerts: Full Exam System Review Ordered Five Days After Confession",
-      "post_url": "https://joho-todai.com/en/korea-suneung-ai-cheating-54-caught/",
-      "published": "2026-11-20T23:26:33Z"
+      "post_title": "Google to Shut Down Nest App on January 25, 2027; Manually Saved Video Clips Will Not Migrate Automatically",
+      "post_url": "https://joho-todai.com/en/google-nest-app-shutdown-2027/",
+      "published": "2026-11-21T14:55:06Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://petersonreviews.com/feed/": {
@@ -4542,8 +4542,8 @@
       "post_url": "https://petersonreviews.com/2026/11/20/the-savages-2007-movie-review/",
       "published": "2026-11-20T08:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://bossatlas.com/feed": {
@@ -4555,8 +4555,8 @@
       "post_url": "https://bossatlas.com/games/phantom-blade-zero/combat-guide",
       "published": "2026-10-28T00:00:00Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   },
   "https://bornformedia.com/feed/": {
@@ -4568,8 +4568,8 @@
       "post_url": "https://bornformedia.com/best-story-games/?utm_source=rss&utm_medium=rss&utm_campaign=best-story-games",
       "published": "2026-11-09T18:13:23Z"
     },
-    "last_success": "2026-11-21T00:47:00.100035Z",
-    "last_checked": "2026-11-21T00:47:00.100035Z",
+    "last_success": "2026-11-21T15:21:04.802861Z",
+    "last_checked": "2026-11-21T15:21:04.802861Z",
     "last_error": null
   }
 }
