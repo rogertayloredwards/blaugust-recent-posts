@@ -1,191 +1,191 @@
 {
-  "generated_at": "2026-11-21T23:48:09.680032Z",
-  "source_generated_at": "2026-11-21T23:47:24.802067Z",
+  "generated_at": "2026-11-22T15:17:12.936508Z",
+  "source_generated_at": "2026-11-22T15:16:30.573134Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
   "post_count": 20,
-  "summary_count": 20,
+  "summary_count": 18,
   "posts": [
     {
       "blog_title": "Brennan Day",
       "blog_url": "https://brennan.day/",
       "feed_url": "https://brennan.day/feed.xml",
-      "post_title": "I Want It Darker",
-      "post_url": "https://brennan.day/i-want-it-darker/",
-      "published": "2026-11-22T02:00:00Z",
-      "summary": "Brennan Day describes building offline emergency archives, entertainment servers, and preparedness systems amid rising cyberattacks, software vulnerabilities, and uncertainty about internet resilience."
-    },
-    {
-      "blog_title": "情報の灯台",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "Microsoft、セキュリティ製品をWindowsカーネルから分離する新基盤を正式提供。8社が順次対応へ",
-      "post_url": "https://joho-todai.com/microsoft-windows-kernel-security-product-separation/",
-      "published": "2026-11-21T23:42:54Z",
-      "summary": "Microsoft has launched Windows endpoint security platform to reduce kernel dependence, with eight security vendors planning staged adoption from late 2026 through 2027."
-    },
-    {
-      "blog_title": "Joho Todai (English)",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/en/rss/",
-      "post_title": "Europe-Japan Mercury Probe BepiColombo Passes Scheduled Orbit-Insertion Burn Window After Eight-Year Journey",
-      "post_url": "https://joho-todai.com/en/bepicolumbo-mercury-orbit-insertion/",
-      "published": "2026-11-21T23:30:54Z",
-      "summary": "BepiColombo’s scheduled Mercury orbit-insertion burn followed an eight-year journey, with mission success awaiting telemetry after communications resume and future MPO-Mio observations planned."
-    },
-    {
-      "blog_title": "Sal's Blog",
-      "blog_url": "https://sals.place/",
-      "feed_url": "https://sals.place/feed/",
-      "post_title": "Wired up Webmention; and about that Peugeot",
-      "post_url": "https://sals.place/blog/wired-up-webmentions/",
-      "published": "2026-11-21T23:05:26Z",
-      "summary": "Sal describes configuring Webmentions to notify linked sites and detect incoming links, then apologizes to Kev for comparing Peugeot problems with frequent Kia recalls."
+      "post_title": "An Open Apology to Householder Karl",
+      "post_url": "https://brennan.day/an-open-apology-to-householder-karl/",
+      "published": "2026-11-22T16:00:00Z",
+      "summary": "Brennan Day apologizes to Householder Karl for an insulting email, explains mistaken suspicions about his identity, and recounts subsequent abusive guestbook messages."
     },
     {
       "blog_title": "JAG’s Workshop",
       "blog_url": "https://jagsworkshop.com/",
       "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "UK Government Forced to Disclose Secret Apple Backdoor Order",
-      "post_url": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/",
-      "published": "2026-11-21T22:05:13Z",
-      "summary": "The U.K. Investigatory Powers Tribunal ordered the government to acknowledge a secret Apple encryption backdoor notice, while further disclosure remains pending."
+      "post_title": "‘I’m Not MAGA,’ Says Man in MAGA Hat",
+      "post_url": "https://www.theatlantic.com/technology/2026/11/elon-musk-maga-pivot/689517/",
+      "published": "2026-11-22T15:08:33Z",
+      "summary": "Elon Musk denies being MAGA and describes himself as politically moderate, despite documented support for Donald Trump, Republicans, and conservative causes."
     },
     {
-      "blog_title": "Inventory Full",
-      "blog_url": "https://bhagpuss.blogspot.com/",
-      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "High School Daze",
-      "post_url": "https://bhagpuss.blogspot.com/2026/11/high-school-daze.html",
-      "published": "2026-11-21T19:35:11Z",
-      "summary": "The writer recounts returning to Wuthering Waves through GeForce Now and exploring its high-school life-simulation event, Second Coming of Solaris: Unwritten Dreams."
-    },
-    {
-      "blog_title": "Mike's Take On the Movies",
-      "blog_url": "https://mikestakeonthemovies.com",
-      "feed_url": "https://mikestakeonthemovies.com/feed/",
-      "post_title": "Actors Turned Director – One Time Only",
-      "post_url": "https://mikestakeonthemovies.com/2026/11/21/actors-turned-director-one-time-only/",
-      "published": "2026-11-21T18:49:02Z",
-      "summary": "The piece surveys actors who directed exactly one feature film, highlighting works by Charles Laughton, Peter Sellers, Walter Matthau, and others."
-    },
-    {
-      "blog_title": "Gamer Of Passion",
-      "blog_url": "https://gamerofpassion.com/",
-      "feed_url": "https://gamerofpassion.com/feed/",
-      "post_title": "No Man’s Sky Pirates Guide (Forsaken): Outlaw Systems, Smuggling and the Dreadnought",
-      "post_url": "https://gamerofpassion.com/no-mans-sky-pirates/",
-      "published": "2026-11-21T17:00:00Z",
-      "summary": "A guide explains how to locate No Man’s Sky outlaw systems, use scanners, navigate outlaw stations, smuggle contraband, complete pirate missions, and encounter Dreadnoughts."
-    },
-    {
-      "blog_title": "What the Fran",
-      "blog_url": "https://francescrossley.com/",
-      "feed_url": "https://francescrossley.com/feed/",
-      "post_title": "Untagging",
-      "post_url": "https://francescrossley.com/untagging/",
-      "published": "2026-11-21T17:00:00Z",
-      "summary": "Fran describes replacing blog tags with manually curated notes pages, allowing flexible groupings, contextual annotations, thematic collections, and more deliberate links between related posts."
-    },
-    {
-      "blog_title": "Toby Geeks Out",
-      "blog_url": "https://tobygeeksout.micro.blog/",
-      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
-      "post_title": "Word Nerd Alert: Ameliorate",
-      "post_url": "https://tobygeeksout.micro.blog/2026/11/21/word-nerd-alert-ameliorate.html",
-      "published": "2026-11-21T16:56:59Z",
-      "summary": "The post defines “ameliorate” as a verb meaning to make something better or more tolerable, covering its roots, synonyms, opposites, first known use, and ASL sign."
-    },
-    {
-      "blog_title": "WCRobinson",
-      "blog_url": "https://wcrobinson.org/",
-      "feed_url": "https://wcrobinson.org/feed/",
-      "post_title": "A New Adventure: My Two Weeks in India!",
-      "post_url": "https://wcrobinson.org/2026/11/21/a-new-adventure-my-two-weeks-in-india/",
-      "published": "2026-11-21T16:26:14Z",
-      "summary": "WCRobinson recounts a two-week first visit to India, covering travel complications, Mumbai’s Durga Puja, Bengaluru, family connections, food, sightseeing, cinema, and rural contrasts."
-    },
-    {
-      "blog_title": "The Ancient Gaming Noob",
-      "blog_url": "https://tagn.wordpress.com/",
-      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
-      "post_title": "Friday Bullet Points on Saturday About EVE Online During the Seasonal News Lull",
-      "post_url": "https://tagn.wordpress.com/2026/11/21/friday-bullet-points-on-saturday-about-eve-online-during-the-seasonal-news-lull/",
-      "published": "2026-11-21T16:15:56Z",
-      "summary": "The piece reviews EVE Online’s seasonal news lull, covering Alliance Tournament XXII results, October’s economic report, and bot bans and reporting statistics."
-    },
-    {
-      "blog_title": "JASON JOURNALS",
-      "blog_url": "https://jasonjournals.com/",
-      "feed_url": "https://jasonjournals.com/feed/",
-      "post_title": "This new bundle of cuteness just showed up...",
-      "post_url": "https://jasonjournals.com/posts/2026-11-21-this-new-bundle-of",
-      "published": "2026-11-21T16:14:00Z",
-      "summary": "A newly arrived female chick has joined the chicken coop, appearing healthy while awaiting a name."
-    },
-    {
-      "blog_title": "X2600",
-      "blog_url": "https://write.as/blog-x2600/",
-      "feed_url": "https://write.as/blog-x2600/feed/",
-      "post_title": "Finalizing Fall",
-      "post_url": "https://write.as/blog-x2600/finalizing-fall?pk_campaign=rss-feed",
-      "published": "2026-11-21T14:05:07Z",
-      "summary": "A personal update describes cooling autumn weather, declining bird sightings, food assistance, retrocomputing interests, IRC lurking, therapy, Thanksgiving plans, and preparations for an affordable camp setup."
-    },
-    {
-      "blog_title": "TGLG",
-      "blog_url": "https://392ms.witchserver.jp/kb/",
-      "feed_url": "https://392ms.witchserver.jp/kb/?mode=rss",
-      "post_title": "#lifelog",
-      "post_url": "https://392ms.witchserver.jp/kb/?postid=1299",
-      "published": "2026-11-21T14:00:30Z",
-      "summary": "A Japanese lifelog entry shares an unusually fortunate assigned seat, comments on a self-published-looking book’s design, and describes practicing portraits inspired by Karei."
-    },
-    {
-      "blog_title": "スナックエルベ",
-      "blog_url": "https://elve.club/",
-      "feed_url": "https://elve.club/feed",
-      "post_title": "情緒がめちゃくちゃで",
-      "post_url": "https://elve.club/entry/2026/11/21/224507?utm_source=feed",
-      "published": "2026-11-21T13:45:07Z",
-      "summary": "A narrator reflects on feeling exploited and unappreciated in a friendship involving unequal expenses, borrowed money, emotional strain, and a decision to withdraw."
-    },
-    {
-      "blog_title": "Mutant Reviewers",
-      "blog_url": "https://mutantreviewersmovies.com",
-      "feed_url": "https://mutantreviewersmovies.com/feed/",
-      "post_title": "Mutant Roundtable: What cult romcoms do we recommend?",
-      "post_url": "https://mutantreviewersmovies.com/2026/11/21/mutant-roundtable-what-cult-romcoms-do-we-recommend/",
-      "published": "2026-11-21T13:00:09Z",
-      "summary": "Mutant Reviewers contributors recommend unconventional cult romantic comedies, including When Harry Met Sally, Say Anything, Wilder Napalm, My Chauffeur, and several overlooked or spoof films."
-    },
-    {
-      "blog_title": "The Weekly Miscellaneous",
-      "blog_url": "https://theweeklymiscellaneous.co.uk/",
-      "feed_url": "https://theweeklymiscellaneous.co.uk/index.xml",
-      "post_title": "Mourning",
-      "post_url": "https://theweeklymiscellaneous.co.uk/posts/2026/11/mourning/",
-      "published": "2026-11-21T12:00:00Z",
-      "summary": "The piece reflects on AI’s coercive adoption, cultural homogenization, threats to human creativity, and parallels with society’s historical accommodation of automobiles."
-    },
-    {
-      "blog_title": "NomadWarMachine",
-      "blog_url": "https://nomadwarmachine.co.uk/",
-      "feed_url": "https://nomadwarmachine.co.uk/feed/",
-      "post_title": "The Missing Shade of Blue",
-      "post_url": "https://nomadwarmachine.co.uk/2026/11/21/the-missing-shade-of-blue/",
-      "published": "2026-11-21T11:53:03Z",
-      "summary": "The post presents an imagined color named Olo alongside David Hume’s thought experiment about mentally conceiving a missing shade of blue."
+      "blog_title": "Taxodium",
+      "blog_url": "https://taxodium.ink/",
+      "feed_url": "https://taxodium.ink/index.xml",
+      "post_title": "Album#53 - For Emma, Forever Ago",
+      "post_url": "https://taxodium.ink/album-53.html",
+      "published": "2026-11-22T14:50:00Z",
+      "summary": "Bon Iver’s “Skinny Love,” the first single from For Emma, Forever Ago, portrays a failed relationship, regret, and love weakened by insufficient emotional nourishment."
     },
     {
       "blog_title": "Pretend Typewriter",
       "blog_url": "https://pretendtypewriter.net/",
       "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "UNRAVELING",
-      "post_url": "https://pretendtypewriter.net/unraveling/",
-      "published": "2026-11-21T10:35:00Z",
-      "summary": "“UNRAVELING” reflects on the narrator’s father’s death, complicated family relationships, grief, religious redemption, panic, and everyday strategies for managing emotional distress."
+      "post_title": "A PERFECTLY NORMAL DAY",
+      "post_url": "https://pretendtypewriter.net/a-perfectly-normal-day/",
+      "published": "2026-11-22T14:30:34Z",
+      "summary": "After her father’s death, the writer describes a restorative day in Lucerne involving food, shopping, family conversations, therapy, and reflections on grief and relationships."
+    },
+    {
+      "blog_title": "スナックエルベ",
+      "blog_url": "https://elve.club/",
+      "feed_url": "https://elve.club/feed",
+      "post_title": "２０１４年４月の遺書",
+      "post_url": "https://elve.club/entry/2026/11/22/220953?utm_source=feed",
+      "published": "2026-11-22T13:09:53Z",
+      "summary": "A blogger rediscovers a Word document titled “発見者の方へ.docx” and an old post resembling a suicide note, reflecting humorously on surviving another decade."
+    },
+    {
+      "blog_title": "Martin Schuhmann",
+      "blog_url": "https://martinschuhmann.com/",
+      "feed_url": "https://martinschuhmann.com/feed/",
+      "post_title": "Martin Schuhmann - November 22, 2026 14:00",
+      "post_url": "https://martinschuhmann.com/blog/a752b970",
+      "published": "2026-11-22T13:00:00Z",
+      "summary": null
+    },
+    {
+      "blog_title": "Joho Todai (English)",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/en/rss/",
+      "post_title": "Microsoft 365 Final Report Reveals Some Email Delivery Failures and Security Feature Impact During Major Outage",
+      "post_url": "https://joho-todai.com/en/microsoft-365-outage-email-delivery-security-impact/",
+      "published": "2026-11-22T12:48:54Z",
+      "summary": "Microsoft’s final report describes enterprise and consumer email delivery outcomes, weakened security and compliance features, outage causes, and planned preventive measures."
+    },
+    {
+      "blog_title": "情報の灯台",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/pinterest-rss/",
+      "post_title": "Microsoft 365大規模障害、最終報告書で一部メールの配送失敗とセキュリティ機能への影響が判明",
+      "post_url": "https://joho-todai.com/microsoft-365-outage-email-delivery-security-impact/",
+      "published": "2026-11-22T12:48:54Z",
+      "summary": null
+    },
+    {
+      "blog_title": "NomadWarMachine",
+      "blog_url": "https://nomadwarmachine.co.uk/",
+      "feed_url": "https://nomadwarmachine.co.uk/feed/",
+      "post_title": "Hickman Heavy Metal",
+      "post_url": "https://nomadwarmachine.co.uk/2026/11/22/hickman-heavy-metal/",
+      "published": "2026-11-22T11:39:13Z",
+      "summary": "“Hickman Heavy Metal” imagines Hickman as a heavy metal band, inviting ideas for music, hit singles, T-shirt designs, and remixes of their 1917 sound."
+    },
+    {
+      "blog_title": "Tobold's Blog",
+      "blog_url": "http://tobolds.blogspot.com/",
+      "feed_url": "http://feeds2.feedburner.com/ToboldsBlog",
+      "post_title": "A whale of a box",
+      "post_url": "http://tobolds.blogspot.com/2026/11/a-whale-of-box.html",
+      "published": "2026-11-22T09:55:08Z",
+      "summary": "Tobold describes buying an expensive wooden storage vault for The Elder Scrolls: Betrayal of the Second Era, comparing his impulse purchase with gaming whales and rising inequality."
+    },
+    {
+      "blog_title": "Gamer Of Passion",
+      "blog_url": "https://gamerofpassion.com/",
+      "feed_url": "https://gamerofpassion.com/feed/",
+      "post_title": "Divinity Original Sin 2 A Taste of Freedom: Puzzle Solution and the Lich",
+      "post_url": "https://gamerofpassion.com/a-taste-of-freedom-dos2/",
+      "published": "2026-11-22T08:00:00Z",
+      "summary": "A guide to Divinity: Original Sin 2’s A Taste of Freedom quest covers locating the Glowing Eye, solving Mordus’ five-weight pressure-plate puzzle, and freeing the chained lich."
+    },
+    {
+      "blog_title": "Cynni’s Blog",
+      "blog_url": "https://cynnisblog.wordpress.com/",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "#SilentSunday 🌉",
+      "post_url": "https://cynnisblog.wordpress.com/2026/11/22/silentsunday-%f0%9f%8c%89/",
+      "published": "2026-11-22T06:00:00Z",
+      "summary": "A sunny photograph shows a classic white steel Dutch drawbridge along Steegstraat in Linden, Noord-Brabant, with raised barriers, a parakeet ornament, and surrounding waterways."
+    },
+    {
+      "blog_title": "Rishi Dass",
+      "blog_url": "https://rishidass.net",
+      "feed_url": "https://rishidass.net/posts_feed",
+      "post_title": "Don’t be kind",
+      "post_url": "https://rishidass.net/posts/dont-be-kind",
+      "published": "2026-11-22T05:48:00Z",
+      "summary": "Rishi Dass argues that kindness is an inherent human quality revealed by inner peace, rather than a leadership skill requiring deliberate cultivation."
+    },
+    {
+      "blog_title": "JASON JOURNALS",
+      "blog_url": "https://jasonjournals.com/",
+      "feed_url": "https://jasonjournals.com/feed/",
+      "post_title": "Got to see Godzilla Minus Zero in the...",
+      "post_url": "https://jasonjournals.com/posts/2026-11-21-got-to-see-godzilla",
+      "published": "2026-11-22T03:06:21Z",
+      "summary": "A viewer praises Godzilla Minus Zero’s spectacular action, emotional characters, and drama while comparing its story arc favorably but slightly below Godzilla Minus One."
+    },
+    {
+      "blog_title": "The Works of Egan",
+      "blog_url": "https://theworksofegan.net/",
+      "feed_url": "https://theworksofegan.net/feed.xml",
+      "post_title": "Updates from the Digital World: A short break, and EX13",
+      "post_url": "https://theworksofegan.net/posts/2026-11-21-updates-from-the-digital-world-ex13/",
+      "published": "2026-11-22T02:23:00Z",
+      "summary": "The writer returns to the Digimon Card Game after a break, exploring EX13 support for favorite decks, Mamemon experimentation, and building an affordable ACCEL deck."
+    },
+    {
+      "blog_title": "素生",
+      "blog_url": "https://z.arlmy.me/",
+      "feed_url": "http://z.arlmy.me/atom.xml",
+      "post_title": "我的文竹已入冬",
+      "post_url": "https://z.arlmy.me/posts/Poems/2026/20261117_WoDeWenZhuYiRuDong/",
+      "published": "2026-11-22T02:19:27Z",
+      "summary": "A reflective poem observes household plants entering or resisting winter, autumn gingko colors, persistent fatigue, and human lives moving through unspoken seasonal cycles."
+    },
+    {
+      "blog_title": "Toby Geeks Out",
+      "blog_url": "https://tobygeeksout.micro.blog/",
+      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
+      "post_title": "📚 Currently Reading: The Ferryman's Daughter (Bloodlines)",
+      "post_url": "https://tobygeeksout.micro.blog/2026/11/21/195906.html",
+      "published": "2026-11-22T00:59:06Z",
+      "summary": "A reading update records Toby Overstreet’s progress through Yasmin Angoe’s 2026 novel The Ferryman’s Daughter (Bloodlines), including its 397-page length and current page."
+    },
+    {
+      "blog_title": "Daily Blogroll",
+      "blog_url": "http://westkarana.xyz",
+      "feed_url": "https://westkarana.xyz/rss.xml",
+      "post_title": "The Daily Blogroll — Sunday, 22 November 2026",
+      "post_url": "https://westkarana.xyz/2026/11/daily-blogroll-2026-11-22.html",
+      "published": "2026-11-22T00:00:00Z",
+      "summary": "A blogroll surveys gaming updates, technology tips, publishing tools, travel, science discussion, entertainment, and independent RPG trends from various contributors."
+    },
+    {
+      "blog_title": "Juha-Matti Santala",
+      "blog_url": "https://hamatti.org/",
+      "feed_url": "https://hamatti.org/feed/feed.xml",
+      "post_title": "Djangonaut Log 6: Other life got in the way",
+      "post_url": "https://hamatti.org/posts/djangonaut-log-6-other-life-got-in-the-way/",
+      "published": "2026-11-22T00:00:00Z",
+      "summary": "Juha-Matti Santala reflects on a disrupted Djangonaut Space week, team connections, Natalia Bidart’s communication talk, and Raffaella Suardini receiving the Malcolm Tredinnick Memorial Prize."
+    },
+    {
+      "blog_title": "Tommyeveryday",
+      "blog_url": "https://tommyeveryday.mataroa.blog",
+      "feed_url": "https://tommyeveryday.mataroa.blog/rss/",
+      "post_title": "Sunday November 22, 2026",
+      "post_url": "https://tommyeveryday.mataroa.blog/blog/sunday-november-22-2026/",
+      "published": "2026-11-22T00:00:00Z",
+      "summary": "Tommyeveryday recounts household preparations for visiting children, a manageable park walk, quiet leisure, website maintenance, weather concerns, and appreciation for human-centered personal websites."
     }
   ]
 }
