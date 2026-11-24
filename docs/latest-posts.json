@@ -1,17 +1,73 @@
 {
-  "generated_at": "2026-11-24T04:17:18.508979Z",
+  "generated_at": "2026-11-24T10:17:21.859634Z",
   "feed_count": 358,
   "successful_feeds": 331,
   "failed_feeds": 27,
   "post_count": 20,
   "posts": [
     {
+      "blog_title": "Brennan Day",
+      "blog_url": "https://brennan.day/",
+      "feed_url": "https://brennan.day/feed.xml",
+      "post_title": "The Shoebox Mindset",
+      "post_url": "https://brennan.day/the-shoebox-mindset/",
+      "published": "2026-11-24T16:00:00Z"
+    },
+    {
       "blog_title": "情報の灯台",
       "blog_url": "https://joho-todai.com/",
       "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "Claude Code 2.1.331、会話圧縮後にツール定義への参照が消失するとの報告",
-      "post_url": "https://joho-todai.com/claude-code-tool-definition-reference-bug/",
-      "published": "2026-11-24T04:07:11Z"
+      "post_title": "Z.ai、層を繰り返し使うGLM-5.4を提供開始。定額プランのトークン利用枠も拡大",
+      "post_url": "https://joho-todai.com/z-ai-glm-5-4-token-expansion/",
+      "published": "2026-11-24T10:05:39Z"
+    },
+    {
+      "blog_title": "Joho Todai (English)",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/en/rss/",
+      "post_title": "OpenAI and Cisco Release Shirudo, Adding Temporary Protection Without Stopping Linux",
+      "post_url": "https://joho-todai.com/en/openai-cisco-shiruedo-linux-security-patch/",
+      "published": "2026-11-24T09:58:19Z"
+    },
+    {
+      "blog_title": "MMORPG Blog",
+      "blog_url": "https://mmoblogg.wordpress.com",
+      "feed_url": "https://mmoblogg.wordpress.com/feed/",
+      "post_title": "King’s boredom renewed",
+      "post_url": "https://mmoblogg.wordpress.com/2026/11/24/kings-boredom-renewed/",
+      "published": "2026-11-24T08:47:06Z"
+    },
+    {
+      "blog_title": "Overage-Gaming",
+      "blog_url": "https://overage-gaming.com/",
+      "feed_url": "https://overage-gaming.com/feed/",
+      "post_title": "Drillbound: How Deep Can One Drill Go? (Gameplay)",
+      "post_url": "https://overage-gaming.com/2026/11/24/drillbound-how-deep-can-one-drill-go-gameplay/",
+      "published": "2026-11-24T08:01:00Z"
+    },
+    {
+      "blog_title": "Cynni’s Blog",
+      "blog_url": "https://cynnisblog.wordpress.com/",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "Journal – Week 47, November 2026",
+      "post_url": "https://cynnisblog.wordpress.com/2026/11/24/journal-week-47-november-2026/",
+      "published": "2026-11-24T06:00:00Z"
+    },
+    {
+      "blog_title": "Rishi Dass",
+      "blog_url": "https://rishidass.net",
+      "feed_url": "https://rishidass.net/posts_feed",
+      "post_title": "You are right",
+      "post_url": "https://rishidass.net/posts/you-are-right",
+      "published": "2026-11-24T05:58:00Z"
+    },
+    {
+      "blog_title": "Nero Blog",
+      "blog_url": "https://blog.itsnero.com/",
+      "feed_url": "https://blog.itsnero.com/feed",
+      "post_title": "Spotting AI-Built Websites",
+      "post_url": "https://blog.itsnero.com/spotting-ai-built-websites/",
+      "published": "2026-11-24T05:47:09Z"
     },
     {
       "blog_title": "An Archaeopteryx",
@@ -28,14 +84,6 @@
       "post_title": "Legends Arceus Review | 11/23/2026",
       "post_url": "https://muttthecowcat.neocities.org/indiv/38",
       "published": "2026-11-24T03:35:35Z"
-    },
-    {
-      "blog_title": "Joho Todai (English)",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/en/rss/",
-      "post_title": "Multi-Monitor Displays Still Freeze With NVIDIA Linux Driver 620.73.04; Downgrade Restores Output in One Case",
-      "post_url": "https://joho-todai.com/en/nvidia-linux-driver-multi-display-issue-620-73-04/",
-      "published": "2026-11-24T03:32:20Z"
     },
     {
       "blog_title": "JVT Workshop",
@@ -78,6 +126,14 @@
       "published": "2026-11-23T22:33:55Z"
     },
     {
+      "blog_title": "X2600",
+      "blog_url": "https://write.as/blog-x2600/",
+      "feed_url": "https://write.as/blog-x2600/feed/",
+      "post_title": "a kind of mind",
+      "post_url": "https://write.as/blog-x2600/a-kind-of-mind-zmt8?pk_campaign=rss-feed",
+      "published": "2026-11-23T21:47:10Z"
+    },
+    {
       "blog_title": "Joelchrono's blog",
       "blog_url": "https://joelchrono.xyz/",
       "feed_url": "https://joelchrono.xyz/feed.xml",
@@ -108,62 +164,6 @@
       "post_title": "Stellaris Ethics Guide (4.6): Best Ethics Tier List, Absolute Ethics and Government",
       "post_url": "https://gamerofpassion.com/stellaris-ethics/",
       "published": "2026-11-23T20:56:17Z"
-    },
-    {
-      "blog_title": "Newsonaut",
-      "blog_url": "https://www.newsonaut.com/",
-      "feed_url": "https://www.newsonaut.com/rss",
-      "post_title": "A viewpoint can change your point of view",
-      "post_url": "https://www.newsonaut.com/articles/a-viewpoint-can-change-your-point-of-view",
-      "published": "2026-11-23T19:31:50Z"
-    },
-    {
-      "blog_title": "JASON JOURNALS",
-      "blog_url": "https://jasonjournals.com/",
-      "feed_url": "https://jasonjournals.com/feed/",
-      "post_title": "As I poked around iPad menus recently, I...",
-      "post_url": "https://jasonjournals.com/posts/2026-11-23-as-i-poked-around",
-      "published": "2026-11-23T19:12:02Z"
-    },
-    {
-      "blog_title": "When a Gamer Girl Grows up",
-      "blog_url": "https://grownupgamergirl.wordpress.com/",
-      "feed_url": "https://grownupgamergirl.wordpress.com/feed/",
-      "post_title": "GTA6 Kool-Aid",
-      "post_url": "https://grownupgamergirl.wordpress.com/2026/11/23/gta6-kool-aid/",
-      "published": "2026-11-23T18:54:31Z"
-    },
-    {
-      "blog_title": "Toby Geeks Out",
-      "blog_url": "https://tobygeeksout.micro.blog/",
-      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
-      "post_title": "On This Day: Empire State in Thanksgiving Colors",
-      "post_url": "https://tobygeeksout.micro.blog/2026/11/23/on-this-day-empire-state.html",
-      "published": "2026-11-23T18:27:36Z"
-    },
-    {
-      "blog_title": "Sal's Blog",
-      "blog_url": "https://sals.place/",
-      "feed_url": "https://sals.place/feed/",
-      "post_title": "Parenting our middle-school boy",
-      "post_url": "https://sals.place/blog/parenting-middle-school-boy/",
-      "published": "2026-11-23T18:11:53Z"
-    },
-    {
-      "blog_title": "What the Fran",
-      "blog_url": "https://francescrossley.com/",
-      "feed_url": "https://francescrossley.com/feed/",
-      "post_title": "Dry stone wall appreciation",
-      "post_url": "https://francescrossley.com/dry-stone-wall-appreciation/",
-      "published": "2026-11-23T18:00:00Z"
-    },
-    {
-      "blog_title": "World of Matticus",
-      "blog_url": "https://worldofmatticus.com/",
-      "feed_url": "https://worldofmatticus.com/feed/",
-      "post_title": "How to Get to Mount Hyjal at Level 55 Without Dying",
-      "post_url": "https://worldofmatticus.com/how-to-get-to-mount-hyjal-at-level-55-without-dying/",
-      "published": "2026-11-23T17:54:03Z"
     }
   ]
 }
