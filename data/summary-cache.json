@@ -33808,5 +33808,33 @@
     "source_kind": "page",
     "input_tokens": 578,
     "output_tokens": 41
+  },
+  "https://joho-todai.com/ge-proton11-14-vulkan-conversion-retro-3d-games": {
+    "post_url": "https://joho-todai.com/ge-proton11-14-vulkan-conversion-retro-3d-games/",
+    "post_title": "GE-Proton11-14、旧世代Direct3DのVulkan変換を標準化。1990年代の3Dゲームにも",
+    "blog_title": "情報の灯台",
+    "summary": "GE-Proton 11-14 standardizes Vulkan-based rendering through D8VK and D7VK for older Direct3D games, while fixing Wine-Wayland, controller, playback, and compatibility issues.",
+    "provider": "openai",
+    "model": "gpt-5.6-luna",
+    "prompt_version": "2026-09-13-v2",
+    "created_at": "2026-11-24T10:24:15.834553Z",
+    "source_chars": 3129,
+    "source_kind": "page",
+    "input_tokens": 2302,
+    "output_tokens": 46
+  },
+  "http://tobolds.blogspot.com/2026/11/buying-game-vs-buying-project.html": {
+    "post_url": "http://tobolds.blogspot.com/2026/11/buying-game-vs-buying-project.html",
+    "post_title": "Buying a game vs. buying a project",
+    "blog_title": "Tobold's Blog",
+    "summary": "The piece contrasts GTA 6’s complete-game model with Paradox’s evolving DLC projects, examining Crusader Kings III’s costs and subscription alternative.",
+    "provider": "openai",
+    "model": "gpt-5.6-luna",
+    "prompt_version": "2026-09-13-v2",
+    "created_at": "2026-11-24T10:24:15.834553Z",
+    "source_chars": 4545,
+    "source_kind": "page",
+    "input_tokens": 1256,
+    "output_tokens": 33
   }
 }

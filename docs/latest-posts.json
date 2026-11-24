@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-24T10:17:21.859634Z",
+  "generated_at": "2026-11-24T10:23:48.988442Z",
   "feed_count": 358,
-  "successful_feeds": 331,
-  "failed_feeds": 27,
+  "successful_feeds": 315,
+  "failed_feeds": 43,
   "post_count": 20,
   "posts": [
     {
@@ -17,9 +17,9 @@
       "blog_title": "情報の灯台",
       "blog_url": "https://joho-todai.com/",
       "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "Z.ai、層を繰り返し使うGLM-5.4を提供開始。定額プランのトークン利用枠も拡大",
-      "post_url": "https://joho-todai.com/z-ai-glm-5-4-token-expansion/",
-      "published": "2026-11-24T10:05:39Z"
+      "post_title": "GE-Proton11-14、旧世代Direct3DのVulkan変換を標準化。1990年代の3Dゲームにも",
+      "post_url": "https://joho-todai.com/ge-proton11-14-vulkan-conversion-retro-3d-games/",
+      "published": "2026-11-24T10:19:09Z"
     },
     {
       "blog_title": "Joho Todai (English)",
@@ -28,6 +28,14 @@
       "post_title": "OpenAI and Cisco Release Shirudo, Adding Temporary Protection Without Stopping Linux",
       "post_url": "https://joho-todai.com/en/openai-cisco-shiruedo-linux-security-patch/",
       "published": "2026-11-24T09:58:19Z"
+    },
+    {
+      "blog_title": "Tobold's Blog",
+      "blog_url": "http://tobolds.blogspot.com/",
+      "feed_url": "http://feeds2.feedburner.com/ToboldsBlog",
+      "post_title": "Buying a game vs. buying a project",
+      "post_url": "http://tobolds.blogspot.com/2026/11/buying-game-vs-buying-project.html",
+      "published": "2026-11-24T09:03:06Z"
     },
     {
       "blog_title": "MMORPG Blog",
@@ -156,14 +164,6 @@
       "post_title": "The Last Days of IAE 2956 (AKA 2026)",
       "post_url": "https://scopique.com/2026/11/23/the-last-days-of-iae-2956-aka-2026/",
       "published": "2026-11-23T20:56:21Z"
-    },
-    {
-      "blog_title": "Gamer Of Passion",
-      "blog_url": "https://gamerofpassion.com/",
-      "feed_url": "https://gamerofpassion.com/feed/",
-      "post_title": "Stellaris Ethics Guide (4.6): Best Ethics Tier List, Absolute Ethics and Government",
-      "post_url": "https://gamerofpassion.com/stellaris-ethics/",
-      "published": "2026-11-23T20:56:17Z"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-24T10:17:56.731668Z",
-  "source_generated_at": "2026-11-24T10:17:21.859634Z",
+  "generated_at": "2026-11-24T10:24:15.834553Z",
+  "source_generated_at": "2026-11-24T10:23:48.988442Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
@@ -20,10 +20,10 @@
       "blog_title": "情報の灯台",
       "blog_url": "https://joho-todai.com/",
       "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "Z.ai、層を繰り返し使うGLM-5.4を提供開始。定額プランのトークン利用枠も拡大",
-      "post_url": "https://joho-todai.com/z-ai-glm-5-4-token-expansion/",
-      "published": "2026-11-24T10:05:39Z",
-      "summary": "Z.ai’s GLM-5.4 reuses 28 transformer layers, introduces gated iteration and memory optimizations, improves reasoning experiments, and reduces subscription token costs."
+      "post_title": "GE-Proton11-14、旧世代Direct3DのVulkan変換を標準化。1990年代の3Dゲームにも",
+      "post_url": "https://joho-todai.com/ge-proton11-14-vulkan-conversion-retro-3d-games/",
+      "published": "2026-11-24T10:19:09Z",
+      "summary": "GE-Proton 11-14 standardizes Vulkan-based rendering through D8VK and D7VK for older Direct3D games, while fixing Wine-Wayland, controller, playback, and compatibility issues."
     },
     {
       "blog_title": "Joho Todai (English)",
@@ -33,6 +33,15 @@
       "post_url": "https://joho-todai.com/en/openai-cisco-shiruedo-linux-security-patch/",
       "published": "2026-11-24T09:58:19Z",
       "summary": "OpenAI and Cisco’s Shirudo uses signed eBPF and Java safeguards to protect running Linux services temporarily while permanent patches undergo testing and deployment."
+    },
+    {
+      "blog_title": "Tobold's Blog",
+      "blog_url": "http://tobolds.blogspot.com/",
+      "feed_url": "http://feeds2.feedburner.com/ToboldsBlog",
+      "post_title": "Buying a game vs. buying a project",
+      "post_url": "http://tobolds.blogspot.com/2026/11/buying-game-vs-buying-project.html",
+      "published": "2026-11-24T09:03:06Z",
+      "summary": "The piece contrasts GTA 6’s complete-game model with Paradox’s evolving DLC projects, examining Crusader Kings III’s costs and subscription alternative."
     },
     {
       "blog_title": "MMORPG Blog",
@@ -177,15 +186,6 @@
       "post_url": "https://scopique.com/2026/11/23/the-last-days-of-iae-2956-aka-2026/",
       "published": "2026-11-23T20:56:21Z",
       "summary": "Scopique reviews the IAE 2956 ship purchases, focusing on the Gatac Hyun’s combined mining and salvaging capabilities, cargo limitations, earnings, and potential balancing changes."
-    },
-    {
-      "blog_title": "Gamer Of Passion",
-      "blog_url": "https://gamerofpassion.com/",
-      "feed_url": "https://gamerofpassion.com/feed/",
-      "post_title": "Stellaris Ethics Guide (4.6): Best Ethics Tier List, Absolute Ethics and Government",
-      "post_url": "https://gamerofpassion.com/stellaris-ethics/",
-      "published": "2026-11-23T20:56:17Z",
-      "summary": "A Stellaris 4.6 guide ranks empire ethics, explains ethic points and government restrictions, and covers Absolute Ethics, faction-based changes, combinations, and authorities."
     }
   ]
 }
