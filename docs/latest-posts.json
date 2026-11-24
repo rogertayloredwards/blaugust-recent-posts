@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-24T10:23:48.988442Z",
+  "generated_at": "2026-11-24T10:31:12.799550Z",
   "feed_count": 358,
-  "successful_feeds": 315,
-  "failed_feeds": 43,
+  "successful_feeds": 330,
+  "failed_feeds": 28,
   "post_count": 20,
   "posts": [
     {
@@ -17,9 +17,9 @@
       "blog_title": "情報の灯台",
       "blog_url": "https://joho-todai.com/",
       "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "GE-Proton11-14、旧世代Direct3DのVulkan変換を標準化。1990年代の3Dゲームにも",
-      "post_url": "https://joho-todai.com/ge-proton11-14-vulkan-conversion-retro-3d-games/",
-      "published": "2026-11-24T10:19:09Z"
+      "post_title": "VS Code 1.147.0のフリーズ、AIツールの権限判定処理が一因。1.148向けに修正",
+      "post_url": "https://joho-todai.com/vs-code-1-147-freeze-ai-tools-permissions-fix/",
+      "published": "2026-11-24T10:30:09Z"
     },
     {
       "blog_title": "Joho Todai (English)",

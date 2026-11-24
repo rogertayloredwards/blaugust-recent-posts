@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-24T10:24:15.834553Z",
-  "source_generated_at": "2026-11-24T10:23:48.988442Z",
+  "generated_at": "2026-11-24T10:31:45.569112Z",
+  "source_generated_at": "2026-11-24T10:31:12.799550Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
   "post_count": 20,
-  "summary_count": 20,
+  "summary_count": 19,
   "posts": [
     {
       "blog_title": "Brennan Day",
@@ -20,10 +20,10 @@
       "blog_title": "情報の灯台",
       "blog_url": "https://joho-todai.com/",
       "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "GE-Proton11-14、旧世代Direct3DのVulkan変換を標準化。1990年代の3Dゲームにも",
-      "post_url": "https://joho-todai.com/ge-proton11-14-vulkan-conversion-retro-3d-games/",
-      "published": "2026-11-24T10:19:09Z",
-      "summary": "GE-Proton 11-14 standardizes Vulkan-based rendering through D8VK and D7VK for older Direct3D games, while fixing Wine-Wayland, controller, playback, and compatibility issues."
+      "post_title": "VS Code 1.147.0のフリーズ、AIツールの権限判定処理が一因。1.148向けに修正",
+      "post_url": "https://joho-todai.com/vs-code-1-147-freeze-ai-tools-permissions-fix/",
+      "published": "2026-11-24T10:30:09Z",
+      "summary": null
     },
     {
       "blog_title": "Joho Todai (English)",
