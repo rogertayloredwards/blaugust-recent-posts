@@ -1,169 +1,169 @@
 {
-  "generated_at": "2026-11-27T02:09:41.165681Z",
+  "generated_at": "2026-11-27T17:27:17.474200Z",
   "feed_count": 358,
-  "successful_feeds": 318,
-  "failed_feeds": 40,
+  "successful_feeds": 330,
+  "failed_feeds": 28,
   "post_count": 20,
   "posts": [
-    {
-      "blog_title": "情報の灯台",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "GPT-6 Astraを用いて光円錐から重力を量子化する理論を提案",
-      "post_url": "https://joho-todai.com/gpt-6-astra-quantum-gravity-light-cone/",
-      "published": "2026-11-27T02:05:30Z"
-    },
-    {
-      "blog_title": "JVT Workshop",
-      "blog_url": "http://josephskyrim.blogspot.com/",
-      "feed_url": "http://josephskyrim.blogspot.com/feeds/posts/default",
-      "post_title": "More than Nothing: The Final Piece",
-      "post_url": "http://josephskyrim.blogspot.com/2026/11/more-than-nothing-final-piece.html",
-      "published": "2026-11-26T23:52:24Z"
-    },
-    {
-      "blog_title": "Joelchrono's blog",
-      "blog_url": "https://joelchrono.xyz/",
-      "feed_url": "https://joelchrono.xyz/feed.xml",
-      "post_title": "Rendezvous with Rama",
-      "post_url": "https://joelchrono.xyz/blog/rendezvous-with-rama/",
-      "published": "2026-11-26T23:10:00Z"
-    },
     {
       "blog_title": "Pretend Typewriter",
       "blog_url": "https://pretendtypewriter.net/",
       "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "note - fake telescope",
-      "post_url": "https://pretendtypewriter.net/note-fake-telescope/",
-      "published": "2026-11-26T21:35:10Z"
+      "post_title": "note - omw to see ptm",
+      "post_url": "https://pretendtypewriter.net/note-omw-to-see-ptm/",
+      "published": "2026-11-27T17:20:05Z"
     },
     {
-      "blog_title": "JAG’s Workshop",
-      "blog_url": "https://jagsworkshop.com/",
-      "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "⚙︎ Happy Thanksgiving",
-      "post_url": "https://jagsworkshop.com/2026/11/happy-thanksgiving-2026/",
-      "published": "2026-11-26T20:11:28Z"
-    },
-    {
-      "blog_title": "Words Under My Name",
-      "blog_url": "https://wordsundermyname.wordpress.com/",
-      "feed_url": "https://wordsundermyname.wordpress.com/feed/",
-      "post_title": "11/26/2026 – Still Here",
-      "post_url": "https://wordsundermyname.wordpress.com/2026/11/26/11-26-2026-still-here/",
-      "published": "2026-11-26T18:36:59Z"
-    },
-    {
-      "blog_title": "Inventory Full",
-      "blog_url": "https://bhagpuss.blogspot.com/",
-      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "Time Runs Out",
-      "post_url": "https://bhagpuss.blogspot.com/2026/11/time-runs-out.html",
-      "published": "2026-11-26T18:20:47Z"
-    },
-    {
-      "blog_title": "What the Fran",
-      "blog_url": "https://francescrossley.com/",
-      "feed_url": "https://francescrossley.com/feed/",
-      "post_title": "My fifteen-minute city",
-      "post_url": "https://francescrossley.com/my-fifteen-minute-city/",
-      "published": "2026-11-26T18:00:00Z"
-    },
-    {
-      "blog_title": "20ily April",
-      "blog_url": "https://20ilyapril.wordpress.com/",
-      "feed_url": "https://20ilyapril.wordpress.com/feed/",
-      "post_title": "“Spy” & Me In November!",
-      "post_url": "https://20ilyapril.wordpress.com/2026/11/26/spy-me-in-november/",
-      "published": "2026-11-26T17:19:34Z"
-    },
-    {
-      "blog_title": "The Friendly Necromancer",
-      "blog_url": "http://thefriendlynecromancer.blogspot.com/",
-      "feed_url": "http://thefriendlynecromancer.blogspot.com/feeds/posts/default",
-      "post_title": "Song Stories From Cosmic Radiation and Bad Luck",
-      "post_url": "http://thefriendlynecromancer.blogspot.com/2026/11/song-stories-from-cosmic-radiation-and.html",
-      "published": "2026-11-26T17:01:40Z"
+      "blog_title": "Endgame Viable",
+      "blog_url": "https://endgameviable.com/",
+      "feed_url": "http://endgameviable.com/feed/",
+      "post_title": "NFL Week 11",
+      "post_url": "https://endgameviable.com/post/2026/11/nfl-week-11/",
+      "published": "2026-11-27T17:15:41Z"
     },
     {
       "blog_title": "Gamer Of Passion",
       "blog_url": "https://gamerofpassion.com/",
       "feed_url": "https://gamerofpassion.com/feed/",
-      "post_title": "Divinity Original Sin 2 Runes Guide: Best Runes, Frames and Crafting",
-      "post_url": "https://gamerofpassion.com/dos2-runes/",
-      "published": "2026-11-26T17:00:00Z"
+      "post_title": "How to Install Mods in Divinity Original Sin 2: Workshop, Nexus and Script Extender",
+      "post_url": "https://gamerofpassion.com/divinity-original-sin-2-mods/",
+      "published": "2026-11-27T17:00:00Z"
     },
     {
-      "blog_title": "The Ancient Gaming Noob",
-      "blog_url": "https://tagn.wordpress.com/",
-      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
-      "post_title": "Will EverQuest Legends and WoW Forever Change The Market?",
-      "post_url": "https://tagn.wordpress.com/2026/11/26/will-everquest-legends-and-wow-forever-change-the-market/",
-      "published": "2026-11-26T16:15:54Z"
+      "blog_title": "Scormus Fails",
+      "blog_url": "https://scormey.com/",
+      "feed_url": "https://scormey.com/feed/",
+      "post_title": "How I spent my vacation (almost one month late edition)",
+      "post_url": "https://scormey.com/2026/11/27/how-i-spent-my-vacation-almost-one-month-late-edition/",
+      "published": "2026-11-27T17:00:00Z"
     },
     {
-      "blog_title": "Toby Geeks Out",
-      "blog_url": "https://tobygeeksout.micro.blog/",
-      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
-      "post_title": "On This Day: Big Sky Over Shenandoah",
-      "post_url": "https://tobygeeksout.micro.blog/2026/11/26/111012.html",
-      "published": "2026-11-26T16:10:12Z"
-    },
-    {
-      "blog_title": "Joho Todai (English)",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/en/rss/",
-      "post_title": "YouTube Reportedly Removed a Link to Firefox's Official Site Under Its Spam Policy",
-      "post_url": "https://joho-todai.com/en/youtube-removes-firefox-official-link-spam-violation/",
-      "published": "2026-11-26T15:10:34Z"
-    },
-    {
-      "blog_title": "Alligators and aneurysms!",
-      "blog_url": "https://alligatorsandaneurysms.wordpress.com/",
-      "feed_url": "http://alligatorsandaneurysms.wordpress.com/feed/",
-      "post_title": "Online Selves and Real Fear: The Hidden Depth of ‘Artificial Condition’ by Martha Wells",
-      "post_url": "https://alligatorsandaneurysms.wordpress.com/2026/11/26/online-selves-and-real-fear-the-hidden-depth-of-artificial-condition-by-martha-wells/",
-      "published": "2026-11-26T15:00:00Z"
-    },
-    {
-      "blog_title": "MMO Casual",
-      "blog_url": "http://wowaltaddiction.blogspot.com/",
-      "feed_url": "http://wowaltaddiction.blogspot.com/feeds/posts/default",
-      "post_title": "Delves, Snakes and Zero Progress On Alts",
-      "post_url": "http://wowaltaddiction.blogspot.com/2026/11/delves-snakes-and-zero-progress-on-alts.html",
-      "published": "2026-11-26T14:14:30Z"
-    },
-    {
-      "blog_title": "Mutant Reviewers",
-      "blog_url": "https://mutantreviewersmovies.com",
-      "feed_url": "https://mutantreviewersmovies.com/feed/",
-      "post_title": "Highway to Hell (1991) — And no rest stops on the way",
-      "post_url": "https://mutantreviewersmovies.com/2026/11/26/highway-to-hell-1991-and-no-rest-stops-on-the-way/",
-      "published": "2026-11-26T13:00:44Z"
-    },
-    {
-      "blog_title": "Monsterlady's Diary",
-      "blog_url": "https://monsterladysdiary.wordpress.com/",
-      "feed_url": "https://monsterladysdiary.wordpress.com/feed/",
-      "post_title": "Junkyard Beast – The First Boss Fight",
-      "post_url": "https://monsterladysdiary.wordpress.com/2026/11/26/junkyard-beast-the-first-boss-fight/",
-      "published": "2026-11-26T13:00:00Z"
+      "blog_title": "Robert Birming",
+      "blog_url": "https://birming.com/",
+      "feed_url": "https://birming.com/feed/",
+      "post_title": "Home is where the heart is...",
+      "post_url": "https://birming.com/posts/2026-11-27-home-is-where-the",
+      "published": "2026-11-27T16:21:07Z"
     },
     {
       "blog_title": "Taxodium",
       "blog_url": "https://taxodium.ink/",
       "feed_url": "https://taxodium.ink/index.xml",
-      "post_title": "TIL: 漢字注音 - ㄏㄢˋㄗˋㄓㄨˋㄧㄣ",
-      "post_url": "https://taxodium.ink/til-bopomofo.html",
-      "published": "2026-11-26T13:00:00Z"
+      "post_title": "TIL: 在 Emacs 中用 dired 快速調整文件序號",
+      "post_url": "https://taxodium.ink/quickly-renumber-files-in-dired-in-emacs.html",
+      "published": "2026-11-27T15:50:00Z"
     },
     {
-      "blog_title": "Michael Harley",
-      "blog_url": "https://michaelharley.net",
-      "feed_url": "https://obsolete29.com/feed/feed.xml",
-      "post_title": "🔁 Reposted: 1Password Confirms Security Breach, Customer Account Data Stolen",
-      "post_url": "https://michaelharley.net/links/2026/11/26/1password-confirms-security-breach-customer-account-data-stolen/",
-      "published": "2026-11-26T12:57:29Z"
+      "blog_title": "Nerdy Bookahs",
+      "blog_url": "https://nerdybookahs.wordpress.com/",
+      "feed_url": "http://nerdybookahs.wordpress.com/feed/",
+      "post_title": "I’m writing…!",
+      "post_url": "https://nerdybookahs.wordpress.com/2026/11/27/im-writing/",
+      "published": "2026-11-27T15:49:12Z"
+    },
+    {
+      "blog_title": "Blogging on Toby Geeks Out!",
+      "blog_url": "https://tobygeeksout.micro.blog/categories/blogging/",
+      "feed_url": "https://tobygeeksout.micro.blog/categories/blogging/feed.xml",
+      "post_title": "A Peek at Hutch OS",
+      "post_url": "https://tobygeeksout.micro.blog/2026/11/27/a-peek-at-hutch-os.html",
+      "published": "2026-11-27T15:45:04Z"
+    },
+    {
+      "blog_title": "Mutant Reviewers",
+      "blog_url": "https://mutantreviewersmovies.com",
+      "feed_url": "https://mutantreviewersmovies.com/feed/",
+      "post_title": "The Cat from Outer Space (1978) — Not all aliens walk on two legs",
+      "post_url": "https://mutantreviewersmovies.com/2026/11/27/the-cat-from-outer-space-1978-not-all-aliens-walk-on-two-legs/",
+      "published": "2026-11-27T13:00:06Z"
+    },
+    {
+      "blog_title": "Monsterlady's Diary",
+      "blog_url": "https://monsterladysdiary.wordpress.com/",
+      "feed_url": "https://monsterladysdiary.wordpress.com/feed/",
+      "post_title": "Marvel’s Guardians of the Galaxy – Guardians vs. Cult of Illusions",
+      "post_url": "https://monsterladysdiary.wordpress.com/2026/11/27/marvels-guardians-of-the-galaxy-guardians-vs-cult-of-illusions/",
+      "published": "2026-11-27T13:00:00Z"
+    },
+    {
+      "blog_title": "Joho Todai (English)",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/en/rss/",
+      "post_title": "UK Work and Pensions Department Takes Some Services Offline After Cyber Incident: Benefit and Pension Payments Continue",
+      "post_url": "https://joho-todai.com/en/uk-employment-pensions-cyber-incident-services-disrupted/",
+      "published": "2026-11-27T12:19:36Z"
+    },
+    {
+      "blog_title": "情報の灯台",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/pinterest-rss/",
+      "post_title": "英国雇用年金省、サイバーインシデントで一部サービス停止。通常の給付金・年金は支払い継続へ",
+      "post_url": "https://joho-todai.com/uk-employment-pensions-cyber-incident-services-disrupted/",
+      "published": "2026-11-27T12:19:36Z"
+    },
+    {
+      "blog_title": "NomadWarMachine",
+      "blog_url": "https://nomadwarmachine.co.uk/",
+      "feed_url": "https://nomadwarmachine.co.uk/feed/",
+      "post_title": "Contours",
+      "post_url": "https://nomadwarmachine.co.uk/2026/11/27/contours/",
+      "published": "2026-11-27T10:57:07Z"
+    },
+    {
+      "blog_title": "Tobold's Blog",
+      "blog_url": "http://tobolds.blogspot.com/",
+      "feed_url": "http://feeds2.feedburner.com/ToboldsBlog",
+      "post_title": "Winning an election by lack of choice",
+      "post_url": "http://tobolds.blogspot.com/2026/11/winning-election-by-lack-of-choice.html",
+      "published": "2026-11-27T08:44:32Z"
+    },
+    {
+      "blog_title": "MMORPG Blog",
+      "blog_url": "https://mmoblogg.wordpress.com",
+      "feed_url": "https://mmoblogg.wordpress.com/feed/",
+      "post_title": "King’s Gondor II",
+      "post_url": "https://mmoblogg.wordpress.com/2026/11/27/kings-gondor-ii/",
+      "published": "2026-11-27T06:41:01Z"
+    },
+    {
+      "blog_title": "Cynni’s Blog",
+      "blog_url": "https://cynnisblog.wordpress.com/",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "Letting go of guilt 😢",
+      "post_url": "https://cynnisblog.wordpress.com/2026/11/27/letting-go-of-guilt-%f0%9f%98%a2/",
+      "published": "2026-11-27T06:00:38Z"
+    },
+    {
+      "blog_title": "Rishi Dass",
+      "blog_url": "https://rishidass.net",
+      "feed_url": "https://rishidass.net/posts_feed",
+      "post_title": "Everything is bonus",
+      "post_url": "https://rishidass.net/posts/everything-is-bonus",
+      "published": "2026-11-27T05:46:00Z"
+    },
+    {
+      "blog_title": "Nosrednayduj's Blog",
+      "blog_url": "https://nosrednayduj.dreamwidth.org/",
+      "feed_url": "https://nosrednayduj.dreamwidth.org/data/rss",
+      "post_title": "Another Thanksgiving dinner that couldn't be beat",
+      "post_url": "https://nosrednayduj.dreamwidth.org/192130.html",
+      "published": "2026-11-27T03:58:56Z"
+    },
+    {
+      "blog_title": "An Archaeopteryx",
+      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
+      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
+      "post_title": "Shin Megami Tensei V: Vengeance - Mitatebashi 151h23",
+      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-11-26-smtvv/",
+      "published": "2026-11-27T03:47:37Z"
+    },
+    {
+      "blog_title": "82MHz",
+      "blog_url": "http://82mhz.net/posts/",
+      "feed_url": "http://82mhz.net/index.xml",
+      "post_title": "Linkdump No 135",
+      "post_url": "http://82mhz.net/posts/2026/11/linkdump-no-135/",
+      "published": "2026-11-27T00:00:00Z"
     }
   ]
 }
