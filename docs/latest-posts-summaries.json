@@ -1,12 +1,84 @@
 {
-  "generated_at": "2026-11-26T17:43:05.162584Z",
-  "source_generated_at": "2026-11-26T17:42:40.452625Z",
+  "generated_at": "2026-11-27T02:10:15.620721Z",
+  "source_generated_at": "2026-11-27T02:09:41.165681Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
   "post_count": 20,
-  "summary_count": 19,
+  "summary_count": 20,
   "posts": [
+    {
+      "blog_title": "情報の灯台",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/pinterest-rss/",
+      "post_title": "GPT-6 Astraを用いて光円錐から重力を量子化する理論を提案",
+      "post_url": "https://joho-todai.com/gpt-6-astra-quantum-gravity-light-cone/",
+      "published": "2026-11-27T02:05:30Z",
+      "summary": "A proposal by Venkatesa Chandrasekaran uses null cones to quantize four-dimensional vacuum gravity, with GPT-6 Astra assistance and criticism from Jonathan Oppenheim."
+    },
+    {
+      "blog_title": "JVT Workshop",
+      "blog_url": "http://josephskyrim.blogspot.com/",
+      "feed_url": "http://josephskyrim.blogspot.com/feeds/posts/default",
+      "post_title": "More than Nothing: The Final Piece",
+      "post_url": "http://josephskyrim.blogspot.com/2026/11/more-than-nothing-final-piece.html",
+      "published": "2026-11-26T23:52:24Z",
+      "summary": "A party follows puzzle-piece clues through Segamba, battles aboard the Carthage, survives a booby-trapped monkey cave, and reaches a volcanic island confronting a rainbow enemy."
+    },
+    {
+      "blog_title": "Joelchrono's blog",
+      "blog_url": "https://joelchrono.xyz/",
+      "feed_url": "https://joelchrono.xyz/feed.xml",
+      "post_title": "Rendezvous with Rama",
+      "post_url": "https://joelchrono.xyz/blog/rendezvous-with-rama/",
+      "published": "2026-11-26T23:10:00Z",
+      "summary": "Joelchrono reviews Arthur C. Clarke’s Rendezvous with Rama, covering humanity’s encounter with a mysterious alien vessel, its scientific exploration, political responses, and limited character development."
+    },
+    {
+      "blog_title": "Pretend Typewriter",
+      "blog_url": "https://pretendtypewriter.net/",
+      "feed_url": "https://pretendtypewriter.net/feed/",
+      "post_title": "note - fake telescope",
+      "post_url": "https://pretendtypewriter.net/note-fake-telescope/",
+      "published": "2026-11-26T21:35:10Z",
+      "summary": "A city installation placed a fake telescope in a square near the narrator’s building, whose unexpectedly surprising view prompted a dated note."
+    },
+    {
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "⚙︎ Happy Thanksgiving",
+      "post_url": "https://jagsworkshop.com/2026/11/happy-thanksgiving-2026/",
+      "published": "2026-11-26T20:11:28Z",
+      "summary": "JAG’s Workshop offers Thanksgiving wishes and gratitude to readers while reflecting on traditions, the Macy’s parade’s weather-related postponement, and NBC’s substitute broadcast."
+    },
+    {
+      "blog_title": "Words Under My Name",
+      "blog_url": "https://wordsundermyname.wordpress.com/",
+      "feed_url": "https://wordsundermyname.wordpress.com/feed/",
+      "post_title": "11/26/2026 – Still Here",
+      "post_url": "https://wordsundermyname.wordpress.com/2026/11/26/11-26-2026-still-here/",
+      "published": "2026-11-26T18:36:59Z",
+      "summary": "The writer describes managing holiday cooking, work and home responsibilities, while finding limited time for gaming, writing, and a new caster-focused FFXIV character."
+    },
+    {
+      "blog_title": "Inventory Full",
+      "blog_url": "https://bhagpuss.blogspot.com/",
+      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
+      "post_title": "Time Runs Out",
+      "post_url": "https://bhagpuss.blogspot.com/2026/11/time-runs-out.html",
+      "published": "2026-11-26T18:20:47Z",
+      "summary": "The writer reassesses Sylvester McCoy’s Doctor Who tenure, praising his complex performance, strong stories, and favorite serials before the show’s cancellation."
+    },
+    {
+      "blog_title": "What the Fran",
+      "blog_url": "https://francescrossley.com/",
+      "feed_url": "https://francescrossley.com/feed/",
+      "post_title": "My fifteen-minute city",
+      "post_url": "https://francescrossley.com/my-fifteen-minute-city/",
+      "published": "2026-11-26T18:00:00Z",
+      "summary": "An account maps amenities, transport choices, accessibility, and car dependence within a fifteen-minute city, comparing personal experience with that of family members."
+    },
     {
       "blog_title": "20ily April",
       "blog_url": "https://20ilyapril.wordpress.com/",
@@ -62,15 +134,6 @@
       "summary": "A YouTube creator reported removal of a Firefox link under spam policies, while a later check found it working and left the decision’s basis unclear."
     },
     {
-      "blog_title": "情報の灯台",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "YouTube、Firefox公式サイトへのリンクをスパム規約違反として削除したとの報告",
-      "post_url": "https://joho-todai.com/youtube-removes-firefox-official-link-spam-violation/",
-      "published": "2026-11-26T15:10:34Z",
-      "summary": "A YouTube video about reducing reliance on Google reportedly had its Firefox website link removed for spam-related policy violations, then restored or accessible the next day."
-    },
-    {
       "blog_title": "Alligators and aneurysms!",
       "blog_url": "https://alligatorsandaneurysms.wordpress.com/",
       "feed_url": "http://alligatorsandaneurysms.wordpress.com/feed/",
@@ -123,69 +186,6 @@
       "post_url": "https://michaelharley.net/links/2026/11/26/1password-confirms-security-breach-customer-account-data-stolen/",
       "published": "2026-11-26T12:57:29Z",
       "summary": "A repost reports that 1Password confirmed a security breach involving the theft of customer account data."
-    },
-    {
-      "blog_title": "Pretend Typewriter",
-      "blog_url": "https://pretendtypewriter.net/",
-      "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "note - re: it's called freefall",
-      "post_url": "https://pretendtypewriter.net/note-re-its-called-freefall/",
-      "published": "2026-11-26T12:49:00Z",
-      "summary": "The writer endorses Rainbow Kitten Surprise’s song “Freefall,” notes its persistent earworm quality, and offers a different, more sinister interpretation of its meaning."
-    },
-    {
-      "blog_title": "NomadWarMachine",
-      "blog_url": "https://nomadwarmachine.co.uk/",
-      "feed_url": "https://nomadwarmachine.co.uk/feed/",
-      "post_title": "Ode on a Cup of Tea",
-      "post_url": "https://nomadwarmachine.co.uk/2026/11/26/ode-on-a-cup-of-tea/",
-      "published": "2026-11-26T11:48:15Z",
-      "summary": null
-    },
-    {
-      "blog_title": "Peterson Reviews",
-      "blog_url": "https://petersonreviews.com/",
-      "feed_url": "https://petersonreviews.com/feed/",
-      "post_title": "The Sneaky Darkness of ‘Housekeeping’",
-      "post_url": "https://petersonreviews.com/2026/11/26/housekeeping-1987-movie-review/",
-      "published": "2026-11-26T08:00:00Z",
-      "summary": "The review examines Bill Forsyth’s Housekeeping, focusing on Sylvie’s maladjustment, Ruthie and Lucille’s strained bond, and the film’s unsettlingly sympathetic portrayal of family dysfunction."
-    },
-    {
-      "blog_title": "Rishi Dass",
-      "blog_url": "https://rishidass.net",
-      "feed_url": "https://rishidass.net/posts_feed",
-      "post_title": "Diverge and converge",
-      "post_url": "https://rishidass.net/posts/diverge-and-converge",
-      "published": "2026-11-26T06:21:54Z",
-      "summary": "Rishi Dass explains using divergence to capture tasks before convergence to prioritize and sequence them, comparing the process with tasting gelato, filmmaking, and writing."
-    },
-    {
-      "blog_title": "Cynni’s Blog",
-      "blog_url": "https://cynnisblog.wordpress.com/",
-      "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "Thursday TV-series Quote",
-      "post_url": "https://cynnisblog.wordpress.com/2026/11/26/thursday-tv-series-quote/",
-      "published": "2026-11-26T06:00:00Z",
-      "summary": "A Thursday TV-series quote from Revenge features Emily Thorne reflecting on the difficulty of trusting others, following the wrong people, and trusting oneself."
-    },
-    {
-      "blog_title": "Joelchrono's blog",
-      "blog_url": "https://joelchrono.xyz/",
-      "feed_url": "https://joelchrono.xyz/feed.xml",
-      "post_title": "Back to Breath of the Wild",
-      "post_url": "https://joelchrono.xyz/blog/back-to-botw/",
-      "published": "2026-11-26T04:30:00Z",
-      "summary": "Joelchrono recounts returning to The Legend of Zelda: Breath of the Wild, exploring Hyrule, completing quests and memories, using new features, and preparing to face Ganon."
-    },
-    {
-      "blog_title": "Noisy Deadlines",
-      "blog_url": "https://noisydeadlines.net/",
-      "feed_url": "https://noisydeadlines.net/feed/",
-      "post_title": "Knowember 2026",
-      "post_url": "https://noisydeadlines.net/knowember-2026?pk_campaign=rss-feed",
-      "published": "2026-11-26T02:49:37Z",
-      "summary": "Ariadne introduces her blog for the Knowember 2026 challenge, sharing her name’s mythology, life in Ottawa, hiking in Québec, and writing about reading and everyday interests."
     }
   ]
 }
