@@ -1,17 +1,113 @@
 {
-  "generated_at": "2026-11-27T17:27:17.474200Z",
+  "generated_at": "2026-11-28T01:58:37.448646Z",
   "feed_count": 358,
   "successful_feeds": 330,
   "failed_feeds": 28,
   "post_count": 20,
   "posts": [
     {
+      "blog_title": "情報の灯台",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/pinterest-rss/",
+      "post_title": "Intelのディスプレイ仮想化ドライバー更新、対応プラットフォームにRaptor Lake-S NEXTを追加",
+      "post_url": "https://joho-todai.com/intel-display-virtualization-driver-raptor-lake-s-next/",
+      "published": "2026-11-28T01:57:41Z"
+    },
+    {
+      "blog_title": "The Nosy Gamer",
+      "blog_url": "https://nosygamer.blogspot.com/",
+      "feed_url": "https://nosygamer.blogspot.com/feeds/posts/default",
+      "post_title": "Cloud Imperium Held A Disappointing Ship Sale For Star Citizen",
+      "post_url": "https://nosygamer.blogspot.com/2026/11/cloud-imperium-held-disappointing-ship.html",
+      "published": "2026-11-28T01:30:00Z"
+    },
+    {
+      "blog_title": "Michael Harley",
+      "blog_url": "https://michaelharley.net",
+      "feed_url": "https://obsolete29.com/feed/feed.xml",
+      "post_title": "Time (2021) — ⭐⭐⭐ (3/5)",
+      "post_url": "https://michaelharley.net/watching/2026/11/27/time-s1/",
+      "published": "2026-11-28T01:08:39Z"
+    },
+    {
+      "blog_title": "The Capsule Critic",
+      "blog_url": "https://thecapsulecritic.com/blog/",
+      "feed_url": "https://thecapsulecritic.com/feed/",
+      "post_title": "THE OTHER (1972): Still Has The Power To Disturb After 50 Years",
+      "post_url": "https://thecapsulecritic.com/2026/11/27/the-other-1972-still-has-the-power-to-disturb-after-50-years/",
+      "published": "2026-11-28T00:01:59Z"
+    },
+    {
       "blog_title": "Pretend Typewriter",
       "blog_url": "https://pretendtypewriter.net/",
       "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "note - omw to see ptm",
-      "post_url": "https://pretendtypewriter.net/note-omw-to-see-ptm/",
-      "published": "2026-11-27T17:20:05Z"
+      "post_title": "note - nonbinary dinner",
+      "post_url": "https://pretendtypewriter.net/note-nonbinary-dinner/",
+      "published": "2026-11-27T23:13:46Z"
+    },
+    {
+      "blog_title": "Aywren's Nook",
+      "blog_url": "https://www.aywren.com/",
+      "feed_url": "https://aywren.com/feed.xml",
+      "post_title": "Giving Thanks IRL: A New Job",
+      "post_url": "https://aywren.com/2026/11/26/giving-thanks-irl-a-new-job",
+      "published": "2026-11-27T22:53:46Z"
+    },
+    {
+      "blog_title": "Sal's Blog",
+      "blog_url": "https://sals.place/",
+      "feed_url": "https://sals.place/feed/",
+      "post_title": "Superlogical Rex",
+      "post_url": "https://sals.place/blog/superlogical-rex/",
+      "published": "2026-11-27T21:51:25Z"
+    },
+    {
+      "blog_title": "An Archaeopteryx",
+      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
+      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
+      "post_title": "2026 Week 48 Digest",
+      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-11-27-week-48-digest/",
+      "published": "2026-11-27T20:17:00Z"
+    },
+    {
+      "blog_title": "Inventory Full",
+      "blog_url": "https://bhagpuss.blogspot.com/",
+      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
+      "post_title": "Design Notes",
+      "post_url": "https://bhagpuss.blogspot.com/2026/11/design-notes.html",
+      "published": "2026-11-27T20:14:24Z"
+    },
+    {
+      "blog_title": "Kay Talks Games",
+      "blog_url": "https://kaytalksgames.wordpress.com/",
+      "feed_url": "https://kaytalksgames.wordpress.com/feed/",
+      "post_title": "Star Fox on Switch 2 is Arcadey Fun",
+      "post_url": "https://kaytalksgames.wordpress.com/2026/11/27/star-fox-on-switch-2-is-arcadey-fun/",
+      "published": "2026-11-27T20:10:31Z"
+    },
+    {
+      "blog_title": "Robert Birming",
+      "blog_url": "https://birming.com/",
+      "feed_url": "https://birming.com/feed/",
+      "post_title": "The tempo",
+      "post_url": "https://birming.com/posts/the-tempo",
+      "published": "2026-11-27T18:33:16Z"
+    },
+    {
+      "blog_title": "What the Fran",
+      "blog_url": "https://francescrossley.com/",
+      "feed_url": "https://francescrossley.com/feed/",
+      "post_title": "Links: Places, making things, recent rabbit holes",
+      "post_url": "https://francescrossley.com/links-places-making-things-recent-rabbit-holes/",
+      "published": "2026-11-27T18:00:00Z"
+    },
+    {
+      "blog_title": "The Digital Antiquarian",
+      "blog_url": "https://www.filfre.net/",
+      "feed_url": "https://www.filfre.net/feed/",
+      "post_title": "This Week on The Analog Antiquarian",
+      "post_url": "https://www.filfre.net/2026/11/this-week-on-the-analog-antiquarian/",
+      "published": "2026-11-27T17:46:58Z"
     },
     {
       "blog_title": "Endgame Viable",
@@ -38,12 +134,12 @@
       "published": "2026-11-27T17:00:00Z"
     },
     {
-      "blog_title": "Robert Birming",
-      "blog_url": "https://birming.com/",
-      "feed_url": "https://birming.com/feed/",
-      "post_title": "Home is where the heart is...",
-      "post_url": "https://birming.com/posts/2026-11-27-home-is-where-the",
-      "published": "2026-11-27T16:21:07Z"
+      "blog_title": "The Ancient Gaming Noob",
+      "blog_url": "https://tagn.wordpress.com/",
+      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
+      "post_title": "A Bit of GTA6 FOMO",
+      "post_url": "https://tagn.wordpress.com/2026/11/27/a-bit-of-gta6-fomo/",
+      "published": "2026-11-27T16:15:48Z"
     },
     {
       "blog_title": "Taxodium",
@@ -68,102 +164,6 @@
       "post_title": "A Peek at Hutch OS",
       "post_url": "https://tobygeeksout.micro.blog/2026/11/27/a-peek-at-hutch-os.html",
       "published": "2026-11-27T15:45:04Z"
-    },
-    {
-      "blog_title": "Mutant Reviewers",
-      "blog_url": "https://mutantreviewersmovies.com",
-      "feed_url": "https://mutantreviewersmovies.com/feed/",
-      "post_title": "The Cat from Outer Space (1978) — Not all aliens walk on two legs",
-      "post_url": "https://mutantreviewersmovies.com/2026/11/27/the-cat-from-outer-space-1978-not-all-aliens-walk-on-two-legs/",
-      "published": "2026-11-27T13:00:06Z"
-    },
-    {
-      "blog_title": "Monsterlady's Diary",
-      "blog_url": "https://monsterladysdiary.wordpress.com/",
-      "feed_url": "https://monsterladysdiary.wordpress.com/feed/",
-      "post_title": "Marvel’s Guardians of the Galaxy – Guardians vs. Cult of Illusions",
-      "post_url": "https://monsterladysdiary.wordpress.com/2026/11/27/marvels-guardians-of-the-galaxy-guardians-vs-cult-of-illusions/",
-      "published": "2026-11-27T13:00:00Z"
-    },
-    {
-      "blog_title": "Joho Todai (English)",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/en/rss/",
-      "post_title": "UK Work and Pensions Department Takes Some Services Offline After Cyber Incident: Benefit and Pension Payments Continue",
-      "post_url": "https://joho-todai.com/en/uk-employment-pensions-cyber-incident-services-disrupted/",
-      "published": "2026-11-27T12:19:36Z"
-    },
-    {
-      "blog_title": "情報の灯台",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "英国雇用年金省、サイバーインシデントで一部サービス停止。通常の給付金・年金は支払い継続へ",
-      "post_url": "https://joho-todai.com/uk-employment-pensions-cyber-incident-services-disrupted/",
-      "published": "2026-11-27T12:19:36Z"
-    },
-    {
-      "blog_title": "NomadWarMachine",
-      "blog_url": "https://nomadwarmachine.co.uk/",
-      "feed_url": "https://nomadwarmachine.co.uk/feed/",
-      "post_title": "Contours",
-      "post_url": "https://nomadwarmachine.co.uk/2026/11/27/contours/",
-      "published": "2026-11-27T10:57:07Z"
-    },
-    {
-      "blog_title": "Tobold's Blog",
-      "blog_url": "http://tobolds.blogspot.com/",
-      "feed_url": "http://feeds2.feedburner.com/ToboldsBlog",
-      "post_title": "Winning an election by lack of choice",
-      "post_url": "http://tobolds.blogspot.com/2026/11/winning-election-by-lack-of-choice.html",
-      "published": "2026-11-27T08:44:32Z"
-    },
-    {
-      "blog_title": "MMORPG Blog",
-      "blog_url": "https://mmoblogg.wordpress.com",
-      "feed_url": "https://mmoblogg.wordpress.com/feed/",
-      "post_title": "King’s Gondor II",
-      "post_url": "https://mmoblogg.wordpress.com/2026/11/27/kings-gondor-ii/",
-      "published": "2026-11-27T06:41:01Z"
-    },
-    {
-      "blog_title": "Cynni’s Blog",
-      "blog_url": "https://cynnisblog.wordpress.com/",
-      "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "Letting go of guilt 😢",
-      "post_url": "https://cynnisblog.wordpress.com/2026/11/27/letting-go-of-guilt-%f0%9f%98%a2/",
-      "published": "2026-11-27T06:00:38Z"
-    },
-    {
-      "blog_title": "Rishi Dass",
-      "blog_url": "https://rishidass.net",
-      "feed_url": "https://rishidass.net/posts_feed",
-      "post_title": "Everything is bonus",
-      "post_url": "https://rishidass.net/posts/everything-is-bonus",
-      "published": "2026-11-27T05:46:00Z"
-    },
-    {
-      "blog_title": "Nosrednayduj's Blog",
-      "blog_url": "https://nosrednayduj.dreamwidth.org/",
-      "feed_url": "https://nosrednayduj.dreamwidth.org/data/rss",
-      "post_title": "Another Thanksgiving dinner that couldn't be beat",
-      "post_url": "https://nosrednayduj.dreamwidth.org/192130.html",
-      "published": "2026-11-27T03:58:56Z"
-    },
-    {
-      "blog_title": "An Archaeopteryx",
-      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
-      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
-      "post_title": "Shin Megami Tensei V: Vengeance - Mitatebashi 151h23",
-      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-11-26-smtvv/",
-      "published": "2026-11-27T03:47:37Z"
-    },
-    {
-      "blog_title": "82MHz",
-      "blog_url": "http://82mhz.net/posts/",
-      "feed_url": "http://82mhz.net/index.xml",
-      "post_title": "Linkdump No 135",
-      "post_url": "http://82mhz.net/posts/2026/11/linkdump-no-135/",
-      "published": "2026-11-27T00:00:00Z"
     }
   ]
 }

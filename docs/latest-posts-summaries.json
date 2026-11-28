@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27T17:27:52.517573Z",
-  "source_generated_at": "2026-11-27T17:27:17.474200Z",
+  "generated_at": "2026-11-28T01:59:13.169075Z",
+  "source_generated_at": "2026-11-28T01:58:37.448646Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
@@ -8,13 +8,121 @@
   "summary_count": 19,
   "posts": [
     {
+      "blog_title": "情報の灯台",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/pinterest-rss/",
+      "post_title": "Intelのディスプレイ仮想化ドライバー更新、対応プラットフォームにRaptor Lake-S NEXTを追加",
+      "post_url": "https://joho-todai.com/intel-display-virtualization-driver-raptor-lake-s-next/",
+      "published": "2026-11-28T01:57:41Z",
+      "summary": null
+    },
+    {
+      "blog_title": "The Nosy Gamer",
+      "blog_url": "https://nosygamer.blogspot.com/",
+      "feed_url": "https://nosygamer.blogspot.com/feeds/posts/default",
+      "post_title": "Cloud Imperium Held A Disappointing Ship Sale For Star Citizen",
+      "post_url": "https://nosygamer.blogspot.com/2026/11/cloud-imperium-held-disappointing-ship.html",
+      "published": "2026-11-28T01:30:00Z",
+      "summary": "Cloud Imperium’s 2026 Intergalactic Aerospace Expo generated $27.9 million, down 17.5% year over year, alongside sharply fewer new accounts and weakening online-shop sales."
+    },
+    {
+      "blog_title": "Michael Harley",
+      "blog_url": "https://michaelharley.net",
+      "feed_url": "https://obsolete29.com/feed/feed.xml",
+      "post_title": "Time (2021) — ⭐⭐⭐ (3/5)",
+      "post_url": "https://michaelharley.net/watching/2026/11/27/time-s1/",
+      "published": "2026-11-28T01:08:39Z",
+      "summary": "Michael Harley rates the first season of Time three out of five stars, describing its drama and crime themes of guilt, violence, survival, and difficult choices."
+    },
+    {
+      "blog_title": "The Capsule Critic",
+      "blog_url": "https://thecapsulecritic.com/blog/",
+      "feed_url": "https://thecapsulecritic.com/feed/",
+      "post_title": "THE OTHER (1972): Still Has The Power To Disturb After 50 Years",
+      "post_url": "https://thecapsulecritic.com/2026/11/27/the-other-1972-still-has-the-power-to-disturb-after-50-years/",
+      "published": "2026-11-28T00:01:59Z",
+      "summary": "Robert Mulligan’s 1972 psychological horror film The Other follows twins Niles and Holland amid suspicious deaths on a 1935 Connecticut farm, featuring Uta Hagen’s intense performance."
+    },
+    {
       "blog_title": "Pretend Typewriter",
       "blog_url": "https://pretendtypewriter.net/",
       "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "note - omw to see ptm",
-      "post_url": "https://pretendtypewriter.net/note-omw-to-see-ptm/",
-      "published": "2026-11-27T17:20:05Z",
-      "summary": "A brief note records traveling to see the writer’s favorite band, arriving early at the station to secure a seat."
+      "post_title": "note - nonbinary dinner",
+      "post_url": "https://pretendtypewriter.net/note-nonbinary-dinner/",
+      "published": "2026-11-27T23:13:46Z",
+      "summary": "A November 2026 note mentions attending a nonbinary dinner and show, bringing something appreciated, taking photographs, skipping merchandise, and planning a later account."
+    },
+    {
+      "blog_title": "Aywren's Nook",
+      "blog_url": "https://www.aywren.com/",
+      "feed_url": "https://aywren.com/feed.xml",
+      "post_title": "Giving Thanks IRL: A New Job",
+      "post_url": "https://aywren.com/2026/11/26/giving-thanks-irl-a-new-job",
+      "published": "2026-11-27T22:53:46Z",
+      "summary": "Aywren celebrates securing a contract news editor position, explains its benefits and challenges, and describes adjusting creative projects and future plans around work."
+    },
+    {
+      "blog_title": "Sal's Blog",
+      "blog_url": "https://sals.place/",
+      "feed_url": "https://sals.place/feed/",
+      "post_title": "Superlogical Rex",
+      "post_url": "https://sals.place/blog/superlogical-rex/",
+      "published": "2026-11-27T21:51:25Z",
+      "summary": "Sal’s Blog reviews Rex, Superlogical’s native terminal multiplexer, highlighting remote-session reconnection, macOS controls, agent notifications, improved pane interaction, and iPad availability."
+    },
+    {
+      "blog_title": "An Archaeopteryx",
+      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
+      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
+      "post_title": "2026 Week 48 Digest",
+      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-11-27-week-48-digest/",
+      "published": "2026-11-27T20:17:00Z",
+      "summary": "A weekly digest covers recovering from illness, family plans, Gladys Mitchell novels, reality television, new music, video games, and cleaning computer hardware."
+    },
+    {
+      "blog_title": "Inventory Full",
+      "blog_url": "https://bhagpuss.blogspot.com/",
+      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
+      "post_title": "Design Notes",
+      "post_url": "https://bhagpuss.blogspot.com/2026/11/design-notes.html",
+      "published": "2026-11-27T20:14:24Z",
+      "summary": "The post examines Tidal’s ban on fully AI-generated music, Suno’s ecosystem and restrictions, and efforts to organize thousands of personal AI-composed songs onto CDs."
+    },
+    {
+      "blog_title": "Kay Talks Games",
+      "blog_url": "https://kaytalksgames.wordpress.com/",
+      "feed_url": "https://kaytalksgames.wordpress.com/feed/",
+      "post_title": "Star Fox on Switch 2 is Arcadey Fun",
+      "post_url": "https://kaytalksgames.wordpress.com/2026/11/27/star-fox-on-switch-2-is-arcadey-fun/",
+      "published": "2026-11-27T20:10:31Z",
+      "summary": "Star Fox on Switch 2 remakes Star Fox 64 with updated visuals, branching paths, expanded cutscenes, challenge content, online modes, and quirky campaign co-op."
+    },
+    {
+      "blog_title": "Robert Birming",
+      "blog_url": "https://birming.com/",
+      "feed_url": "https://birming.com/feed/",
+      "post_title": "The tempo",
+      "post_url": "https://birming.com/posts/the-tempo",
+      "published": "2026-11-27T18:33:16Z",
+      "summary": "Robert Birming reflects on the calm tempo of residents in a 55+ housing cooperative and wonders whether aging encourages appreciating the present over constant rushing."
+    },
+    {
+      "blog_title": "What the Fran",
+      "blog_url": "https://francescrossley.com/",
+      "feed_url": "https://francescrossley.com/feed/",
+      "post_title": "Links: Places, making things, recent rabbit holes",
+      "post_url": "https://francescrossley.com/links-places-making-things-recent-rabbit-holes/",
+      "published": "2026-11-27T18:00:00Z",
+      "summary": "Fran’s link roundup explores independent web culture, local places, creativity, books, making things, dilettantism, travel, street furniture, games, and personal writing."
+    },
+    {
+      "blog_title": "The Digital Antiquarian",
+      "blog_url": "https://www.filfre.net/",
+      "feed_url": "https://www.filfre.net/feed/",
+      "post_title": "This Week on The Analog Antiquarian",
+      "post_url": "https://www.filfre.net/2026/11/this-week-on-the-analog-antiquarian/",
+      "published": "2026-11-27T17:46:58Z",
+      "summary": "The page announces “Opus 7: Titus Andronicus,” published November 13, 2026, on The Digital Antiquarian."
     },
     {
       "blog_title": "Endgame Viable",
@@ -44,13 +152,13 @@
       "summary": "A nearly homebound Halloween vacation involved caring for an ill wife and simulating the Rams’ undefeated Madden 26 season to lift spirits."
     },
     {
-      "blog_title": "Robert Birming",
-      "blog_url": "https://birming.com/",
-      "feed_url": "https://birming.com/feed/",
-      "post_title": "Home is where the heart is...",
-      "post_url": "https://birming.com/posts/2026-11-27-home-is-where-the",
-      "published": "2026-11-27T16:21:07Z",
-      "summary": "Robert Birming describes Stockholm as home and notes that his neighborhood brightens each year around Christmas."
+      "blog_title": "The Ancient Gaming Noob",
+      "blog_url": "https://tagn.wordpress.com/",
+      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
+      "post_title": "A Bit of GTA6 FOMO",
+      "post_url": "https://tagn.wordpress.com/2026/11/27/a-bit-of-gta6-fomo/",
+      "published": "2026-11-27T16:15:48Z",
+      "summary": "The writer considers GTA6’s cultural impact, controversy, detailed relationship mechanics, demanding life-simulation elements, and whether its launch justifies buying a console."
     },
     {
       "blog_title": "Taxodium",
@@ -78,114 +186,6 @@
       "post_url": "https://tobygeeksout.micro.blog/2026/11/27/a-peek-at-hutch-os.html",
       "published": "2026-11-27T15:45:04Z",
       "summary": "Toby Geeks Out previews Hutch OS, a phone-inspired blog theme with responsive layouts, app-like sections, time-based greetings, and a seasonal Knowember feature."
-    },
-    {
-      "blog_title": "Mutant Reviewers",
-      "blog_url": "https://mutantreviewersmovies.com",
-      "feed_url": "https://mutantreviewersmovies.com/feed/",
-      "post_title": "The Cat from Outer Space (1978) — Not all aliens walk on two legs",
-      "post_url": "https://mutantreviewersmovies.com/2026/11/27/the-cat-from-outer-space-1978-not-all-aliens-walk-on-two-legs/",
-      "published": "2026-11-27T13:00:06Z",
-      "summary": "The Cat from Outer Space follows an intelligent alien cat and a sympathetic scientist attempting to repair a spacecraft while evading military forces, spies, and criminal complications."
-    },
-    {
-      "blog_title": "Monsterlady's Diary",
-      "blog_url": "https://monsterladysdiary.wordpress.com/",
-      "feed_url": "https://monsterladysdiary.wordpress.com/feed/",
-      "post_title": "Marvel’s Guardians of the Galaxy – Guardians vs. Cult of Illusions",
-      "post_url": "https://monsterladysdiary.wordpress.com/2026/11/27/marvels-guardians-of-the-galaxy-guardians-vs-cult-of-illusions/",
-      "published": "2026-11-27T13:00:00Z",
-      "summary": "Marvel’s Guardians of the Galaxy follows Star-Lord and his team battling the Universal Church of Truth through humorous storytelling, varied combat, choices, colourful environments, and character development."
-    },
-    {
-      "blog_title": "Joho Todai (English)",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/en/rss/",
-      "post_title": "UK Work and Pensions Department Takes Some Services Offline After Cyber Incident: Benefit and Pension Payments Continue",
-      "post_url": "https://joho-todai.com/en/uk-employment-pensions-cyber-incident-services-disrupted/",
-      "published": "2026-11-27T12:19:36Z",
-      "summary": "The UK Department for Work and Pensions took some online services offline after a cyber incident, while benefit and pension payments continued as scheduled."
-    },
-    {
-      "blog_title": "情報の灯台",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "英国雇用年金省、サイバーインシデントで一部サービス停止。通常の給付金・年金は支払い継続へ",
-      "post_url": "https://joho-todai.com/uk-employment-pensions-cyber-incident-services-disrupted/",
-      "published": "2026-11-27T12:19:36Z",
-      "summary": null
-    },
-    {
-      "blog_title": "NomadWarMachine",
-      "blog_url": "https://nomadwarmachine.co.uk/",
-      "feed_url": "https://nomadwarmachine.co.uk/feed/",
-      "post_title": "Contours",
-      "post_url": "https://nomadwarmachine.co.uk/2026/11/27/contours/",
-      "published": "2026-11-27T10:57:07Z",
-      "summary": "NomadWarMachine describes Bryan’s “contours” remix project, which transforms photos into customizable flowing weather-map bands, illustrated with a grumpy cat on stairs."
-    },
-    {
-      "blog_title": "Tobold's Blog",
-      "blog_url": "http://tobolds.blogspot.com/",
-      "feed_url": "http://feeds2.feedburner.com/ToboldsBlog",
-      "post_title": "Winning an election by lack of choice",
-      "post_url": "http://tobolds.blogspot.com/2026/11/winning-election-by-lack-of-choice.html",
-      "published": "2026-11-27T08:44:32Z",
-      "summary": "The piece compares America’s two-party system with Europe’s fragmented politics, examining protest voting, extremist movements, accountability, and uncertainty surrounding the 2028 presidential election."
-    },
-    {
-      "blog_title": "MMORPG Blog",
-      "blog_url": "https://mmoblogg.wordpress.com",
-      "feed_url": "https://mmoblogg.wordpress.com/feed/",
-      "post_title": "King’s Gondor II",
-      "post_url": "https://mmoblogg.wordpress.com/2026/11/27/kings-gondor-ii/",
-      "published": "2026-11-27T06:41:01Z",
-      "summary": "The writer evaluates Lord of the Rings Online’s King’s Gondor quests and atmosphere, then describes planning a functional Star Destroyer-style ship in Bloxd alone."
-    },
-    {
-      "blog_title": "Cynni’s Blog",
-      "blog_url": "https://cynnisblog.wordpress.com/",
-      "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "Letting go of guilt 😢",
-      "post_url": "https://cynnisblog.wordpress.com/2026/11/27/letting-go-of-guilt-%f0%9f%98%a2/",
-      "published": "2026-11-27T06:00:38Z",
-      "summary": "Cynni describes guilt and grief after delaying veterinary care for Arwen, a dog with an aggressive heart tumor, while recovering from traumatic hip surgery."
-    },
-    {
-      "blog_title": "Rishi Dass",
-      "blog_url": "https://rishidass.net",
-      "feed_url": "https://rishidass.net/posts_feed",
-      "post_title": "Everything is bonus",
-      "post_url": "https://rishidass.net/posts/everything-is-bonus",
-      "published": "2026-11-27T05:46:00Z",
-      "summary": "Rishi Dass reflects on treating life’s favorable outcomes as bonuses, continuing to act meaningfully without expectations, and finding value in participation despite disappointment."
-    },
-    {
-      "blog_title": "Nosrednayduj's Blog",
-      "blog_url": "https://nosrednayduj.dreamwidth.org/",
-      "feed_url": "https://nosrednayduj.dreamwidth.org/data/rss",
-      "post_title": "Another Thanksgiving dinner that couldn't be beat",
-      "post_url": "https://nosrednayduj.dreamwidth.org/192130.html",
-      "published": "2026-11-27T03:58:56Z",
-      "summary": "A Thanksgiving gathering for nine features turkey, vegetarian dishes, varied desserts, dietary adaptations, cooking mishaps, leftovers, and plans for soup and stir-fry."
-    },
-    {
-      "blog_title": "An Archaeopteryx",
-      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
-      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
-      "post_title": "Shin Megami Tensei V: Vengeance - Mitatebashi 151h23",
-      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-11-26-smtvv/",
-      "published": "2026-11-27T03:47:37Z",
-      "summary": "A gameplay diary recounts Shin Megami Tensei V: Vengeance progress through Shinagawa, revised self-imposed combat rules, side quests, demon encounters, and theories about Aogami’s origins."
-    },
-    {
-      "blog_title": "82MHz",
-      "blog_url": "http://82mhz.net/posts/",
-      "feed_url": "http://82mhz.net/index.xml",
-      "post_title": "Linkdump No 135",
-      "post_url": "http://82mhz.net/posts/2026/11/linkdump-no-135/",
-      "published": "2026-11-27T00:00:00Z",
-      "summary": "Linkdump No 135 describes Nuremberg’s Christmas market and gingerbread traditions, alongside links about ESP microcontrollers transmitting radio signals and the Slopstrap website."
     }
   ]
 }
