@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-28T16:09:52.433943Z",
-  "blog_count": 360,
+  "generated_at": "2026-11-28T16:39:35.304415Z",
+  "blog_count": 362,
   "other_language_count": 10,
   "blogs": [
     {
@@ -1556,6 +1556,14 @@
       "initial": "M"
     },
     {
+      "name": "MMOList",
+      "site_url": "https://mmolist.com/",
+      "feed_url": "https://mmolist.com/feed/",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "M"
+    },
+    {
       "name": "MMORPG Blog",
       "site_url": "https://mmoblogg.wordpress.com",
       "feed_url": "https://mmoblogg.wordpress.com/feed/",
@@ -1895,6 +1903,14 @@
       "name": "Paseo Baggage",
       "site_url": "https://paseobaggage.bearblog.dev/",
       "feed_url": "https://paseobaggage.bearblog.dev/feed/",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "P"
+    },
+    {
+      "name": "Paul Haedo",
+      "site_url": "https://paulhaedo.com",
+      "feed_url": "https://paulhaedo.com/editorial-feed.xml",
       "language": "Unspecified",
       "directory_group": "alphabetical",
       "initial": "P"

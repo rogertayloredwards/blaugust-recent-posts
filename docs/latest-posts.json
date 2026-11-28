@@ -1,10 +1,18 @@
 {
-  "generated_at": "2026-11-28T16:09:52.433943Z",
-  "feed_count": 358,
-  "successful_feeds": 330,
-  "failed_feeds": 28,
+  "generated_at": "2026-11-28T16:39:35.304415Z",
+  "feed_count": 360,
+  "successful_feeds": 319,
+  "failed_feeds": 41,
   "post_count": 20,
   "posts": [
+    {
+      "blog_title": "Toby Geeks Out",
+      "blog_url": "https://tobygeeksout.micro.blog/",
+      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
+      "post_title": "Word Nerd Alert: Begrudge",
+      "post_url": "https://tobygeeksout.micro.blog/2026/11/28/word-nerd-alert-begrudge.html",
+      "published": "2026-11-28T16:35:21Z"
+    },
     {
       "blog_title": "Pretend Typewriter",
       "blog_url": "https://pretendtypewriter.net/",
@@ -38,12 +46,12 @@
       "published": "2026-11-28T15:15:33Z"
     },
     {
-      "blog_title": "Toby Geeks Out",
-      "blog_url": "https://tobygeeksout.micro.blog/",
-      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
-      "post_title": "On This Day: Soldiers in the Juniper",
-      "post_url": "https://tobygeeksout.micro.blog/2026/11/28/on-this-day-soldiers-in.html",
-      "published": "2026-11-28T14:45:00Z"
+      "blog_title": "X2600",
+      "blog_url": "https://write.as/blog-x2600/",
+      "feed_url": "https://write.as/blog-x2600/feed/",
+      "post_title": "vapor blanket and frosty caffeine",
+      "post_url": "https://write.as/blog-x2600/vapor-blanket-and-frosty-caffeine?pk_campaign=rss-feed",
+      "published": "2026-11-28T14:38:13Z"
     },
     {
       "blog_title": "TGLG",
@@ -156,14 +164,6 @@
       "post_title": "Time (2026) — ⭐⭐⭐ (3/5)",
       "post_url": "https://michaelharley.net/watching/2026/11/27/time-s3/",
       "published": "2026-11-28T01:08:39Z"
-    },
-    {
-      "blog_title": "The Capsule Critic",
-      "blog_url": "https://thecapsulecritic.com/blog/",
-      "feed_url": "https://thecapsulecritic.com/feed/",
-      "post_title": "THE OTHER (1972): Still Has The Power To Disturb After 50 Years",
-      "post_url": "https://thecapsulecritic.com/2026/11/27/the-other-1972-still-has-the-power-to-disturb-after-50-years/",
-      "published": "2026-11-28T00:01:59Z"
     }
   ]
 }

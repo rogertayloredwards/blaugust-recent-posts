@@ -1,12 +1,21 @@
 {
-  "generated_at": "2026-11-28T16:10:19.824090Z",
-  "source_generated_at": "2026-11-28T16:09:52.433943Z",
+  "generated_at": "2026-11-28T16:39:59.093563Z",
+  "source_generated_at": "2026-11-28T16:39:35.304415Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
   "post_count": 20,
   "summary_count": 20,
   "posts": [
+    {
+      "blog_title": "Toby Geeks Out",
+      "blog_url": "https://tobygeeksout.micro.blog/",
+      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
+      "post_title": "Word Nerd Alert: Begrudge",
+      "post_url": "https://tobygeeksout.micro.blog/2026/11/28/word-nerd-alert-begrudge.html",
+      "published": "2026-11-28T16:35:21Z",
+      "summary": "A word-of-the-day entry defines “begrudge,” tracing its Middle English roots, meanings, related and opposing terms, first known use, and American Sign Language sign."
+    },
     {
       "blog_title": "Pretend Typewriter",
       "blog_url": "https://pretendtypewriter.net/",
@@ -44,13 +53,13 @@
       "summary": "Razor Lake-S desktop CPUs reportedly feature 120MB bLLC on a 12-P-core die and 144MB on an 8-P-core plus 16-E-core configuration."
     },
     {
-      "blog_title": "Toby Geeks Out",
-      "blog_url": "https://tobygeeksout.micro.blog/",
-      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
-      "post_title": "On This Day: Soldiers in the Juniper",
-      "post_url": "https://tobygeeksout.micro.blog/2026/11/28/on-this-day-soldiers-in.html",
-      "published": "2026-11-28T14:45:00Z",
-      "summary": "A photograph taken seven years earlier shows steel soldier statues in ponchos walking through juniper at Washington, DC’s Korean War Veterans Memorial."
+      "blog_title": "X2600",
+      "blog_url": "https://write.as/blog-x2600/",
+      "feed_url": "https://write.as/blog-x2600/feed/",
+      "post_title": "vapor blanket and frosty caffeine",
+      "post_url": "https://write.as/blog-x2600/vapor-blanket-and-frosty-caffeine?pk_campaign=rss-feed",
+      "published": "2026-11-28T14:38:13Z",
+      "summary": "A cemetery scene describes coffee, tobacco smoke, body heat, sunshine, and vapor rising from an ice-crusted blanket amid chilled air."
     },
     {
       "blog_title": "TGLG",
@@ -177,15 +186,6 @@
       "post_url": "https://michaelharley.net/watching/2026/11/27/time-s3/",
       "published": "2026-11-28T01:08:39Z",
       "summary": "Michael Harley rates the third season of Time three out of five stars, calling it his least favorite while praising its conclusion."
-    },
-    {
-      "blog_title": "The Capsule Critic",
-      "blog_url": "https://thecapsulecritic.com/blog/",
-      "feed_url": "https://thecapsulecritic.com/feed/",
-      "post_title": "THE OTHER (1972): Still Has The Power To Disturb After 50 Years",
-      "post_url": "https://thecapsulecritic.com/2026/11/27/the-other-1972-still-has-the-power-to-disturb-after-50-years/",
-      "published": "2026-11-28T00:01:59Z",
-      "summary": "Robert Mulligan’s 1972 psychological horror film The Other follows twins Niles and Holland amid suspicious deaths on a 1935 Connecticut farm, featuring Uta Hagen’s intense performance."
     }
   ]
 }

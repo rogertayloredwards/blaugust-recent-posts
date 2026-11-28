@@ -35782,5 +35782,33 @@
     "source_kind": "page",
     "input_tokens": 424,
     "output_tokens": 30
+  },
+  "https://tobygeeksout.micro.blog/2026/11/28/word-nerd-alert-begrudge.html": {
+    "post_url": "https://tobygeeksout.micro.blog/2026/11/28/word-nerd-alert-begrudge.html",
+    "post_title": "Word Nerd Alert: Begrudge",
+    "blog_title": "Toby Geeks Out",
+    "summary": "A word-of-the-day entry defines “begrudge,” tracing its Middle English roots, meanings, related and opposing terms, first known use, and American Sign Language sign.",
+    "provider": "openai",
+    "model": "gpt-5.6-luna",
+    "prompt_version": "2026-09-13-v2",
+    "created_at": "2026-11-28T16:39:59.093563Z",
+    "source_chars": 885,
+    "source_kind": "page",
+    "input_tokens": 513,
+    "output_tokens": 38
+  },
+  "https://write.as/blog-x2600/vapor-blanket-and-frosty-caffeine?pk_campaign=rss-feed": {
+    "post_url": "https://write.as/blog-x2600/vapor-blanket-and-frosty-caffeine?pk_campaign=rss-feed",
+    "post_title": "vapor blanket and frosty caffeine",
+    "blog_title": "X2600",
+    "summary": "A cemetery scene describes coffee, tobacco smoke, body heat, sunshine, and vapor rising from an ice-crusted blanket amid chilled air.",
+    "provider": "openai",
+    "model": "gpt-5.6-luna",
+    "prompt_version": "2026-09-13-v2",
+    "created_at": "2026-11-28T16:39:59.093563Z",
+    "source_chars": 335,
+    "source_kind": "page",
+    "input_tokens": 351,
+    "output_tokens": 31
   }
 }
